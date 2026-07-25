@@ -1,0 +1,5392 @@
+[
+  {
+    "term": "boredom",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ tedious द्वारा बोर होने की भावना",
+    "definition": "the feeling of being bored by something tedious",
+    "example": ""
+  },
+  {
+    "term": "terrified",
+    "partOfSpeech": "verb",
+    "hindi": "आतंकी; भयंकर",
+    "definition": "fill with terror; frighten greatly",
+    "example": ""
+  },
+  {
+    "term": "envy",
+    "partOfSpeech": "noun",
+    "hindi": "प्रशंसा की भावना और इच्छा कुछ ऐसा करने की इच्छा जो किसी अन्य के पास है",
+    "definition": "a feeling of grudging admiration and desire to have something that is possessed by another",
+    "example": ""
+  },
+  {
+    "term": "fervid",
+    "partOfSpeech": "adjective",
+    "hindi": "तीव्र भावना की विशेषता",
+    "definition": "characterized by intense emotion",
+    "example": "ardent love"
+  },
+  {
+    "term": "tiresome",
+    "partOfSpeech": "adjective",
+    "hindi": "इसलिए मानसिक थकान के कारण रुचि में कमी; ; ; ; ; ; - एडमंड बर्क; - मार्क ट्वेन",
+    "definition": "so lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain",
+    "example": "a boring evening with uninteresting people"
+  },
+  {
+    "term": "surprise",
+    "partOfSpeech": "noun",
+    "hindi": "आपको लगता है कि जब कुछ पूरी तरह से अप्रत्याशित आप के लिए होता है",
+    "definition": "the astonishment you feel when something totally unexpected happens to you",
+    "example": ""
+  },
+  {
+    "term": "passionate",
+    "partOfSpeech": "adjective",
+    "hindi": "मजबूत भावनाओं को व्यक्त करना या व्यक्त करना",
+    "definition": "having or expressing strong emotions",
+    "example": ""
+  },
+  {
+    "term": "commiserate",
+    "partOfSpeech": "verb",
+    "hindi": "सहानुभूति या करुणा को महसूस या व्यक्त करना",
+    "definition": "to feel or express sympathy or compassion",
+    "example": ""
+  },
+  {
+    "term": "dignify",
+    "partOfSpeech": "verb",
+    "hindi": "सम्मान",
+    "definition": "confer dignity or honor upon",
+    "example": "He was dignified with a title"
+  },
+  {
+    "term": "apprehension",
+    "partOfSpeech": "noun",
+    "hindi": "भयभीत उम्मीद या प्रत्याशा",
+    "definition": "fearful expectation or anticipation",
+    "example": "the student looked around the examination room with apprehension"
+  },
+  {
+    "term": "joyous",
+    "partOfSpeech": "adjective",
+    "hindi": "खुशी से पूर्ण या विशेषता",
+    "definition": "full of or characterized by joy",
+    "example": "felt a joyous abandon"
+  },
+  {
+    "term": "bitterness",
+    "partOfSpeech": "noun",
+    "hindi": "गहरे और कड़वे क्रोध और अवैध इच्छा की भावना",
+    "definition": "a feeling of deep and bitter anger and ill-will",
+    "example": ""
+  },
+  {
+    "term": "sensuousness",
+    "partOfSpeech": "noun",
+    "hindi": "एक संवेदनशील भावना",
+    "definition": "a sensuous feeling",
+    "example": ""
+  },
+  {
+    "term": "dread",
+    "partOfSpeech": "noun",
+    "hindi": "भयभीत उम्मीद या प्रत्याशा",
+    "definition": "fearful expectation or anticipation",
+    "example": "the student looked around the examination room with apprehension"
+  },
+  {
+    "term": "pang",
+    "partOfSpeech": "noun",
+    "hindi": "अचानक तेज भावना",
+    "definition": "a sudden sharp feeling",
+    "example": "pangs of regret"
+  },
+  {
+    "term": "languid",
+    "partOfSpeech": "adjective",
+    "hindi": "आत्मा या जीवनशैली की कमी",
+    "definition": "lacking spirit or liveliness",
+    "example": "a lackadaisical attempt"
+  },
+  {
+    "term": "affectionate",
+    "partOfSpeech": "adjective",
+    "hindi": "गर्मी या स्नेह को प्रदर्शित या प्रदर्शित करना",
+    "definition": "having or displaying warmth or affection",
+    "example": "affectionate children"
+  },
+  {
+    "term": "tranquil",
+    "partOfSpeech": "adjective",
+    "hindi": "(पानी के शरीर) भारी तरंगों द्वारा गड़बड़ी से मुक्त",
+    "definition": "(of a body of water) free from disturbance by heavy waves",
+    "example": "a ribbon of sand between the angry sea and the placid bay"
+  },
+  {
+    "term": "gladness",
+    "partOfSpeech": "noun",
+    "hindi": "खुशी और खुशी का अनुभव",
+    "definition": "experiencing joy and pleasure",
+    "example": ""
+  },
+  {
+    "term": "insouciance",
+    "partOfSpeech": "noun",
+    "hindi": "जब आपके पास कुछ भी नहीं है, तो आपको खुशी होगी",
+    "definition": "the cheerful feeling you have when nothing is troubling you",
+    "example": ""
+  },
+  {
+    "term": "ingratitude",
+    "partOfSpeech": "noun",
+    "hindi": "आभार की कमी",
+    "definition": "a lack of gratitude",
+    "example": ""
+  },
+  {
+    "term": "depress",
+    "partOfSpeech": "verb",
+    "hindi": "किसी की आत्माओं को कम करना; दिल को कम करना",
+    "definition": "lower someone's spirits; make downhearted",
+    "example": "These news depressed her"
+  },
+  {
+    "term": "wistfulness",
+    "partOfSpeech": "noun",
+    "hindi": "एक दुखद लंबा",
+    "definition": "a sadly pensive longing",
+    "example": ""
+  },
+  {
+    "term": "heartbroken",
+    "partOfSpeech": "adjective",
+    "hindi": "दु:ख से भरा",
+    "definition": "full of sorrow",
+    "example": ""
+  },
+  {
+    "term": "uptight",
+    "partOfSpeech": "adjective",
+    "hindi": "एक सामयिक स्थिति में होना",
+    "definition": "being in a tense state",
+    "example": ""
+  },
+  {
+    "term": "irksome",
+    "partOfSpeech": "adjective",
+    "hindi": "इसलिए मानसिक थकान के कारण रुचि में कमी; ; ; ; ; ; - एडमंड बर्क; - मार्क ट्वेन",
+    "definition": "so lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain",
+    "example": "a boring evening with uninteresting people"
+  },
+  {
+    "term": "rejoice",
+    "partOfSpeech": "verb",
+    "hindi": "खुशी या खुशी महसूस करना",
+    "definition": "feel happiness or joy",
+    "example": ""
+  },
+  {
+    "term": "craving",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ विशेष चीज़ों के लिए एक गहन इच्छा",
+    "definition": "an intense desire for some particular thing",
+    "example": ""
+  },
+  {
+    "term": "outrage",
+    "partOfSpeech": "noun",
+    "hindi": "धर्मी क्रोध की भावना",
+    "definition": "a feeling of righteous anger",
+    "example": ""
+  },
+  {
+    "term": "detest",
+    "partOfSpeech": "verb",
+    "hindi": "तीव्र रूप से नापसंद; एंटीपैथी या विचलन की ओर महसूस करें",
+    "definition": "dislike intensely; feel antipathy or aversion towards",
+    "example": "I hate Mexican food"
+  },
+  {
+    "term": "rapturous",
+    "partOfSpeech": "adjective",
+    "hindi": "आकर्षक लगना",
+    "definition": "feeling great rapture or delight",
+    "example": ""
+  },
+  {
+    "term": "pacify",
+    "partOfSpeech": "verb",
+    "hindi": "अधिक अनुकूल होने का कारण बनता है; अच्छी इच्छा प्राप्त करें",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "example": "She managed to mollify the angry customer"
+  },
+  {
+    "term": "disapproval",
+    "partOfSpeech": "noun",
+    "hindi": "किसी चीज़ को छिपाने की भावना या किसी को क्या करना है",
+    "definition": "a feeling of disliking something or what someone is doing",
+    "example": ""
+  },
+  {
+    "term": "heartlessness",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों के कल्याण के लिए चिंता की अनुपस्थिति",
+    "definition": "an absence of concern for the welfare of others",
+    "example": ""
+  },
+  {
+    "term": "empathize",
+    "partOfSpeech": "verb",
+    "hindi": "समझ",
+    "definition": "be understanding of",
+    "example": "You don't need to explain--I understand!"
+  },
+  {
+    "term": "pitiless",
+    "partOfSpeech": "adjective",
+    "hindi": "दया या दया के बिना",
+    "definition": "without mercy or pity",
+    "example": "an act of ruthless ferocity"
+  },
+  {
+    "term": "inspire",
+    "partOfSpeech": "verb",
+    "hindi": "ऊंचाई या तीव्रता",
+    "definition": "heighten or intensify",
+    "example": "These paintings exalt the imagination"
+  },
+  {
+    "term": "plaintive",
+    "partOfSpeech": "adjective",
+    "hindi": "दु:ख व्यक्त करना",
+    "definition": "expressing sorrow",
+    "example": ""
+  },
+  {
+    "term": "penitence",
+    "partOfSpeech": "noun",
+    "hindi": "अपने पिछले आचरण के लिए याद रखें",
+    "definition": "remorse for your past conduct",
+    "example": ""
+  },
+  {
+    "term": "unhinge",
+    "partOfSpeech": "verb",
+    "hindi": "परेशान करना या असहज बनाना या चिंतित होना या चिंतित होना",
+    "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+    "example": "She was rather perturbed by the news that her father was seriously ill"
+  },
+  {
+    "term": "misfortunate",
+    "partOfSpeech": "adjective",
+    "hindi": "; ; ; ; ; ; ; ; ।",
+    "definition": "deserving or inciting pity; ; ; - Galsworthy",
+    "example": "a hapless victim"
+  },
+  {
+    "term": "querulous",
+    "partOfSpeech": "adjective",
+    "hindi": "आदतन शिकायत",
+    "definition": "habitually complaining",
+    "example": "a whiny child"
+  },
+  {
+    "term": "fussiness",
+    "partOfSpeech": "noun",
+    "hindi": "एक चिड़चिड़ा महसूस",
+    "definition": "an irritable petulant feeling",
+    "example": ""
+  },
+  {
+    "term": "inspirit",
+    "partOfSpeech": "verb",
+    "hindi": "आत्मा के साथ दुर्व्यवहार",
+    "definition": "infuse with spirit",
+    "example": "The company spirited him up"
+  },
+  {
+    "term": "discontentment",
+    "partOfSpeech": "noun",
+    "hindi": "वर्तमान स्थिति से बेहतर कुछ के लिए एक लंबी अवधि",
+    "definition": "a longing for something better than the present situation",
+    "example": ""
+  },
+  {
+    "term": "jealousy",
+    "partOfSpeech": "noun",
+    "hindi": "ईर्ष्या की भावना (विशेष रूप से एक प्रतिद्वंद्वी)",
+    "definition": "a feeling of jealous envy (especially of a rival)",
+    "example": ""
+  },
+  {
+    "term": "unhappiness",
+    "partOfSpeech": "noun",
+    "hindi": "जब अच्छी तरह से किया जा रहा है की स्थिति में नहीं",
+    "definition": "emotions experienced when not in a state of well-being",
+    "example": ""
+  },
+  {
+    "term": "casual",
+    "partOfSpeech": "adjective",
+    "hindi": "Unconcern द्वारा चिह्नित",
+    "definition": "marked by blithe unconcern",
+    "example": "an ability to interest casual students"
+  },
+  {
+    "term": "tetchy",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या परेशान",
+    "definition": "easily irritated or annoyed",
+    "example": "an incorrigibly fractious young man"
+  },
+  {
+    "term": "shamed",
+    "partOfSpeech": "verb",
+    "hindi": "शर्म आती है या बेईमान हो जाती है",
+    "definition": "bring shame or dishonor upon",
+    "example": "he dishonored his family by committing a serious crime"
+  },
+  {
+    "term": "languorous",
+    "partOfSpeech": "adjective",
+    "hindi": "आत्मा या जीवनशैली की कमी",
+    "definition": "lacking spirit or liveliness",
+    "example": "a lackadaisical attempt"
+  },
+  {
+    "term": "kitschy",
+    "partOfSpeech": "adjective",
+    "hindi": "भावनात्मक रूप से भावनात्मक",
+    "definition": "effusively or insincerely emotional",
+    "example": "a bathetic novel"
+  },
+  {
+    "term": "testy",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या परेशान",
+    "definition": "easily irritated or annoyed",
+    "example": "an incorrigibly fractious young man"
+  },
+  {
+    "term": "feeling",
+    "partOfSpeech": "noun",
+    "hindi": "प्रभावशाली और भावनात्मक राज्यों का अनुभव",
+    "definition": "the experiencing of affective and emotional states",
+    "example": "she had a feeling of euphoria"
+  },
+  {
+    "term": "blessedness",
+    "partOfSpeech": "noun",
+    "hindi": "सर्वोच्च सुख की स्थिति",
+    "definition": "a state of supreme happiness",
+    "example": ""
+  },
+  {
+    "term": "agonal",
+    "partOfSpeech": "adjective",
+    "hindi": "(विशेष रूप से मृत्यु पूर्व) से संबंधित या उससे संबंधित",
+    "definition": "pertaining to or associated with agony (especially death agonies)",
+    "example": ""
+  },
+  {
+    "term": "joviality",
+    "partOfSpeech": "noun",
+    "hindi": "जॉली और jovial लग रहा है और अच्छा हास्य से भरा",
+    "definition": "feeling jolly and jovial and full of good humor",
+    "example": ""
+  },
+  {
+    "term": "pensive",
+    "partOfSpeech": "adjective",
+    "hindi": "गहराई से या गंभीरता से सोचा",
+    "definition": "deeply or seriously thoughtful",
+    "example": "Byron lives on not only in his poetry, but also in his creation of the 'Byronic hero' - the persona of a brooding melancholy young man"
+  },
+  {
+    "term": "traumatize",
+    "partOfSpeech": "verb",
+    "hindi": "पर एक आघात inflict",
+    "definition": "inflict a trauma upon",
+    "example": ""
+  },
+  {
+    "term": "ecstatic",
+    "partOfSpeech": "adjective",
+    "hindi": "आकर्षक लगना",
+    "definition": "feeling great rapture or delight",
+    "example": ""
+  },
+  {
+    "term": "nostalgia",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ देर तक",
+    "definition": "longing for something past",
+    "example": ""
+  },
+  {
+    "term": "umbrage",
+    "partOfSpeech": "noun",
+    "hindi": "नाराज होने के कारण क्रोध की भावना",
+    "definition": "a feeling of anger caused by being offended",
+    "example": "he took offence at my question"
+  },
+  {
+    "term": "lightheaded",
+    "partOfSpeech": "adjective",
+    "hindi": "कमजोर और चेतना खोने की संभावना",
+    "definition": "weak and likely to lose consciousness",
+    "example": "suddenly felt faint from the pain"
+  },
+  {
+    "term": "grateful",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना या दिखावा",
+    "definition": "feeling or showing gratitude",
+    "example": "a grateful heart"
+  },
+  {
+    "term": "agonising",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "cause to agonize",
+    "example": ""
+  },
+  {
+    "term": "spitefulness",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों को देखने की जरूरत महसूस करना",
+    "definition": "feeling a need to see others suffer",
+    "example": ""
+  },
+  {
+    "term": "techy",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या परेशान",
+    "definition": "easily irritated or annoyed",
+    "example": "an incorrigibly fractious young man"
+  },
+  {
+    "term": "bashful",
+    "partOfSpeech": "adjective",
+    "hindi": "Self-consciously timid; - Ezra पाउंड",
+    "definition": "self-consciously timid; - Ezra Pound",
+    "example": "I never laughed, being bashful; lowering my head, I looked at the wall"
+  },
+  {
+    "term": "infuriate",
+    "partOfSpeech": "verb",
+    "hindi": "खूबसूरत",
+    "definition": "make furious",
+    "example": ""
+  },
+  {
+    "term": "spiteful",
+    "partOfSpeech": "adjective",
+    "hindi": "दिखा दुर्भावनापूर्ण बीमार इच्छा और चोट की इच्छा; स्पिट द्वारा प्रेरित",
+    "definition": "showing malicious ill will and a desire to hurt; motivated by spite",
+    "example": "a despiteful fiend"
+  },
+  {
+    "term": "hopeless",
+    "partOfSpeech": "adjective",
+    "hindi": "आशा के बिना क्योंकि आराम या सफलता की कोई संभावना नहीं है",
+    "definition": "without hope because there seems to be no possibility of comfort or success",
+    "example": "in an agony of hopeless grief"
+  },
+  {
+    "term": "delight",
+    "partOfSpeech": "noun",
+    "hindi": "अत्यधिक खुशी या संतुष्टि की भावना",
+    "definition": "a feeling of extreme pleasure or satisfaction",
+    "example": "his delight to see her was obvious to all"
+  },
+  {
+    "term": "amorous",
+    "partOfSpeech": "adjective",
+    "hindi": "प्यार की ओर झुकाव या प्रदर्शित करना",
+    "definition": "inclined toward or displaying love",
+    "example": "feeling amorous"
+  },
+  {
+    "term": "long",
+    "partOfSpeech": "verb",
+    "hindi": "दृढ़ता से या लगातार इच्छा",
+    "definition": "desire strongly or persistently",
+    "example": ""
+  },
+  {
+    "term": "gratefulness",
+    "partOfSpeech": "noun",
+    "hindi": "आभार की गर्मजोशी",
+    "definition": "warm friendly feelings of gratitude",
+    "example": ""
+  },
+  {
+    "term": "cheerless",
+    "partOfSpeech": "adjective",
+    "hindi": "उदासी और अपर्याप्तता के कारण",
+    "definition": "causing sad feelings of gloom and inadequacy",
+    "example": "the economic outlook is depressing"
+  },
+  {
+    "term": "weepy",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से रोना",
+    "definition": "liable to weep easily",
+    "example": ""
+  },
+  {
+    "term": "temper",
+    "partOfSpeech": "noun",
+    "hindi": "क्रोध का अचानक प्रकोप",
+    "definition": "a sudden outburst of anger",
+    "example": "his temper sparked like damp firewood"
+  },
+  {
+    "term": "compassion",
+    "partOfSpeech": "noun",
+    "hindi": "किसी अन्य के लिए गहरी जागरूकता और सहानुभूति",
+    "definition": "a deep awareness of and sympathy for another's suffering",
+    "example": ""
+  },
+  {
+    "term": "ire",
+    "partOfSpeech": "noun",
+    "hindi": "एक मजबूत भावना; एक भावना जो कुछ वास्तविक या कथित शिकायतों की ओर उन्मुख है",
+    "definition": "a strong emotion; a feeling that is oriented toward some real or supposed grievance",
+    "example": ""
+  },
+  {
+    "term": "hilarious",
+    "partOfSpeech": "adjective",
+    "hindi": "द्वारा चिह्नित या boisterous merriment या convulsive वध",
+    "definition": "marked by or causing boisterous merriment or convulsive laughter",
+    "example": "hilarious broad comedy"
+  },
+  {
+    "term": "dreamy",
+    "partOfSpeech": "adjective",
+    "hindi": "मनोदशा या प्रकृति में सपना",
+    "definition": "dreamy in mood or nature",
+    "example": "a woolgathering moment"
+  },
+  {
+    "term": "electrify",
+    "partOfSpeech": "verb",
+    "hindi": "अचानक और तीव्रता से उत्तेजित",
+    "definition": "excite suddenly and intensely",
+    "example": "The news electrified us"
+  },
+  {
+    "term": "thankful",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना या दिखावा",
+    "definition": "feeling or showing gratitude",
+    "example": "a grateful heart"
+  },
+  {
+    "term": "horror",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र और गहन भय",
+    "definition": "intense and profound fear",
+    "example": ""
+  },
+  {
+    "term": "emote",
+    "partOfSpeech": "verb",
+    "hindi": "एक मंच या फिल्म भूमिका में अभिव्यक्ति या भावना देना",
+    "definition": "give expression or emotion to, in a stage or movie role",
+    "example": ""
+  },
+  {
+    "term": "mourn",
+    "partOfSpeech": "verb",
+    "hindi": "उदासी महसूस",
+    "definition": "feel sadness",
+    "example": "She is mourning her dead child"
+  },
+  {
+    "term": "earnestness",
+    "partOfSpeech": "noun",
+    "hindi": "सबसे अमीर और ईमानदार भावना",
+    "definition": "an earnest and sincere feeling",
+    "example": ""
+  },
+  {
+    "term": "exasperation",
+    "partOfSpeech": "noun",
+    "hindi": "निराशा की भावना",
+    "definition": "an exasperated feeling of annoyance",
+    "example": ""
+  },
+  {
+    "term": "contrition",
+    "partOfSpeech": "noun",
+    "hindi": "पाप के लिए दुर्बलता",
+    "definition": "sorrow for sin arising from fear of damnation",
+    "example": ""
+  },
+  {
+    "term": "awe",
+    "partOfSpeech": "noun",
+    "hindi": "आश्चर्य या प्रशंसा की भावना",
+    "definition": "an overwhelming feeling of wonder or admiration",
+    "example": "he stared over the edge with a feeling of awe"
+  },
+  {
+    "term": "heartache",
+    "partOfSpeech": "noun",
+    "hindi": "किसी प्रियजन (विशेष रूप से मृत्यु के कारण) के नुकसान के कारण गंभीर दुःख",
+    "definition": "intense sorrow caused by loss of a loved one (especially by death)",
+    "example": ""
+  },
+  {
+    "term": "smugness",
+    "partOfSpeech": "noun",
+    "hindi": "आत्म संतुष्टि की अत्यधिक भावना",
+    "definition": "an excessive feeling of self-satisfaction",
+    "example": ""
+  },
+  {
+    "term": "remorse",
+    "partOfSpeech": "noun",
+    "hindi": "गहरी खेद की भावना (आमतौर पर कुछ गड़बड़ी के लिए)",
+    "definition": "a feeling of deep regret (usually for some misdeed)",
+    "example": ""
+  },
+  {
+    "term": "scarey",
+    "partOfSpeech": "adjective",
+    "hindi": "भयभीत आतंकवाद",
+    "definition": "provoking fear terror",
+    "example": "a scary movie"
+  },
+  {
+    "term": "pining",
+    "partOfSpeech": "noun",
+    "hindi": "गहरी लम्बी भावना",
+    "definition": "a feeling of deep longing",
+    "example": ""
+  },
+  {
+    "term": "uncomfortable",
+    "partOfSpeech": "adjective",
+    "hindi": "मानसिक असुविधा के लिए अनुकूल",
+    "definition": "conducive to or feeling mental discomfort",
+    "example": "this kind of life can prove disruptive and uncomfortable"
+  },
+  {
+    "term": "panicky",
+    "partOfSpeech": "adjective",
+    "hindi": "तीव्र भय या निराशा की स्थिति में फेंकना",
+    "definition": "thrown into a state of intense fear or desperation",
+    "example": "became panicky as the snow deepened"
+  },
+  {
+    "term": "afraid",
+    "partOfSpeech": "adjective",
+    "hindi": "भय या घात से भरा",
+    "definition": "filled with fear or apprehension",
+    "example": "afraid even to turn his head"
+  },
+  {
+    "term": "relish",
+    "partOfSpeech": "noun",
+    "hindi": "जोरदार और उत्साही आनंद",
+    "definition": "vigorous and enthusiastic enjoyment",
+    "example": ""
+  },
+  {
+    "term": "insouciant",
+    "partOfSpeech": "adjective",
+    "hindi": "Unconcern द्वारा चिह्नित",
+    "definition": "marked by blithe unconcern",
+    "example": "an ability to interest casual students"
+  },
+  {
+    "term": "stolid",
+    "partOfSpeech": "adjective",
+    "hindi": "छोटी भावनाओं या संवेदनशीलता को प्रकट करना या प्रकट करना; आसानी से उत्तेजित या उत्तेजित नहीं; - Nordhoff और हॉल; -Virginia Woolf",
+    "definition": "having or revealing little emotion or sensibility; not easily aroused or excited; ; - Nordhoff & Hall; -Virginia Woolf",
+    "example": "her impassive remoteness"
+  },
+  {
+    "term": "sadness",
+    "partOfSpeech": "noun",
+    "hindi": "जब अच्छी तरह से किया जा रहा है की स्थिति में नहीं",
+    "definition": "emotions experienced when not in a state of well-being",
+    "example": ""
+  },
+  {
+    "term": "frisson",
+    "partOfSpeech": "noun",
+    "hindi": "डर की लगभग सुखद सनसनी",
+    "definition": "an almost pleasurable sensation of fright",
+    "example": "a frisson of surprise shot through him"
+  },
+  {
+    "term": "belonging",
+    "partOfSpeech": "noun",
+    "hindi": "खुशी एक सुरक्षित रिश्ते में महसूस किया",
+    "definition": "happiness felt in a secure relationship",
+    "example": "with his classmates he felt a sense of belonging"
+  },
+  {
+    "term": "rancour",
+    "partOfSpeech": "noun",
+    "hindi": "गहरे और कड़वे क्रोध और अवैध इच्छा की भावना",
+    "definition": "a feeling of deep and bitter anger and ill-will",
+    "example": ""
+  },
+  {
+    "term": "optimism",
+    "partOfSpeech": "noun",
+    "hindi": "आशावादी लग रहा है कि सभी अच्छी तरह से बाहर बारी जा रहा है",
+    "definition": "the optimistic feeling that all is going to turn out well",
+    "example": ""
+  },
+  {
+    "term": "sensuous",
+    "partOfSpeech": "adjective",
+    "hindi": "सुंदरता में प्रसन्न होना",
+    "definition": "taking delight in beauty",
+    "example": "the sensuous joy from all things fair"
+  },
+  {
+    "term": "scandalize",
+    "partOfSpeech": "verb",
+    "hindi": "Disgust या revulsion के साथ हड़ताल",
+    "definition": "strike with disgust or revulsion",
+    "example": "The scandalous behavior of this married woman shocked her friends"
+  },
+  {
+    "term": "agape",
+    "partOfSpeech": "noun",
+    "hindi": "(क्रिस्टियन धर्मशास्त्र) मानव जाति के लिए भगवान या मसीह का प्यार",
+    "definition": "(Christian theology) the love of God or Christ for mankind",
+    "example": ""
+  },
+  {
+    "term": "fulfilment",
+    "partOfSpeech": "noun",
+    "hindi": "अपनी इच्छाओं को प्राप्त करने के लिए संतुष्टि की भावना",
+    "definition": "a feeling of satisfaction at having achieved your desires",
+    "example": ""
+  },
+  {
+    "term": "perplex",
+    "partOfSpeech": "verb",
+    "hindi": "एक रहस्य या bewildering",
+    "definition": "be a mystery or bewildering to",
+    "example": "This beats me!"
+  },
+  {
+    "term": "antsy",
+    "partOfSpeech": "adjective",
+    "hindi": "तंत्रिका और आराम करने में असमर्थ",
+    "definition": "nervous and unable to relax",
+    "example": "a constant fretful stamping of hooves"
+  },
+  {
+    "term": "loathing",
+    "partOfSpeech": "noun",
+    "hindi": "नफरत के साथ मिलकर",
+    "definition": "hate coupled with disgust",
+    "example": ""
+  },
+  {
+    "term": "cark",
+    "partOfSpeech": "verb",
+    "hindi": "परेशान करना या असहज बनाना या चिंतित होना या चिंतित होना",
+    "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+    "example": "She was rather perturbed by the news that her father was seriously ill"
+  },
+  {
+    "term": "commiseration",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों के दुर्भाग्य के लिए सहानुभूति और दुःख की भावना",
+    "definition": "a feeling of sympathy and sorrow for the misfortunes of others",
+    "example": "the blind are too often objects of pity"
+  },
+  {
+    "term": "infatuated",
+    "partOfSpeech": "verb",
+    "hindi": "arouse unreasoning प्यार या जुनून में और एक irrational तरीके से व्यवहार करने के लिए कारण",
+    "definition": "arouse unreasoning love or passion in and cause to behave in an irrational way",
+    "example": "His new car has infatuated him"
+  },
+  {
+    "term": "wildness",
+    "partOfSpeech": "noun",
+    "hindi": "चरम भावनात्मक तीव्रता की भावना",
+    "definition": "a feeling of extreme emotional intensity",
+    "example": "the wildness of his anger"
+  },
+  {
+    "term": "malicious",
+    "partOfSpeech": "adjective",
+    "hindi": "मलहम से उत्पन्न या उसके परिणामस्वरूप; - Rudyard Kipling",
+    "definition": "having the nature of or resulting from malice; ; - Rudyard Kipling",
+    "example": "malicious gossip"
+  },
+  {
+    "term": "exuberance",
+    "partOfSpeech": "noun",
+    "hindi": "उत्साह",
+    "definition": "joyful enthusiasm",
+    "example": ""
+  },
+  {
+    "term": "annoy",
+    "partOfSpeech": "verb",
+    "hindi": "विशेष रूप से मामूली जलन से परेशान होना",
+    "definition": "cause annoyance in; disturb, especially by minor irritations",
+    "example": "Mosquitoes buzzing in my ear really bothers me"
+  },
+  {
+    "term": "sad",
+    "partOfSpeech": "adjective",
+    "hindi": "अनुभव करना या दु:ख दिखाना; - Christina Rossetti",
+    "definition": "experiencing or showing sorrow or unhappiness; ; - Christina Rossetti",
+    "example": "feeling sad because his dog had died"
+  },
+  {
+    "term": "enjoy",
+    "partOfSpeech": "verb",
+    "hindi": "आनंद लें; आनंद लें; आनंद लें",
+    "definition": "derive or receive pleasure from; get enjoyment from; take pleasure in",
+    "example": "She relished her fame and basked in her glory"
+  },
+  {
+    "term": "hesitancy",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ करने के बारे में गड़बड़ी और निष्क्रियता की भावना",
+    "definition": "a feeling of diffidence and indecision about doing something",
+    "example": ""
+  },
+  {
+    "term": "jubilant",
+    "partOfSpeech": "adjective",
+    "hindi": "विशेष रूप से विजय या सफलता के कारण हर्षित और गर्व",
+    "definition": "joyful and proud especially because of triumph or success",
+    "example": "rejoicing crowds filled the streets on VJ Day"
+  },
+  {
+    "term": "desire",
+    "partOfSpeech": "noun",
+    "hindi": "ऐसा लग रहा है कि असंतुष्ट राज्य के साथ",
+    "definition": "the feeling that accompanies an unsatisfied state",
+    "example": ""
+  },
+  {
+    "term": "frustration",
+    "partOfSpeech": "noun",
+    "hindi": "वह भावना जो आपके लक्ष्यों को प्राप्त करने में विफल होने के अनुभव के साथ",
+    "definition": "the feeling that accompanies an experience of being thwarted in attaining your goals",
+    "example": ""
+  },
+  {
+    "term": "remorseless",
+    "partOfSpeech": "adjective",
+    "hindi": "दया या दया के बिना",
+    "definition": "without mercy or pity",
+    "example": "an act of ruthless ferocity"
+  },
+  {
+    "term": "shamefaced",
+    "partOfSpeech": "adjective",
+    "hindi": "अत्यंत मामूली या शर्मीला; - H.O. टेलर",
+    "definition": "extremely modest or shy; - H.O.Taylor",
+    "example": "cheerfully bearing reproaches but shamefaced at praise"
+  },
+  {
+    "term": "maudlin",
+    "partOfSpeech": "adjective",
+    "hindi": "भावनात्मक रूप से भावनात्मक",
+    "definition": "effusively or insincerely emotional",
+    "example": "a bathetic novel"
+  },
+  {
+    "term": "piteous",
+    "partOfSpeech": "adjective",
+    "hindi": "; ; ; ; ; ; ; ; ।",
+    "definition": "deserving or inciting pity; ; ; - Galsworthy",
+    "example": "a hapless victim"
+  },
+  {
+    "term": "homesick",
+    "partOfSpeech": "adjective",
+    "hindi": "घर लौटने के लिए लंबे समय तक",
+    "definition": "longing to return home",
+    "example": ""
+  },
+  {
+    "term": "venerate",
+    "partOfSpeech": "verb",
+    "hindi": "सम्मान और सम्मान की भावनाओं के बारे में; मधुमक्खियों या बहिष्कारों पर विचार करें या उनमें से प्रत्येक में हों",
+    "definition": "regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",
+    "example": "Fear God as your father"
+  },
+  {
+    "term": "alarming",
+    "partOfSpeech": "verb",
+    "hindi": "तनाव या अलार्म से भरा; अप्रिय रूप से आश्चर्यचकित होने का कारण",
+    "definition": "fill with apprehension or alarm; cause to be unpleasantly surprised",
+    "example": "I was horrified at the thought of being late for my interview"
+  },
+  {
+    "term": "gratitude",
+    "partOfSpeech": "noun",
+    "hindi": "कृतज्ञता और प्रशंसा की भावना",
+    "definition": "a feeling of thankfulness and appreciation",
+    "example": "he was overwhelmed with gratitude for their help"
+  },
+  {
+    "term": "enchantment",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ अद्भुत और असामान्य के लिए महान पसंद की भावना",
+    "definition": "a feeling of great liking for something wonderful and unusual",
+    "example": ""
+  },
+  {
+    "term": "sadomasochistic",
+    "partOfSpeech": "adjective",
+    "hindi": "",
+    "definition": "of or relating to sadomasochism",
+    "example": "sadomasochistic sexual practices"
+  },
+  {
+    "term": "grieve",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "feel grief",
+    "example": ""
+  },
+  {
+    "term": "cynicism",
+    "partOfSpeech": "noun",
+    "hindi": "अविश्वास की एक सनकी भावना",
+    "definition": "a cynical feeling of distrust",
+    "example": ""
+  },
+  {
+    "term": "excite",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "arouse or elicit a feeling",
+    "example": ""
+  },
+  {
+    "term": "longing",
+    "partOfSpeech": "noun",
+    "hindi": "लंबे समय तक unfulfilled इच्छा या आवश्यकता",
+    "definition": "prolonged unfulfilled desire or need",
+    "example": ""
+  },
+  {
+    "term": "undertow",
+    "partOfSpeech": "noun",
+    "hindi": "सबसे मजबूत या प्रचलित भावना के विपरीत एक झुकाव",
+    "definition": "an inclination contrary to the strongest or prevailing feeling",
+    "example": "his account had a poignant undertow of regret"
+  },
+  {
+    "term": "wish",
+    "partOfSpeech": "noun",
+    "hindi": "इच्छा की एक विशिष्ट भावना",
+    "definition": "a specific feeling of desire",
+    "example": "he got his wish"
+  },
+  {
+    "term": "exasperate",
+    "partOfSpeech": "verb",
+    "hindi": "exasperate या irritate",
+    "definition": "exasperate or irritate",
+    "example": ""
+  },
+  {
+    "term": "fussy",
+    "partOfSpeech": "adjective",
+    "hindi": "परेशान और चिड़चिड़ा",
+    "definition": "annoyed and irritable",
+    "example": ""
+  },
+  {
+    "term": "idolise",
+    "partOfSpeech": "verb",
+    "hindi": "Unquestioningly और अनक्रिटिकल रूप से या उससे अधिक प्यार; एक मूर्ति के रूप में venerate",
+    "definition": "love unquestioningly and uncritically or to excess; venerate as an idol",
+    "example": "Many teenagers idolized the Beatles"
+  },
+  {
+    "term": "gaiety",
+    "partOfSpeech": "noun",
+    "hindi": "समलैंगिक भावना",
+    "definition": "a gay feeling",
+    "example": ""
+  },
+  {
+    "term": "ungrateful",
+    "partOfSpeech": "adjective",
+    "hindi": "नहीं लग रहा है या ग्रेविटी दिखा; - शेक्सपियर",
+    "definition": "not feeling or showing gratitude; ; - Shakespeare",
+    "example": "ungrateful heirs"
+  },
+  {
+    "term": "alleviate",
+    "partOfSpeech": "verb",
+    "hindi": "दर्द से शारीरिक राहत प्रदान करते हैं",
+    "definition": "provide physical relief, as from pain",
+    "example": "This pill will relieve your headaches"
+  },
+  {
+    "term": "lovesickness",
+    "partOfSpeech": "noun",
+    "hindi": "एक प्यार के लिए एक चुटकी",
+    "definition": "a pining for a loved one",
+    "example": ""
+  },
+  {
+    "term": "begrudge",
+    "partOfSpeech": "verb",
+    "hindi": "के बारे में ईर्ष्या; पर एक दिल सेट",
+    "definition": "be envious of; set one's heart on",
+    "example": ""
+  },
+  {
+    "term": "hanker",
+    "partOfSpeech": "verb",
+    "hindi": "दृढ़ता से या लगातार इच्छा",
+    "definition": "desire strongly or persistently",
+    "example": ""
+  },
+  {
+    "term": "petulance",
+    "partOfSpeech": "noun",
+    "hindi": "एक चिड़चिड़ा महसूस",
+    "definition": "an irritable petulant feeling",
+    "example": ""
+  },
+  {
+    "term": "repugnance",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र संस्करण",
+    "definition": "intense aversion",
+    "example": ""
+  },
+  {
+    "term": "envious",
+    "partOfSpeech": "adjective",
+    "hindi": "चरम कपिडिटी दिखाना; दर्दनाक रूप से किसी अन्य के फायदे की इच्छा",
+    "definition": "showing extreme cupidity; painfully desirous of another's advantages",
+    "example": "he was never covetous before he met her"
+  },
+  {
+    "term": "vengefulness",
+    "partOfSpeech": "noun",
+    "hindi": "बदला लेने की इच्छा",
+    "definition": "a malevolent desire for revenge",
+    "example": ""
+  },
+  {
+    "term": "bewitch",
+    "partOfSpeech": "verb",
+    "hindi": "आकर्षित करना",
+    "definition": "attract; cause to be enamored",
+    "example": "She captured all the men's hearts"
+  },
+  {
+    "term": "sentiment",
+    "partOfSpeech": "noun",
+    "hindi": "निविदा, रोमांटिक, या उदासीन भावना या भावना",
+    "definition": "tender, romantic, or nostalgic feeling or emotion",
+    "example": ""
+  },
+  {
+    "term": "penitential",
+    "partOfSpeech": "adjective",
+    "hindi": "दिखा रहा है या संस्थापन",
+    "definition": "showing or constituting penance",
+    "example": "penitential tears"
+  },
+  {
+    "term": "bonheur",
+    "partOfSpeech": "noun",
+    "hindi": "(फ्रेंच) खुशी और अच्छा हास्य",
+    "definition": "(French) happiness and good humor",
+    "example": ""
+  },
+  {
+    "term": "jollity",
+    "partOfSpeech": "noun",
+    "hindi": "जॉली और jovial लग रहा है और अच्छा हास्य से भरा",
+    "definition": "feeling jolly and jovial and full of good humor",
+    "example": ""
+  },
+  {
+    "term": "itchy",
+    "partOfSpeech": "adjective",
+    "hindi": "तंत्रिका और आराम करने में असमर्थ",
+    "definition": "nervous and unable to relax",
+    "example": "a constant fretful stamping of hooves"
+  },
+  {
+    "term": "solace",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप निराशा के समय सांत्वना करते हैं तो आपको आराम महसूस होता है",
+    "definition": "the comfort you feel when consoled in times of disappointment",
+    "example": "second place was no consolation to him"
+  },
+  {
+    "term": "exuberant",
+    "partOfSpeech": "adjective",
+    "hindi": "खुशी से unrestrained",
+    "definition": "joyously unrestrained",
+    "example": ""
+  },
+  {
+    "term": "hapless",
+    "partOfSpeech": "adjective",
+    "hindi": "; ; ; ; ; ; ; ; ।",
+    "definition": "deserving or inciting pity; ; ; - Galsworthy",
+    "example": "a hapless victim"
+  },
+  {
+    "term": "alleviation",
+    "partOfSpeech": "noun",
+    "hindi": "जब कुछ बोझ को हटा दिया जाता है या कम हो जाता है तो वह महसूस होता है",
+    "definition": "the feeling that comes when something burdensome is removed or reduced",
+    "example": "as he heard the news he was suddenly flooded with relief"
+  },
+  {
+    "term": "beneficence",
+    "partOfSpeech": "noun",
+    "hindi": "अच्छा करना",
+    "definition": "doing good; feeling beneficent",
+    "example": ""
+  },
+  {
+    "term": "tempt",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "dispose or incline or entice to",
+    "example": "We were tempted by the delicious-looking food"
+  },
+  {
+    "term": "worried",
+    "partOfSpeech": "verb",
+    "hindi": "चिंतित, चिंतित, चिंतित, परेशान, या असहज",
+    "definition": "be worried, concerned, anxious, troubled, or uneasy",
+    "example": "I worry about my job"
+  },
+  {
+    "term": "wishful",
+    "partOfSpeech": "adjective",
+    "hindi": "कुछ के लिए इच्छा व्यक्त करना या व्यक्त करना",
+    "definition": "having or expressing desire for something",
+    "example": "desirous of high office"
+  },
+  {
+    "term": "despondency",
+    "partOfSpeech": "noun",
+    "hindi": "डाउनकास्ट और निराश और निराशाजनक महसूस करना",
+    "definition": "feeling downcast and disheartened and hopeless",
+    "example": ""
+  },
+  {
+    "term": "diffidence",
+    "partOfSpeech": "noun",
+    "hindi": "आत्म-विश्वास की कमी",
+    "definition": "lack of self-confidence",
+    "example": ""
+  },
+  {
+    "term": "comical",
+    "partOfSpeech": "adjective",
+    "hindi": "उत्तेजना या भड़काना",
+    "definition": "arousing or provoking laughter",
+    "example": "an amusing film with a steady stream of pranks and pratfalls"
+  },
+  {
+    "term": "fulfillment",
+    "partOfSpeech": "noun",
+    "hindi": "अपनी इच्छाओं को प्राप्त करने के लिए संतुष्टि की भावना",
+    "definition": "a feeling of satisfaction at having achieved your desires",
+    "example": ""
+  },
+  {
+    "term": "pity",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों के दुर्भाग्य के लिए सहानुभूति और दुःख की भावना",
+    "definition": "a feeling of sympathy and sorrow for the misfortunes of others",
+    "example": "the blind are too often objects of pity"
+  },
+  {
+    "term": "uneasiness",
+    "partOfSpeech": "noun",
+    "hindi": "चिंता की भावना जो आपको तनाव और चिड़चिड़ा बनाती है",
+    "definition": "feelings of anxiety that make you tense and irritable",
+    "example": ""
+  },
+  {
+    "term": "mirth",
+    "partOfSpeech": "noun",
+    "hindi": "महान सिंचाई",
+    "definition": "great merriment",
+    "example": ""
+  },
+  {
+    "term": "satisfaction",
+    "partOfSpeech": "noun",
+    "hindi": "जब कोई इच्छा, आवश्यकता या उम्मीद को पूरा करता है, तो किसी को शर्त महसूस होती है",
+    "definition": "the contentment one feels when one has fulfilled a desire, need, or expectation",
+    "example": "the chef tasted the sauce with great satisfaction"
+  },
+  {
+    "term": "disgust",
+    "partOfSpeech": "noun",
+    "hindi": "नापसंद की मजबूत भावनाओं",
+    "definition": "strong feelings of dislike",
+    "example": ""
+  },
+  {
+    "term": "coldhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "सहानुभूति या भावना में कमी",
+    "definition": "lacking in sympathy or feeling",
+    "example": ""
+  },
+  {
+    "term": "genial",
+    "partOfSpeech": "adjective",
+    "hindi": "गर्मजोशी और मित्रता",
+    "definition": "diffusing warmth and friendliness",
+    "example": "an affable smile"
+  },
+  {
+    "term": "yearn",
+    "partOfSpeech": "verb",
+    "hindi": "दृढ़ता से या लगातार इच्छा",
+    "definition": "desire strongly or persistently",
+    "example": ""
+  },
+  {
+    "term": "exhilarate",
+    "partOfSpeech": "verb",
+    "hindi": "Sublime भावना के साथ भरें",
+    "definition": "fill with sublime emotion",
+    "example": "The children were thrilled at the prospect of going to the movies"
+  },
+  {
+    "term": "wistful",
+    "partOfSpeech": "adjective",
+    "hindi": "दंडात्मक उदासी दिखा",
+    "definition": "showing pensive sadness",
+    "example": "the sensitive and wistful response of a poet to the gentler phases of beauty"
+  },
+  {
+    "term": "ardour",
+    "partOfSpeech": "noun",
+    "hindi": "मजबूत उत्सुकता की भावना (आमतौर पर किसी व्यक्ति या कारण के पक्ष में)",
+    "definition": "a feeling of strong eagerness (usually in favor of a person or cause)",
+    "example": "they were imbued with a revolutionary ardor"
+  },
+  {
+    "term": "grievance",
+    "partOfSpeech": "noun",
+    "hindi": "पुनरावर्तन को सही करने के लिए पर्याप्त बलवान",
+    "definition": "a resentment strong enough to justify retaliation",
+    "example": "holding a grudge"
+  },
+  {
+    "term": "diffident",
+    "partOfSpeech": "adjective",
+    "hindi": "मामूली रिजर्व दिखा",
+    "definition": "showing modest reserve",
+    "example": "she was diffident when offering a comment on the professor's lecture"
+  },
+  {
+    "term": "homesickness",
+    "partOfSpeech": "noun",
+    "hindi": "घर लौटने के लिए एक लंबे समय तक",
+    "definition": "a longing to return home",
+    "example": ""
+  },
+  {
+    "term": "terrible",
+    "partOfSpeech": "adjective",
+    "hindi": "भय या भय या आतंक के कारण",
+    "definition": "causing fear or dread or terror",
+    "example": "the awful war"
+  },
+  {
+    "term": "antipathetic",
+    "partOfSpeech": "adjective",
+    "hindi": "(आमतौर पर 'to') के बाद दृढ़ता से विरोध किया",
+    "definition": "(usually followed by `to') strongly opposed",
+    "example": "antipathetic to new ideas"
+  },
+  {
+    "term": "aloofness",
+    "partOfSpeech": "noun",
+    "hindi": "व्यक्तिगत निकासी द्वारा उदासीनता",
+    "definition": "indifference by personal withdrawal",
+    "example": "emotional distance"
+  },
+  {
+    "term": "peeve",
+    "partOfSpeech": "noun",
+    "hindi": "परेशान या परेशान मूड",
+    "definition": "an annoyed or irritated mood",
+    "example": ""
+  },
+  {
+    "term": "sentimental",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना या भावना द्वारा दिए गए या चिह्नित",
+    "definition": "given to or marked by sentiment or sentimentality",
+    "example": ""
+  },
+  {
+    "term": "meekness",
+    "partOfSpeech": "noun",
+    "hindi": "रोगी की भावना, विनम्र विनम्रता",
+    "definition": "the feeling of patient, submissive humbleness",
+    "example": ""
+  },
+  {
+    "term": "fearful",
+    "partOfSpeech": "adjective",
+    "hindi": "डर का सामना करना या दिखाना",
+    "definition": "experiencing or showing fear",
+    "example": "a fearful glance"
+  },
+  {
+    "term": "attachment",
+    "partOfSpeech": "noun",
+    "hindi": "किसी व्यक्ति या संस्था के लिए स्नेह की भावना",
+    "definition": "a feeling of affection for a person or an institution",
+    "example": ""
+  },
+  {
+    "term": "crabby",
+    "partOfSpeech": "adjective",
+    "hindi": "परेशान और चिड़चिड़ा",
+    "definition": "annoyed and irritable",
+    "example": ""
+  },
+  {
+    "term": "excruciating",
+    "partOfSpeech": "verb",
+    "hindi": "मानसिक रूप से पीड़ा",
+    "definition": "torment emotionally or mentally",
+    "example": ""
+  },
+  {
+    "term": "hesitance",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ करने के बारे में गड़बड़ी और निष्क्रियता की भावना",
+    "definition": "a feeling of diffidence and indecision about doing something",
+    "example": ""
+  },
+  {
+    "term": "shock",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप गलती से कुछ बुरा होता है, तो संकट और असंतुष्टता की भावना",
+    "definition": "the feeling of distress and disbelief that you have when something bad happens accidentally",
+    "example": "his mother's death left him in a daze"
+  },
+  {
+    "term": "remorseful",
+    "partOfSpeech": "adjective",
+    "hindi": "पाप या अपराधों के लिए दर्द या दुःख महसूस करना या व्यक्त करना",
+    "definition": "feeling or expressing pain or sorrow for sins or offenses",
+    "example": ""
+  },
+  {
+    "term": "thankless",
+    "partOfSpeech": "adjective",
+    "hindi": "नहीं लग रहा है या ग्रेविटी दिखा; - शेक्सपियर",
+    "definition": "not feeling or showing gratitude; ; - Shakespeare",
+    "example": "ungrateful heirs"
+  },
+  {
+    "term": "disappoint",
+    "partOfSpeech": "verb",
+    "hindi": "उम्मीदों या उम्मीदों को पूरा करने में विफल",
+    "definition": "fail to meet the hopes or expectations of",
+    "example": "Her boyfriend let her down when he did not propose marriage"
+  },
+  {
+    "term": "lovesick",
+    "partOfSpeech": "adjective",
+    "hindi": "प्यार की वजह से",
+    "definition": "languishing because of love",
+    "example": "strong men behaving like lovesick boys"
+  },
+  {
+    "term": "dreaminess",
+    "partOfSpeech": "noun",
+    "hindi": "आरामदायक महसूस",
+    "definition": "a relaxed comfortable feeling",
+    "example": ""
+  },
+  {
+    "term": "merriment",
+    "partOfSpeech": "noun",
+    "hindi": "समलैंगिक भावना",
+    "definition": "a gay feeling",
+    "example": ""
+  },
+  {
+    "term": "tenderhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से प्यार करने के लिए",
+    "definition": "easily moved to love",
+    "example": ""
+  },
+  {
+    "term": "pathetic",
+    "partOfSpeech": "adjective",
+    "hindi": "; ; ; ; ; ; ; ; ।",
+    "definition": "deserving or inciting pity; ; ; - Galsworthy",
+    "example": "a hapless victim"
+  },
+  {
+    "term": "playful",
+    "partOfSpeech": "adjective",
+    "hindi": "मज़ा और उच्च आत्माओं से भरा",
+    "definition": "full of fun and high spirits",
+    "example": "playful children just let loose from school"
+  },
+  {
+    "term": "rhapsodic",
+    "partOfSpeech": "adjective",
+    "hindi": "आकर्षक लगना",
+    "definition": "feeling great rapture or delight",
+    "example": ""
+  },
+  {
+    "term": "levity",
+    "partOfSpeech": "noun",
+    "hindi": "गंभीरता की अनुचित कमी महसूस करना",
+    "definition": "feeling an inappropriate lack of seriousness",
+    "example": ""
+  },
+  {
+    "term": "happy",
+    "partOfSpeech": "adjective",
+    "hindi": "आनंद या खुशी से आनंद लेना या दिखाना",
+    "definition": "enjoying or showing or marked by joy or pleasure",
+    "example": "a happy smile"
+  },
+  {
+    "term": "idolize",
+    "partOfSpeech": "verb",
+    "hindi": "Unquestioningly और अनक्रिटिकल रूप से या उससे अधिक प्यार; एक मूर्ति के रूप में venerate",
+    "definition": "love unquestioningly and uncritically or to excess; venerate as an idol",
+    "example": "Many teenagers idolized the Beatles"
+  },
+  {
+    "term": "rancor",
+    "partOfSpeech": "noun",
+    "hindi": "गहरे और कड़वे क्रोध और अवैध इच्छा की भावना",
+    "definition": "a feeling of deep and bitter anger and ill-will",
+    "example": ""
+  },
+  {
+    "term": "choler",
+    "partOfSpeech": "noun",
+    "hindi": "एक चिड़चिड़ा महसूस",
+    "definition": "an irritable petulant feeling",
+    "example": ""
+  },
+  {
+    "term": "disconcert",
+    "partOfSpeech": "verb",
+    "hindi": "शर्मिंदगी महसूस करने का कारण",
+    "definition": "cause to feel embarrassment",
+    "example": "The constant attention of the young man confused her"
+  },
+  {
+    "term": "hilarity",
+    "partOfSpeech": "noun",
+    "hindi": "महान सिंचाई",
+    "definition": "great merriment",
+    "example": ""
+  },
+  {
+    "term": "mollify",
+    "partOfSpeech": "verb",
+    "hindi": "अधिक अनुकूल होने का कारण बनता है; अच्छी इच्छा प्राप्त करें",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "example": "She managed to mollify the angry customer"
+  },
+  {
+    "term": "disconsolate",
+    "partOfSpeech": "adjective",
+    "hindi": "आराम से परे उदास; सांत्वना की अक्षमता",
+    "definition": "sad beyond comforting; incapable of being consoled",
+    "example": "inconsolable when her son died"
+  },
+  {
+    "term": "touchy",
+    "partOfSpeech": "adjective",
+    "hindi": "जल्दी बंद करने के लिए",
+    "definition": "quick to take offense",
+    "example": ""
+  },
+  {
+    "term": "arrogant",
+    "partOfSpeech": "adjective",
+    "hindi": "अति प्रिय गौरव से अप्राप्य महत्व की भावनाओं को व्यक्त करना या दिखाना",
+    "definition": "having or showing feelings of unwarranted importance out of overbearing pride",
+    "example": "an arrogant official"
+  },
+  {
+    "term": "forgiveness",
+    "partOfSpeech": "noun",
+    "hindi": "दयालु भावना जो क्षमा करने की इच्छा का समर्थन करती है",
+    "definition": "compassionate feelings that support a willingness to forgive",
+    "example": ""
+  },
+  {
+    "term": "vexation",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ परेशानियों से उत्पन्न क्रोध",
+    "definition": "anger produced by some annoying irritation",
+    "example": ""
+  },
+  {
+    "term": "malignity",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों के लिए बुराई की इच्छा",
+    "definition": "wishing evil to others",
+    "example": ""
+  },
+  {
+    "term": "benevolence",
+    "partOfSpeech": "noun",
+    "hindi": "अच्छा करने के लिए disposition",
+    "definition": "disposition to do good",
+    "example": ""
+  },
+  {
+    "term": "unpleasantness",
+    "partOfSpeech": "noun",
+    "hindi": "असहमत उत्तेजना के कारण होने वाली भावना; महसूस करने वाले राज्यों की निरंतरता का एक ध्रुव",
+    "definition": "the feeling caused by disagreeable stimuli; one pole of a continuum of states of feeling",
+    "example": ""
+  },
+  {
+    "term": "dolor",
+    "partOfSpeech": "noun",
+    "hindi": "(poetry) दर्दनाक grief",
+    "definition": "(poetry) painful grief",
+    "example": ""
+  },
+  {
+    "term": "indignation",
+    "partOfSpeech": "noun",
+    "hindi": "धर्मी क्रोध की भावना",
+    "definition": "a feeling of righteous anger",
+    "example": ""
+  },
+  {
+    "term": "spite",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों को देखने की जरूरत महसूस करना",
+    "definition": "feeling a need to see others suffer",
+    "example": ""
+  },
+  {
+    "term": "risible",
+    "partOfSpeech": "adjective",
+    "hindi": "उत्तेजना या भड़काना",
+    "definition": "arousing or provoking laughter",
+    "example": "an amusing film with a steady stream of pranks and pratfalls"
+  },
+  {
+    "term": "confound",
+    "partOfSpeech": "verb",
+    "hindi": "को भ्रमित या perplexing; स्पष्ट रूप से सोचने में असमर्थ होने का कारण",
+    "definition": "be confusing or perplexing to; cause to be unable to think clearly",
+    "example": "These questions confuse even the experts"
+  },
+  {
+    "term": "consternation",
+    "partOfSpeech": "noun",
+    "hindi": "खतरे के बारे में जागरूकता से डरना",
+    "definition": "fear resulting from the awareness of danger",
+    "example": ""
+  },
+  {
+    "term": "admire",
+    "partOfSpeech": "verb",
+    "hindi": "के लिए प्रशंसा महसूस",
+    "definition": "feel admiration for",
+    "example": ""
+  },
+  {
+    "term": "abhor",
+    "partOfSpeech": "verb",
+    "hindi": "पाना",
+    "definition": "find repugnant",
+    "example": "I loathe that man"
+  },
+  {
+    "term": "aflutter",
+    "partOfSpeech": "adjective",
+    "hindi": "प्रत्याशा में उत्साहित",
+    "definition": "excited in anticipation",
+    "example": ""
+  },
+  {
+    "term": "frustrate",
+    "partOfSpeech": "verb",
+    "hindi": "अवरोधन या रोकथाम (प्रयास, योजना, या इच्छाओं)",
+    "definition": "hinder or prevent (the efforts, plans, or desires) of",
+    "example": "What ultimately frustrated every challenger was Ruth's amazing September surge"
+  },
+  {
+    "term": "suspense",
+    "partOfSpeech": "noun",
+    "hindi": "क्या हो रहा है",
+    "definition": "apprehension about what is going to happen",
+    "example": ""
+  },
+  {
+    "term": "dispirited",
+    "partOfSpeech": "verb",
+    "hindi": "किसी की आत्माओं को कम करना; दिल को कम करना",
+    "definition": "lower someone's spirits; make downhearted",
+    "example": "These news depressed her"
+  },
+  {
+    "term": "merciful",
+    "partOfSpeech": "adjective",
+    "hindi": "दिखा या दे दया",
+    "definition": "showing or giving mercy",
+    "example": "sought merciful treatment for the captives"
+  },
+  {
+    "term": "surrender",
+    "partOfSpeech": "noun",
+    "hindi": "निराशा की स्वीकृति",
+    "definition": "acceptance of despair",
+    "example": ""
+  },
+  {
+    "term": "partiality",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ की तरह एक predisposition",
+    "definition": "a predisposition to like something",
+    "example": "he had a fondness for whiskey"
+  },
+  {
+    "term": "rile",
+    "partOfSpeech": "verb",
+    "hindi": "विशेष रूप से मामूली जलन से परेशान होना",
+    "definition": "cause annoyance in; disturb, especially by minor irritations",
+    "example": "Mosquitoes buzzing in my ear really bothers me"
+  },
+  {
+    "term": "zealous",
+    "partOfSpeech": "adjective",
+    "hindi": "सक्रिय रुचि और उत्साह से चिह्नित",
+    "definition": "marked by active interest and enthusiasm",
+    "example": "an avid sports fan"
+  },
+  {
+    "term": "wrath",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र क्रोध (आमतौर पर एक महाकाव्य पैमाने पर)",
+    "definition": "intense anger (usually on an epic scale)",
+    "example": ""
+  },
+  {
+    "term": "relieve",
+    "partOfSpeech": "verb",
+    "hindi": "दर्द से शारीरिक राहत प्रदान करते हैं",
+    "definition": "provide physical relief, as from pain",
+    "example": "This pill will relieve your headaches"
+  },
+  {
+    "term": "jocularity",
+    "partOfSpeech": "noun",
+    "hindi": "एक भावना का सामना करना पड़ता है",
+    "definition": "a feeling facetious merriment",
+    "example": ""
+  },
+  {
+    "term": "downhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "उदासीन और निराशा से भरा",
+    "definition": "filled with melancholy and despondency",
+    "example": "gloomy at the thought of what he had to face"
+  },
+  {
+    "term": "adoration",
+    "partOfSpeech": "noun",
+    "hindi": "गहरा प्यार और प्रशंसा की भावना",
+    "definition": "a feeling of profound love and admiration",
+    "example": ""
+  },
+  {
+    "term": "soulfulness",
+    "partOfSpeech": "noun",
+    "hindi": "गहरी भावना या भावना",
+    "definition": "deep feeling or emotion",
+    "example": ""
+  },
+  {
+    "term": "restive",
+    "partOfSpeech": "adjective",
+    "hindi": "एक सामयिक स्थिति में होना",
+    "definition": "being in a tense state",
+    "example": ""
+  },
+  {
+    "term": "letdown",
+    "partOfSpeech": "noun",
+    "hindi": "असंतोष की भावना जिसके परिणामस्वरूप आपकी अपेक्षाओं को महसूस नहीं किया जाता है",
+    "definition": "a feeling of dissatisfaction that results when your expectations are not realized",
+    "example": "his hopes were so high he was doomed to disappointment"
+  },
+  {
+    "term": "mawkish",
+    "partOfSpeech": "adjective",
+    "hindi": "भावनात्मक रूप से भावनात्मक",
+    "definition": "effusively or insincerely emotional",
+    "example": "a bathetic novel"
+  },
+  {
+    "term": "pleasure",
+    "partOfSpeech": "noun",
+    "hindi": "एक मौलिक भावना जो परिभाषित करना कठिन है लेकिन यह कि लोग अनुभव करना चाहते हैं",
+    "definition": "a fundamental feeling that is hard to define but that people desire to experience",
+    "example": "he was tingling with pleasure"
+  },
+  {
+    "term": "serene",
+    "partOfSpeech": "adjective",
+    "hindi": "नहीं; आत्म-स्थिति खोए बिना",
+    "definition": "not agitated; without losing self-possession",
+    "example": "spoke in a calm voice"
+  },
+  {
+    "term": "horrendous",
+    "partOfSpeech": "adjective",
+    "hindi": "भय या भय या आतंक के कारण",
+    "definition": "causing fear or dread or terror",
+    "example": "the awful war"
+  },
+  {
+    "term": "empathise",
+    "partOfSpeech": "verb",
+    "hindi": "समझ",
+    "definition": "be understanding of",
+    "example": "You don't need to explain--I understand!"
+  },
+  {
+    "term": "complacent",
+    "partOfSpeech": "adjective",
+    "hindi": "अपने आप या किसी के कार्यों के साथ गलती से संतुष्ट",
+    "definition": "contented to a fault with oneself or one's actions",
+    "example": "he had become complacent after years of success"
+  },
+  {
+    "term": "hokey",
+    "partOfSpeech": "adjective",
+    "hindi": "भावनात्मक रूप से भावनात्मक",
+    "definition": "effusively or insincerely emotional",
+    "example": "a bathetic novel"
+  },
+  {
+    "term": "listlessness",
+    "partOfSpeech": "noun",
+    "hindi": "ब्याज या ऊर्जा की कमी की भावना",
+    "definition": "a feeling of lack of interest or energy",
+    "example": ""
+  },
+  {
+    "term": "desolate",
+    "partOfSpeech": "verb",
+    "hindi": "किसी को छोड़ दें जो आपको चाहिए या गिनें; लूर्च में छोड़ दें",
+    "definition": "leave someone who needs or counts on you; leave in the lurch",
+    "example": "The mother deserted her children"
+  },
+  {
+    "term": "optimistic",
+    "partOfSpeech": "adjective",
+    "hindi": "सभी संभावित दुनिया में सबसे अच्छा उम्मीद",
+    "definition": "expecting the best in this best of all possible worlds",
+    "example": "in an optimistic mood"
+  },
+  {
+    "term": "caprice",
+    "partOfSpeech": "noun",
+    "hindi": "अचानक इच्छा",
+    "definition": "a sudden desire",
+    "example": "he bought it on an impulse"
+  },
+  {
+    "term": "unmerciful",
+    "partOfSpeech": "adjective",
+    "hindi": "कोई दया नहीं",
+    "definition": "having or showing no mercy",
+    "example": "the merciless enemy"
+  },
+  {
+    "term": "enthusiastic",
+    "partOfSpeech": "adjective",
+    "hindi": "बहुत उत्साह और रुचि रखते हुए",
+    "definition": "having or showing great excitement and interest",
+    "example": "enthusiastic crowds filled the streets"
+  },
+  {
+    "term": "captivate",
+    "partOfSpeech": "verb",
+    "hindi": "आकर्षित करना",
+    "definition": "attract; cause to be enamored",
+    "example": "She captured all the men's hearts"
+  },
+  {
+    "term": "deadpan",
+    "partOfSpeech": "adjective",
+    "hindi": "जानबूझकर असंभव तरीके से",
+    "definition": "deliberately impassive in manner",
+    "example": "deadpan humor"
+  },
+  {
+    "term": "misgiving",
+    "partOfSpeech": "noun",
+    "hindi": "एक कार्रवाई की फिटनेस के बारे में uneasiness",
+    "definition": "uneasiness about the fitness of an action",
+    "example": ""
+  },
+  {
+    "term": "conciliate",
+    "partOfSpeech": "verb",
+    "hindi": "अधिक अनुकूल होने का कारण बनता है; अच्छी इच्छा प्राप्त करें",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "example": "She managed to mollify the angry customer"
+  },
+  {
+    "term": "passion",
+    "partOfSpeech": "noun",
+    "hindi": "एक मजबूत भावना या भावना",
+    "definition": "a strong feeling or emotion",
+    "example": ""
+  },
+  {
+    "term": "forsake",
+    "partOfSpeech": "verb",
+    "hindi": "किसी को छोड़ दें जो आपको चाहिए या गिनें; लूर्च में छोड़ दें",
+    "definition": "leave someone who needs or counts on you; leave in the lurch",
+    "example": "The mother deserted her children"
+  },
+  {
+    "term": "elated",
+    "partOfSpeech": "verb",
+    "hindi": "उच्च आत्माओं के साथ भरें; आशावाद के साथ भरें",
+    "definition": "fill with high spirits; fill with optimism",
+    "example": "Music can uplift your spirits"
+  },
+  {
+    "term": "sickening",
+    "partOfSpeech": "verb",
+    "hindi": "में परिवर्तन का कारण बनता है; नैतिक भावना को रोकना",
+    "definition": "cause aversion in; offend the moral sense of",
+    "example": "The pornographic pictures sickened us"
+  },
+  {
+    "term": "consolation",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप निराशा के समय सांत्वना करते हैं तो आपको आराम महसूस होता है",
+    "definition": "the comfort you feel when consoled in times of disappointment",
+    "example": "second place was no consolation to him"
+  },
+  {
+    "term": "feelings",
+    "partOfSpeech": "noun",
+    "hindi": "भावनात्मक या नैतिक संवेदनशीलता (विशेष रूप से व्यक्तिगत सिद्धांतों या गरिमा के संबंध में)",
+    "definition": "emotional or moral sensitivity (especially in relation to personal principles or dignity)",
+    "example": "the remark hurt his feelings"
+  },
+  {
+    "term": "malice",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों को देखने की जरूरत महसूस करना",
+    "definition": "feeling a need to see others suffer",
+    "example": ""
+  },
+  {
+    "term": "lackadaisical",
+    "partOfSpeech": "adjective",
+    "hindi": "आत्मा या जीवनशैली की कमी",
+    "definition": "lacking spirit or liveliness",
+    "example": "a lackadaisical attempt"
+  },
+  {
+    "term": "scrupulous",
+    "partOfSpeech": "adjective",
+    "hindi": "घबराहट; सही और गलत की भावना से उत्पन्न; सिद्धांत",
+    "definition": "having scruples; arising from a sense of right and wrong; principled",
+    "example": "less scrupulous producers sent bundles that were deceptive in appearance"
+  },
+  {
+    "term": "titillation",
+    "partOfSpeech": "noun",
+    "hindi": "उत्तेजना की एक झुनझुनी भावना (जैसे चिढ़ाई या गुदगुदी से)",
+    "definition": "a tingling feeling of excitement (as from teasing or tickling)",
+    "example": ""
+  },
+  {
+    "term": "delectation",
+    "partOfSpeech": "noun",
+    "hindi": "अत्यधिक खुशी या संतुष्टि की भावना",
+    "definition": "a feeling of extreme pleasure or satisfaction",
+    "example": "his delight to see her was obvious to all"
+  },
+  {
+    "term": "qualm",
+    "partOfSpeech": "noun",
+    "hindi": "एक कार्रवाई की फिटनेस के बारे में uneasiness",
+    "definition": "uneasiness about the fitness of an action",
+    "example": ""
+  },
+  {
+    "term": "vengeful",
+    "partOfSpeech": "adjective",
+    "hindi": "बदला लेने या बदला लेने के लिए इरादा करने के लिए disposed; - शेक्सपियर; - M.R. कोहेन",
+    "definition": "disposed to seek revenge or intended for revenge; - Shakespeare; - M.R.Cohen",
+    "example": "more vindictive than jealous love"
+  },
+  {
+    "term": "belligerency",
+    "partOfSpeech": "noun",
+    "hindi": "शत्रुतापूर्ण या योद्धा या स्वभाव",
+    "definition": "hostile or warlike attitude or nature",
+    "example": ""
+  },
+  {
+    "term": "complacency",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप अपने आप से संतुष्ट हो जाते हैं तो आपके पास महसूस हो रहा है",
+    "definition": "the feeling you have when you are satisfied with yourself",
+    "example": "his complacency was absolutely disgusting"
+  },
+  {
+    "term": "complacence",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप अपने आप से संतुष्ट हो जाते हैं तो आपके पास महसूस हो रहा है",
+    "definition": "the feeling you have when you are satisfied with yourself",
+    "example": "his complacency was absolutely disgusting"
+  },
+  {
+    "term": "animus",
+    "partOfSpeech": "noun",
+    "hindi": "बीमार की भावना सक्रिय शत्रुता पैदा करेगी",
+    "definition": "a feeling of ill will arousing active hostility",
+    "example": ""
+  },
+  {
+    "term": "agonizing",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "cause to agonize",
+    "example": ""
+  },
+  {
+    "term": "empathetic",
+    "partOfSpeech": "adjective",
+    "hindi": "दूसरों के राज्यों की सहानुभूति या तैयार समझ दिखा रहा है",
+    "definition": "showing empathy or ready comprehension of others' states",
+    "example": "a sensitive and empathetic school counselor"
+  },
+  {
+    "term": "displeasure",
+    "partOfSpeech": "noun",
+    "hindi": "किसी या किसी चीज़ से असंतुष्ट या परेशान होने की भावना",
+    "definition": "the feeling of being displeased or annoyed or dissatisfied with someone or something",
+    "example": ""
+  },
+  {
+    "term": "perceptive",
+    "partOfSpeech": "adjective",
+    "hindi": "या धारणा से संबंधित",
+    "definition": "of or relating to perception",
+    "example": "perceptive faculties"
+  },
+  {
+    "term": "joyfulness",
+    "partOfSpeech": "noun",
+    "hindi": "महान खुशी की भावना",
+    "definition": "the emotion of great happiness",
+    "example": ""
+  },
+  {
+    "term": "soothe",
+    "partOfSpeech": "verb",
+    "hindi": "नैतिक या भावनात्मक ताकत देने के लिए",
+    "definition": "give moral or emotional strength to",
+    "example": ""
+  },
+  {
+    "term": "crave",
+    "partOfSpeech": "verb",
+    "hindi": "एक craving, भूख या महान इच्छा के लिए है",
+    "definition": "have a craving, appetite, or great desire for",
+    "example": ""
+  },
+  {
+    "term": "dreaded",
+    "partOfSpeech": "verb",
+    "hindi": "डरना या डरना; डरना",
+    "definition": "be afraid or scared of; be frightened of",
+    "example": "I fear the winters in Moscow"
+  },
+  {
+    "term": "inconsolable",
+    "partOfSpeech": "adjective",
+    "hindi": "आराम से परे उदास; सांत्वना की अक्षमता",
+    "definition": "sad beyond comforting; incapable of being consoled",
+    "example": "inconsolable when her son died"
+  },
+  {
+    "term": "indifferent",
+    "partOfSpeech": "adjective",
+    "hindi": "ब्याज की कमी से चिह्नित",
+    "definition": "marked by a lack of interest",
+    "example": "an apathetic audience"
+  },
+  {
+    "term": "poignancy",
+    "partOfSpeech": "noun",
+    "hindi": "गंभीर रूप से महसूस किया संकट या दुःख की स्थिति",
+    "definition": "a state of deeply felt distress or sorrow",
+    "example": "a moment of extraordinary poignancy"
+  },
+  {
+    "term": "carnal",
+    "partOfSpeech": "adjective",
+    "hindi": "शरीर की भूख और जुनून द्वारा चिह्नित",
+    "definition": "marked by the appetites and passions of the body",
+    "example": "animal instincts"
+  },
+  {
+    "term": "lightness",
+    "partOfSpeech": "noun",
+    "hindi": "आनंद और गौरव की भावना",
+    "definition": "a feeling of joy and pride",
+    "example": ""
+  },
+  {
+    "term": "bedevil",
+    "partOfSpeech": "verb",
+    "hindi": "बेरहमी से इलाज",
+    "definition": "treat cruelly",
+    "example": "The children tormented the stuttering teacher"
+  },
+  {
+    "term": "placid",
+    "partOfSpeech": "adjective",
+    "hindi": "(पानी के शरीर) भारी तरंगों द्वारा गड़बड़ी से मुक्त",
+    "definition": "(of a body of water) free from disturbance by heavy waves",
+    "example": "a ribbon of sand between the angry sea and the placid bay"
+  },
+  {
+    "term": "solicitous",
+    "partOfSpeech": "adjective",
+    "hindi": "चिंता और चिंता से भरा",
+    "definition": "full of anxiety and concern",
+    "example": "solicitous parents"
+  },
+  {
+    "term": "repentance",
+    "partOfSpeech": "noun",
+    "hindi": "अपने पिछले आचरण के लिए याद रखें",
+    "definition": "remorse for your past conduct",
+    "example": ""
+  },
+  {
+    "term": "rancorous",
+    "partOfSpeech": "adjective",
+    "hindi": "दीप-सीटित रीसेंटमेंट दिखा रहा है; - Aldous Huxley",
+    "definition": "showing deep-seated resentment; - Aldous Huxley",
+    "example": "preserve...from rancourous envy of the rich"
+  },
+  {
+    "term": "heartfelt",
+    "partOfSpeech": "adjective",
+    "hindi": "कमाई",
+    "definition": "earnest",
+    "example": "one's dearest wish"
+  },
+  {
+    "term": "unflappable",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या उत्साहित या परेशान नहीं; चरम शांत और composure द्वारा चिह्नित",
+    "definition": "not easily perturbed or excited or upset; marked by extreme calm and composure",
+    "example": "hitherto imperturbable, he now showed signs of alarm"
+  },
+  {
+    "term": "homicidal",
+    "partOfSpeech": "adjective",
+    "hindi": "की विशेषता या सक्षम करने के लिए या करने के लिए प्रवृत्ति की हत्या की ओर एक अन्य इंसान",
+    "definition": "characteristic of or capable of or having a tendency toward killing another human being",
+    "example": "a homicidal rage"
+  },
+  {
+    "term": "averse",
+    "partOfSpeech": "adjective",
+    "hindi": "(आमतौर पर 'to') के बाद दृढ़ता से विरोध किया",
+    "definition": "(usually followed by `to') strongly opposed",
+    "example": "antipathetic to new ideas"
+  },
+  {
+    "term": "choleric",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से क्रोधित हो गया; - H.G. वेल्स",
+    "definition": "easily moved to anger; - H.G.Wells",
+    "example": "men of the choleric type take to kicking and smashing"
+  },
+  {
+    "term": "ennui",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ tedious द्वारा बोर होने की भावना",
+    "definition": "the feeling of being bored by something tedious",
+    "example": ""
+  },
+  {
+    "term": "zestful",
+    "partOfSpeech": "adjective",
+    "hindi": "भावनापूर्ण आनंद द्वारा चिह्नित",
+    "definition": "marked by spirited enjoyment",
+    "example": ""
+  },
+  {
+    "term": "philia",
+    "partOfSpeech": "noun",
+    "hindi": "liking की सकारात्मक भावना",
+    "definition": "a positive feeling of liking",
+    "example": "he had trouble expressing the affection he felt"
+  },
+  {
+    "term": "enjoyment",
+    "partOfSpeech": "noun",
+    "hindi": "खुशी महसूस हुई जब अच्छा समय हो",
+    "definition": "the pleasure felt when having a good time",
+    "example": ""
+  },
+  {
+    "term": "disaffection",
+    "partOfSpeech": "noun",
+    "hindi": "अन्य लोगों से अलग होने की भावना",
+    "definition": "the feeling of being alienated from other people",
+    "example": ""
+  },
+  {
+    "term": "indignant",
+    "partOfSpeech": "adjective",
+    "hindi": "किसी अन्य चीज़ पर नाराज या गलत तरीके से",
+    "definition": "angered at something unjust or wrong",
+    "example": "an indignant denial"
+  },
+  {
+    "term": "revengeful",
+    "partOfSpeech": "adjective",
+    "hindi": "बदला लेने या बदला लेने के लिए इरादा करने के लिए disposed; - शेक्सपियर; - M.R. कोहेन",
+    "definition": "disposed to seek revenge or intended for revenge; - Shakespeare; - M.R.Cohen",
+    "example": "more vindictive than jealous love"
+  },
+  {
+    "term": "hankering",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ के लिए या कुछ करना",
+    "definition": "a yearning for something or to do something",
+    "example": ""
+  },
+  {
+    "term": "vain",
+    "partOfSpeech": "adjective",
+    "hindi": "झूठी गौरव की विशेषता; आत्म-आयात की अतिरंजित भावना होना",
+    "definition": "characteristic of false pride; having an exaggerated sense of self-importance",
+    "example": "a conceited fool"
+  },
+  {
+    "term": "barmy",
+    "partOfSpeech": "adjective",
+    "hindi": "भावनापूर्ण आनंद द्वारा चिह्नित",
+    "definition": "marked by spirited enjoyment",
+    "example": ""
+  },
+  {
+    "term": "joy",
+    "partOfSpeech": "noun",
+    "hindi": "महान खुशी की भावना",
+    "definition": "the emotion of great happiness",
+    "example": ""
+  },
+  {
+    "term": "unassertive",
+    "partOfSpeech": "adjective",
+    "hindi": "आत्म-विश्वास की कमी या आत्म-विश्वास की कमी",
+    "definition": "inclined to timidity or lack of self-confidence",
+    "example": "a shy unassertive person"
+  },
+  {
+    "term": "eagerness",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ के साथ आगे बढ़ने की इच्छा रखने की सकारात्मक भावना",
+    "definition": "a positive feeling of wanting to push ahead with something",
+    "example": ""
+  },
+  {
+    "term": "ruthless",
+    "partOfSpeech": "adjective",
+    "hindi": "दया या दया के बिना",
+    "definition": "without mercy or pity",
+    "example": "an act of ruthless ferocity"
+  },
+  {
+    "term": "chagrin",
+    "partOfSpeech": "noun",
+    "hindi": "शर्मिंदगी की मजबूत भावनाओं",
+    "definition": "strong feelings of embarrassment",
+    "example": ""
+  },
+  {
+    "term": "heartstrings",
+    "partOfSpeech": "noun",
+    "hindi": "प्यार और दया की गहरी भावनाओं",
+    "definition": "your deepest feelings of love and compassion",
+    "example": "many adoption cases tug at the heartstrings"
+  },
+  {
+    "term": "warpath",
+    "partOfSpeech": "noun",
+    "hindi": "शत्रुतापूर्ण या विनम्र मनोदशा",
+    "definition": "hostile or belligerent mood",
+    "example": "the chief is on the warpath today"
+  },
+  {
+    "term": "distress",
+    "partOfSpeech": "noun",
+    "hindi": "मनोवैज्ञानिक पीड़ा",
+    "definition": "psychological suffering",
+    "example": "the death of his wife caused him great distress"
+  },
+  {
+    "term": "misogyny",
+    "partOfSpeech": "noun",
+    "hindi": "महिलाओं से नफरत",
+    "definition": "hatred of women",
+    "example": ""
+  },
+  {
+    "term": "alienate",
+    "partOfSpeech": "verb",
+    "hindi": "Arouse hostility or indifference, जहां पहले वहाँ प्यार, स्नेह, या मित्रता था",
+    "definition": "arouse hostility or indifference in where there had formerly been love, affection, or friendliness",
+    "example": "She alienated her friends when she became fanatically religious"
+  },
+  {
+    "term": "detachment",
+    "partOfSpeech": "noun",
+    "hindi": "भावनात्मक भागीदारी से बचना",
+    "definition": "avoiding emotional involvement",
+    "example": ""
+  },
+  {
+    "term": "foreboding",
+    "partOfSpeech": "noun",
+    "hindi": "आने के लिए बुराई की भावना",
+    "definition": "a feeling of evil to come",
+    "example": "a steadily escalating sense of foreboding"
+  },
+  {
+    "term": "discontented",
+    "partOfSpeech": "verb",
+    "hindi": "असंतुष्ट",
+    "definition": "make dissatisfied",
+    "example": ""
+  },
+  {
+    "term": "loathe",
+    "partOfSpeech": "verb",
+    "hindi": "पाना",
+    "definition": "find repugnant",
+    "example": "I loathe that man"
+  },
+  {
+    "term": "smug",
+    "partOfSpeech": "adjective",
+    "hindi": "अत्यधिक संगतता या आत्म-संवेदन द्वारा चिह्नित",
+    "definition": "marked by excessive complacency or self-satisfaction",
+    "example": "a smug glow of self-congratulation"
+  },
+  {
+    "term": "fainthearted",
+    "partOfSpeech": "adjective",
+    "hindi": "अभाव में दण्डता या साहस",
+    "definition": "lacking conviction or boldness or courage",
+    "example": "faint heart ne'er won fair lady"
+  },
+  {
+    "term": "gusto",
+    "partOfSpeech": "noun",
+    "hindi": "जोरदार और उत्साही आनंद",
+    "definition": "vigorous and enthusiastic enjoyment",
+    "example": ""
+  },
+  {
+    "term": "throes",
+    "partOfSpeech": "noun",
+    "hindi": "पीड़ितों के हिंसक दर्द",
+    "definition": "violent pangs of suffering",
+    "example": "death throes"
+  },
+  {
+    "term": "hangdog",
+    "partOfSpeech": "adjective",
+    "hindi": "अपराध की भावना दिखाते हुए; - एरिक लिंकलेटर",
+    "definition": "showing a sense of guilt; ; - Eric Linklater",
+    "example": "a guilty look"
+  },
+  {
+    "term": "expectant",
+    "partOfSpeech": "adjective",
+    "hindi": "उत्सुक प्रत्याशा द्वारा चिह्नित",
+    "definition": "marked by eager anticipation",
+    "example": "an expectant hush"
+  },
+  {
+    "term": "listless",
+    "partOfSpeech": "adjective",
+    "hindi": "ज़ेस्ट या vivacity की कमी",
+    "definition": "lacking zest or vivacity",
+    "example": "he was listless and bored"
+  },
+  {
+    "term": "sorrowful",
+    "partOfSpeech": "adjective",
+    "hindi": "विशेष रूप से दु:ख से सामना करना या चिह्नित करना कि अपूरणीय नुकसान से जुड़ा हुआ है; ; ; - प्रोवरब 14: 13",
+    "definition": "experiencing or marked by or expressing sorrow especially that associated with irreparable loss; ; ; ; - Proverbs 14:13",
+    "example": "sorrowful widows"
+  },
+  {
+    "term": "yearning",
+    "partOfSpeech": "noun",
+    "hindi": "लंबे समय तक unfulfilled इच्छा या आवश्यकता",
+    "definition": "prolonged unfulfilled desire or need",
+    "example": ""
+  },
+  {
+    "term": "displease",
+    "partOfSpeech": "verb",
+    "hindi": "देना",
+    "definition": "give displeasure to",
+    "example": ""
+  },
+  {
+    "term": "hopelessness",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप आराम या सफलता की उम्मीद छोड़ चुके हैं तो आपको निराशा महसूस होती है",
+    "definition": "the despair you feel when you have abandoned hope of comfort or success",
+    "example": ""
+  },
+  {
+    "term": "melancholy",
+    "partOfSpeech": "noun",
+    "hindi": "विचारशील उदासी की भावना",
+    "definition": "a feeling of thoughtful sadness",
+    "example": ""
+  },
+  {
+    "term": "exaltation",
+    "partOfSpeech": "noun",
+    "hindi": "भावना से दूर जाने की स्थिति; - चार्ल्स डिकेंस",
+    "definition": "a state of being carried away by overwhelming emotion; - Charles Dickens",
+    "example": "listening to sweet music in a perfect rapture"
+  },
+  {
+    "term": "friendliness",
+    "partOfSpeech": "noun",
+    "hindi": "किसी अन्य व्यक्ति के लिए झूठ बोलने की भावना; उनकी कंपनी में आनंद",
+    "definition": "a feeling of liking for another person; enjoyment in their company",
+    "example": ""
+  },
+  {
+    "term": "amiable",
+    "partOfSpeech": "adjective",
+    "hindi": "कृपया निपटान करें; - Hal Hinson",
+    "definition": "disposed to please; - Hal Hinson",
+    "example": "an amiable villain with a cocky sidelong grin"
+  },
+  {
+    "term": "belligerence",
+    "partOfSpeech": "noun",
+    "hindi": "शत्रुतापूर्ण या योद्धा या स्वभाव",
+    "definition": "hostile or warlike attitude or nature",
+    "example": ""
+  },
+  {
+    "term": "brokenhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "दु:ख से भरा",
+    "definition": "full of sorrow",
+    "example": ""
+  },
+  {
+    "term": "aversion",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र नापसंद की भावना",
+    "definition": "a feeling of intense dislike",
+    "example": ""
+  },
+  {
+    "term": "shudder",
+    "partOfSpeech": "noun",
+    "hindi": "डर की लगभग सुखद सनसनी",
+    "definition": "an almost pleasurable sensation of fright",
+    "example": "a frisson of surprise shot through him"
+  },
+  {
+    "term": "indifference",
+    "partOfSpeech": "noun",
+    "hindi": "निष्पक्ष unconcern",
+    "definition": "unbiased impartial unconcern",
+    "example": ""
+  },
+  {
+    "term": "elan",
+    "partOfSpeech": "noun",
+    "hindi": "मजबूत उत्सुकता की भावना (आमतौर पर किसी व्यक्ति या कारण के पक्ष में)",
+    "definition": "a feeling of strong eagerness (usually in favor of a person or cause)",
+    "example": "they were imbued with a revolutionary ardor"
+  },
+  {
+    "term": "placate",
+    "partOfSpeech": "verb",
+    "hindi": "अधिक अनुकूल होने का कारण बनता है; अच्छी इच्छा प्राप्त करें",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "example": "She managed to mollify the angry customer"
+  },
+  {
+    "term": "avidity",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ के साथ आगे बढ़ने की इच्छा रखने की सकारात्मक भावना",
+    "definition": "a positive feeling of wanting to push ahead with something",
+    "example": ""
+  },
+  {
+    "term": "dudgeon",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र गतिहीनता की भावना (अब केवल वाक्यांश में इस्तेमाल किया जाता है `उच्च dudgeon')",
+    "definition": "a feeling of intense indignation (now used only in the phrase `in high dudgeon')",
+    "example": ""
+  },
+  {
+    "term": "abase",
+    "partOfSpeech": "verb",
+    "hindi": "शर्म महसूस करने का कारण बनता है; का गौरव को चोट पहुँचाता है",
+    "definition": "cause to feel shame; hurt the pride of",
+    "example": "He humiliated his colleague by criticising him in front of the boss"
+  },
+  {
+    "term": "disturb",
+    "partOfSpeech": "verb",
+    "hindi": "गहराई से",
+    "definition": "move deeply",
+    "example": "This book upset me"
+  },
+  {
+    "term": "discontent",
+    "partOfSpeech": "noun",
+    "hindi": "वर्तमान स्थिति से बेहतर कुछ के लिए एक लंबी अवधि",
+    "definition": "a longing for something better than the present situation",
+    "example": ""
+  },
+  {
+    "term": "prefer",
+    "partOfSpeech": "verb",
+    "hindi": "बेहतर",
+    "definition": "like better; value more highly",
+    "example": "Some people prefer camping to staying in hotels"
+  },
+  {
+    "term": "enraged",
+    "partOfSpeech": "verb",
+    "hindi": "एक क्रोध में डाल दिया; हिंसक गुस्से में हो जाओ",
+    "definition": "put into a rage; make violently angry",
+    "example": ""
+  },
+  {
+    "term": "presentiment",
+    "partOfSpeech": "noun",
+    "hindi": "आने के लिए बुराई की भावना",
+    "definition": "a feeling of evil to come",
+    "example": "a steadily escalating sense of foreboding"
+  },
+  {
+    "term": "togetherness",
+    "partOfSpeech": "noun",
+    "hindi": "स्नेही निकटता",
+    "definition": "affectionate closeness",
+    "example": "togetherness is the new wonder ingredient in marriage"
+  },
+  {
+    "term": "discomfiture",
+    "partOfSpeech": "noun",
+    "hindi": "शर्मिंदगी",
+    "definition": "anxious embarrassment",
+    "example": ""
+  },
+  {
+    "term": "favour",
+    "partOfSpeech": "noun",
+    "hindi": "अनुकूल संबंध की भावना",
+    "definition": "a feeling of favorable regard",
+    "example": ""
+  },
+  {
+    "term": "buoyancy",
+    "partOfSpeech": "noun",
+    "hindi": "cheerfulness कि सतह के लिए बुलबुले",
+    "definition": "cheerfulness that bubbles to the surface",
+    "example": ""
+  },
+  {
+    "term": "triumphant",
+    "partOfSpeech": "adjective",
+    "hindi": "विशेष रूप से विजय या सफलता के कारण हर्षित और गर्व",
+    "definition": "joyful and proud especially because of triumph or success",
+    "example": "rejoicing crowds filled the streets on VJ Day"
+  },
+  {
+    "term": "maleficent",
+    "partOfSpeech": "adjective",
+    "hindi": "हानिकारक या बुरा intent या प्रभाव",
+    "definition": "harmful or evil in intent or effect",
+    "example": ""
+  },
+  {
+    "term": "audacious",
+    "partOfSpeech": "adjective",
+    "hindi": "डर या डरावना",
+    "definition": "invulnerable to fear or intimidation",
+    "example": "audacious explorers"
+  },
+  {
+    "term": "merry",
+    "partOfSpeech": "adjective",
+    "hindi": "से भरा या उच्च-spirited merriment दिखा; - Wordsworth",
+    "definition": "full of or showing high-spirited merriment; ; - Wordsworth",
+    "example": "when hearts were young and gay"
+  },
+  {
+    "term": "gratify",
+    "partOfSpeech": "verb",
+    "hindi": "खुश या संतुष्ट",
+    "definition": "make happy or satisfied",
+    "example": ""
+  },
+  {
+    "term": "gladden",
+    "partOfSpeech": "verb",
+    "hindi": "खुश या खुश",
+    "definition": "make glad or happy",
+    "example": ""
+  },
+  {
+    "term": "huffy",
+    "partOfSpeech": "adjective",
+    "hindi": "जल्दी बंद करने के लिए",
+    "definition": "quick to take offense",
+    "example": ""
+  },
+  {
+    "term": "enthral",
+    "partOfSpeech": "verb",
+    "hindi": "पकड़ो",
+    "definition": "hold spellbound",
+    "example": ""
+  },
+  {
+    "term": "caring",
+    "partOfSpeech": "noun",
+    "hindi": "प्यार करना",
+    "definition": "a loving feeling",
+    "example": ""
+  },
+  {
+    "term": "phlegm",
+    "partOfSpeech": "noun",
+    "hindi": "सहानुभूति भावनात्मक प्रतिक्रियाओं की अनुपस्थिति द्वारा प्रदर्शित",
+    "definition": "apathy demonstrated by an absence of emotional reactions",
+    "example": ""
+  },
+  {
+    "term": "warmness",
+    "partOfSpeech": "noun",
+    "hindi": "liking की सकारात्मक भावना",
+    "definition": "a positive feeling of liking",
+    "example": "he had trouble expressing the affection he felt"
+  },
+  {
+    "term": "intrepid",
+    "partOfSpeech": "adjective",
+    "hindi": "डर या डरावना",
+    "definition": "invulnerable to fear or intimidation",
+    "example": "audacious explorers"
+  },
+  {
+    "term": "unafraid",
+    "partOfSpeech": "adjective",
+    "hindi": "खतरों या खतरों के बारे में अप्रिय या शांतिपूर्वक उन्हें सामना करने में मदद करते हैं",
+    "definition": "oblivious of dangers or perils or calmly resolute in facing them",
+    "example": ""
+  },
+  {
+    "term": "wonder",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ अजीब और आश्चर्य की बात है",
+    "definition": "the feeling aroused by something strange and surprising",
+    "example": ""
+  },
+  {
+    "term": "ravishment",
+    "partOfSpeech": "noun",
+    "hindi": "आनंद की भावना आश्चर्य और उत्साह से भरी हुई है",
+    "definition": "a feeling of delight at being filled with wonder and enchantment",
+    "example": ""
+  },
+  {
+    "term": "contrite",
+    "partOfSpeech": "adjective",
+    "hindi": "पाप या अपराधों के लिए दर्द या दुःख महसूस करना या व्यक्त करना",
+    "definition": "feeling or expressing pain or sorrow for sins or offenses",
+    "example": ""
+  },
+  {
+    "term": "unhappy",
+    "partOfSpeech": "adjective",
+    "hindi": "उदासी या उदासी या असंतोष का सामना करना या चिह्नित करना",
+    "definition": "experiencing or marked by or causing sadness or sorrow or discontent",
+    "example": "unhappy over her departure"
+  },
+  {
+    "term": "nauseating",
+    "partOfSpeech": "verb",
+    "hindi": "परेशान करना",
+    "definition": "upset and make nauseated",
+    "example": "The smell of the food turned the pregnant woman's stomach"
+  },
+  {
+    "term": "despite",
+    "partOfSpeech": "noun",
+    "hindi": "सम्मान की कमी के साथ तीव्र नापसंद की भावना",
+    "definition": "lack of respect accompanied by a feeling of intense dislike",
+    "example": "he was held in contempt"
+  },
+  {
+    "term": "unpleasant",
+    "partOfSpeech": "adjective",
+    "hindi": "संवेदनाओं से असहमत, मन, या भावनाओं से असहमत",
+    "definition": "disagreeable to the senses, to the mind, or feelings",
+    "example": "an unpleasant personality"
+  },
+  {
+    "term": "exultant",
+    "partOfSpeech": "adjective",
+    "hindi": "विशेष रूप से विजय या सफलता के कारण हर्षित और गर्व",
+    "definition": "joyful and proud especially because of triumph or success",
+    "example": "rejoicing crowds filled the streets on VJ Day"
+  },
+  {
+    "term": "terror",
+    "partOfSpeech": "noun",
+    "hindi": "भय और चिंता की भारी भावना",
+    "definition": "an overwhelming feeling of fear and anxiety",
+    "example": ""
+  },
+  {
+    "term": "hotheaded",
+    "partOfSpeech": "adjective",
+    "hindi": "जल्दी क्रोधित",
+    "definition": "quickly aroused to anger",
+    "example": "a hotheaded commander"
+  },
+  {
+    "term": "daze",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप गलती से कुछ बुरा होता है, तो संकट और असंतुष्टता की भावना",
+    "definition": "the feeling of distress and disbelief that you have when something bad happens accidentally",
+    "example": "his mother's death left him in a daze"
+  },
+  {
+    "term": "astonishment",
+    "partOfSpeech": "noun",
+    "hindi": "वह भावना जो कुछ बेहद आश्चर्यजनक के साथ होती है",
+    "definition": "the feeling that accompanies something extremely surprising",
+    "example": "he looked at me in astonishment"
+  },
+  {
+    "term": "disquiet",
+    "partOfSpeech": "noun",
+    "hindi": "संभावित विकास के बारे में हल्के चिंता की भावना",
+    "definition": "a feeling of mild anxiety about possible developments",
+    "example": ""
+  },
+  {
+    "term": "languor",
+    "partOfSpeech": "noun",
+    "hindi": "आरामदायक महसूस",
+    "definition": "a relaxed comfortable feeling",
+    "example": ""
+  },
+  {
+    "term": "fleshly",
+    "partOfSpeech": "adjective",
+    "hindi": "शरीर की भूख और जुनून द्वारा चिह्नित",
+    "definition": "marked by the appetites and passions of the body",
+    "example": "animal instincts"
+  },
+  {
+    "term": "vanity",
+    "partOfSpeech": "noun",
+    "hindi": "अत्यधिक गौरव की भावना",
+    "definition": "feelings of excessive pride",
+    "example": ""
+  },
+  {
+    "term": "detestation",
+    "partOfSpeech": "noun",
+    "hindi": "नफरत के साथ मिलकर",
+    "definition": "hate coupled with disgust",
+    "example": ""
+  },
+  {
+    "term": "angst",
+    "partOfSpeech": "noun",
+    "hindi": "चिंता की तीव्र लेकिन अप्रत्याशित भावना; आमतौर पर दुनिया के बारे में या व्यक्तिगत स्वतंत्रता के बारे में दार्शनिक चिंता के लिए आरक्षित",
+    "definition": "an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom",
+    "example": ""
+  },
+  {
+    "term": "faintness",
+    "partOfSpeech": "noun",
+    "hindi": "बेहोशी की भावना और हंसने के लिए तैयार होना",
+    "definition": "a feeling of faintness and of being ready to swoon",
+    "example": ""
+  },
+  {
+    "term": "mourning",
+    "partOfSpeech": "noun",
+    "hindi": "मृत्यु या किसी प्रियजन के प्रस्थान पर दुःख की स्थिति",
+    "definition": "state of sorrow over the death or departure of a loved one",
+    "example": ""
+  },
+  {
+    "term": "scary",
+    "partOfSpeech": "adjective",
+    "hindi": "भयभीत आतंकवाद",
+    "definition": "provoking fear terror",
+    "example": "a scary movie"
+  },
+  {
+    "term": "enchant",
+    "partOfSpeech": "verb",
+    "hindi": "पकड़ो",
+    "definition": "hold spellbound",
+    "example": ""
+  },
+  {
+    "term": "appreciative",
+    "partOfSpeech": "adjective",
+    "hindi": "आभार की भावना या अभिव्यक्ति",
+    "definition": "feeling or expressive of gratitude",
+    "example": "was appreciative of his efforts"
+  },
+  {
+    "term": "beatification",
+    "partOfSpeech": "noun",
+    "hindi": "सर्वोच्च सुख की स्थिति",
+    "definition": "a state of supreme happiness",
+    "example": ""
+  },
+  {
+    "term": "astound",
+    "partOfSpeech": "verb",
+    "hindi": "आश्चर्य के साथ प्रभावित",
+    "definition": "affect with wonder",
+    "example": "Your ability to speak six languages amazes me!"
+  },
+  {
+    "term": "rage",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र क्रोध की भावना",
+    "definition": "a feeling of intense anger",
+    "example": "hell hath no fury like a woman scorned"
+  },
+  {
+    "term": "daunt",
+    "partOfSpeech": "verb",
+    "hindi": "साहस खोना",
+    "definition": "cause to lose courage",
+    "example": "dashed by the refusal"
+  },
+  {
+    "term": "sicken",
+    "partOfSpeech": "verb",
+    "hindi": "में परिवर्तन का कारण बनता है; नैतिक भावना को रोकना",
+    "definition": "cause aversion in; offend the moral sense of",
+    "example": "The pornographic pictures sickened us"
+  },
+  {
+    "term": "amazement",
+    "partOfSpeech": "noun",
+    "hindi": "वह भावना जो कुछ बेहद आश्चर्यजनक के साथ होती है",
+    "definition": "the feeling that accompanies something extremely surprising",
+    "example": "he looked at me in astonishment"
+  },
+  {
+    "term": "terrify",
+    "partOfSpeech": "verb",
+    "hindi": "आतंकी; भयंकर",
+    "definition": "fill with terror; frighten greatly",
+    "example": ""
+  },
+  {
+    "term": "sadomasochism",
+    "partOfSpeech": "noun",
+    "hindi": "sadism और masochism एक व्यक्ति में संयुक्त",
+    "definition": "sadism and masochism combined in one person",
+    "example": ""
+  },
+  {
+    "term": "tearful",
+    "partOfSpeech": "adjective",
+    "hindi": "आंसू से भरा या चिह्नित",
+    "definition": "filled with or marked by tears",
+    "example": "tearful eyes"
+  },
+  {
+    "term": "befuddle",
+    "partOfSpeech": "verb",
+    "hindi": "को भ्रमित या perplexing; स्पष्ट रूप से सोचने में असमर्थ होने का कारण",
+    "definition": "be confusing or perplexing to; cause to be unable to think clearly",
+    "example": "These questions confuse even the experts"
+  },
+  {
+    "term": "pall",
+    "partOfSpeech": "noun",
+    "hindi": "अचानक numbing dread",
+    "definition": "a sudden numbing dread",
+    "example": ""
+  },
+  {
+    "term": "lachrymose",
+    "partOfSpeech": "adjective",
+    "hindi": "शोक",
+    "definition": "showing sorrow",
+    "example": ""
+  },
+  {
+    "term": "ambition",
+    "partOfSpeech": "noun",
+    "hindi": "cherished इच्छा",
+    "definition": "a cherished desire",
+    "example": "his ambition is to own his own business"
+  },
+  {
+    "term": "expect",
+    "partOfSpeech": "verb",
+    "hindi": "संभावना या संभावना के रूप में कुछ",
+    "definition": "regard something as probable or likely",
+    "example": "The meteorologists are expecting rain for tomorrow"
+  },
+  {
+    "term": "disdainful",
+    "partOfSpeech": "adjective",
+    "hindi": "चरम अवमान व्यक्त करना",
+    "definition": "expressing extreme contempt",
+    "example": ""
+  },
+  {
+    "term": "jumpy",
+    "partOfSpeech": "adjective",
+    "hindi": "एक सामयिक स्थिति में होना",
+    "definition": "being in a tense state",
+    "example": ""
+  },
+  {
+    "term": "hackles",
+    "partOfSpeech": "noun",
+    "hindi": "क्रोध और संवेदना की भावना",
+    "definition": "a feeling of anger and animosity",
+    "example": "having one's hackles or dander up"
+  },
+  {
+    "term": "desirous",
+    "partOfSpeech": "adjective",
+    "hindi": "कुछ के लिए इच्छा व्यक्त करना या व्यक्त करना",
+    "definition": "having or expressing desire for something",
+    "example": "desirous of high office"
+  },
+  {
+    "term": "emotive",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना की विशेषता",
+    "definition": "characterized by emotion",
+    "example": ""
+  },
+  {
+    "term": "admiration",
+    "partOfSpeech": "noun",
+    "hindi": "प्रसन्न अनुमोदन और पसंद की भावना",
+    "definition": "a feeling of delighted approval and liking",
+    "example": ""
+  },
+  {
+    "term": "unbiased",
+    "partOfSpeech": "adjective",
+    "hindi": "आंशिकता की कमी की विशेषता",
+    "definition": "characterized by a lack of partiality",
+    "example": "a properly indifferent jury"
+  },
+  {
+    "term": "despising",
+    "partOfSpeech": "noun",
+    "hindi": "",
+    "definition": "a feeling of scornful hatred",
+    "example": ""
+  },
+  {
+    "term": "terrorize",
+    "partOfSpeech": "verb",
+    "hindi": "हिंसा या खतरों से पीड़ित",
+    "definition": "coerce by violence or with threats",
+    "example": ""
+  },
+  {
+    "term": "enraptured",
+    "partOfSpeech": "verb",
+    "hindi": "पकड़ो",
+    "definition": "hold spellbound",
+    "example": ""
+  },
+  {
+    "term": "coolness",
+    "partOfSpeech": "noun",
+    "hindi": "शांत और unruffled आत्म आश्वासन",
+    "definition": "calm and unruffled self-assurance",
+    "example": "he performed with all the coolness of a veteran"
+  },
+  {
+    "term": "sensual",
+    "partOfSpeech": "adjective",
+    "hindi": "शरीर की भूख और जुनून द्वारा चिह्नित",
+    "definition": "marked by the appetites and passions of the body",
+    "example": "animal instincts"
+  },
+  {
+    "term": "glee",
+    "partOfSpeech": "noun",
+    "hindi": "महान सिंचाई",
+    "definition": "great merriment",
+    "example": ""
+  },
+  {
+    "term": "affective",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना की विशेषता",
+    "definition": "characterized by emotion",
+    "example": ""
+  },
+  {
+    "term": "ardor",
+    "partOfSpeech": "noun",
+    "hindi": "मजबूत उत्सुकता की भावना (आमतौर पर किसी व्यक्ति या कारण के पक्ष में)",
+    "definition": "a feeling of strong eagerness (usually in favor of a person or cause)",
+    "example": "they were imbued with a revolutionary ardor"
+  },
+  {
+    "term": "impassive",
+    "partOfSpeech": "adjective",
+    "hindi": "छोटी भावनाओं या संवेदनशीलता को प्रकट करना या प्रकट करना; आसानी से उत्तेजित या उत्तेजित नहीं; - Nordhoff और हॉल; -Virginia Woolf",
+    "definition": "having or revealing little emotion or sensibility; not easily aroused or excited; ; - Nordhoff & Hall; -Virginia Woolf",
+    "example": "her impassive remoteness"
+  },
+  {
+    "term": "fearsome",
+    "partOfSpeech": "adjective",
+    "hindi": "भय या भय या आतंक के कारण",
+    "definition": "causing fear or dread or terror",
+    "example": "the awful war"
+  },
+  {
+    "term": "mortification",
+    "partOfSpeech": "noun",
+    "hindi": "शर्मिंदगी की मजबूत भावनाओं",
+    "definition": "strong feelings of embarrassment",
+    "example": ""
+  },
+  {
+    "term": "sensuality",
+    "partOfSpeech": "noun",
+    "hindi": "कामुक सुख की इच्छा",
+    "definition": "desire for sensual pleasures",
+    "example": ""
+  },
+  {
+    "term": "covetous",
+    "partOfSpeech": "adjective",
+    "hindi": "चरम कपिडिटी दिखाना; दर्दनाक रूप से किसी अन्य के फायदे की इच्छा",
+    "definition": "showing extreme cupidity; painfully desirous of another's advantages",
+    "example": "he was never covetous before he met her"
+  },
+  {
+    "term": "grouchy",
+    "partOfSpeech": "adjective",
+    "hindi": "परेशान और चिड़चिड़ा",
+    "definition": "annoyed and irritable",
+    "example": ""
+  },
+  {
+    "term": "moodiness",
+    "partOfSpeech": "noun",
+    "hindi": "sullen gloomy भावना",
+    "definition": "a sullen gloomy feeling",
+    "example": ""
+  },
+  {
+    "term": "ardent",
+    "partOfSpeech": "adjective",
+    "hindi": "तीव्र भावना की विशेषता",
+    "definition": "characterized by intense emotion",
+    "example": "ardent love"
+  },
+  {
+    "term": "gloating",
+    "partOfSpeech": "noun",
+    "hindi": "दुर्बल संतुष्टि",
+    "definition": "malicious satisfaction",
+    "example": ""
+  },
+  {
+    "term": "easiness",
+    "partOfSpeech": "noun",
+    "hindi": "ताज़ा शांति और तनाव या चिंता की अनुपस्थिति की भावना",
+    "definition": "a feeling of refreshing tranquility and an absence of tension or worry",
+    "example": "the easiness we feel when sleeping"
+  },
+  {
+    "term": "dissatisfaction",
+    "partOfSpeech": "noun",
+    "hindi": "असंतुष्ट और असंतोष होने की भावना",
+    "definition": "the feeling of being displeased and discontent",
+    "example": "he was never slow to express his dissatisfaction with the service he received"
+  },
+  {
+    "term": "imperturbable",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या उत्साहित या परेशान नहीं; चरम शांत और composure द्वारा चिह्नित",
+    "definition": "not easily perturbed or excited or upset; marked by extreme calm and composure",
+    "example": "hitherto imperturbable, he now showed signs of alarm"
+  },
+  {
+    "term": "repugnant",
+    "partOfSpeech": "adjective",
+    "hindi": "मन के लिए आक्रामक",
+    "definition": "offensive to the mind",
+    "example": "an abhorrent deed"
+  },
+  {
+    "term": "gleeful",
+    "partOfSpeech": "adjective",
+    "hindi": "उच्च-spirited प्रसन्न",
+    "definition": "full of high-spirited delight",
+    "example": "a joyful heart"
+  },
+  {
+    "term": "affect",
+    "partOfSpeech": "noun",
+    "hindi": "भावना या भावना के सचेत व्यक्ति पहलू",
+    "definition": "the conscious subjective aspect of feeling or emotion",
+    "example": ""
+  },
+  {
+    "term": "unthankful",
+    "partOfSpeech": "adjective",
+    "hindi": "नहीं लग रहा है या ग्रेविटी दिखा; - शेक्सपियर",
+    "definition": "not feeling or showing gratitude; ; - Shakespeare",
+    "example": "ungrateful heirs"
+  },
+  {
+    "term": "repentant",
+    "partOfSpeech": "adjective",
+    "hindi": "गलतफहमी के लिए याद करना या व्यक्त करना",
+    "definition": "feeling or expressing remorse for misdeeds",
+    "example": ""
+  },
+  {
+    "term": "animosity",
+    "partOfSpeech": "noun",
+    "hindi": "बीमार की भावना सक्रिय शत्रुता पैदा करेगी",
+    "definition": "a feeling of ill will arousing active hostility",
+    "example": ""
+  },
+  {
+    "term": "intoxicate",
+    "partOfSpeech": "verb",
+    "hindi": "उच्च आत्माओं के साथ भरें; आशावाद के साथ भरें",
+    "definition": "fill with high spirits; fill with optimism",
+    "example": "Music can uplift your spirits"
+  },
+  {
+    "term": "sorrow",
+    "partOfSpeech": "noun",
+    "hindi": "नुकसान या पीड़ा से जुड़े महान उदासी की भावना",
+    "definition": "an emotion of great sadness associated with loss or bereavement",
+    "example": "he tried to express his sorrow at her loss"
+  },
+  {
+    "term": "stab",
+    "partOfSpeech": "noun",
+    "hindi": "अचानक तेज भावना",
+    "definition": "a sudden sharp feeling",
+    "example": "pangs of regret"
+  },
+  {
+    "term": "zeal",
+    "partOfSpeech": "noun",
+    "hindi": "मजबूत उत्सुकता की भावना (आमतौर पर किसी व्यक्ति या कारण के पक्ष में)",
+    "definition": "a feeling of strong eagerness (usually in favor of a person or cause)",
+    "example": "they were imbued with a revolutionary ardor"
+  },
+  {
+    "term": "presage",
+    "partOfSpeech": "noun",
+    "hindi": "क्या होता है?",
+    "definition": "a foreboding about what is about to happen",
+    "example": ""
+  },
+  {
+    "term": "aggravation",
+    "partOfSpeech": "noun",
+    "hindi": "निराशा की भावना",
+    "definition": "an exasperated feeling of annoyance",
+    "example": ""
+  },
+  {
+    "term": "tedious",
+    "partOfSpeech": "adjective",
+    "hindi": "इसलिए मानसिक थकान के कारण रुचि में कमी; ; ; ; ; ; - एडमंड बर्क; - मार्क ट्वेन",
+    "definition": "so lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain",
+    "example": "a boring evening with uninteresting people"
+  },
+  {
+    "term": "infuriated",
+    "partOfSpeech": "verb",
+    "hindi": "खूबसूरत",
+    "definition": "make furious",
+    "example": ""
+  },
+  {
+    "term": "predict",
+    "partOfSpeech": "verb",
+    "hindi": "इसके बारे में भविष्यवाणी करें; अग्रिम में बताएं",
+    "definition": "make a prediction about; tell in advance",
+    "example": "Call the outcome of an election"
+  },
+  {
+    "term": "kindhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "एक अनौपचारिक रूप से तरह के विघटन से होने या आगे बढ़ने",
+    "definition": "having or proceeding from an innately kind disposition",
+    "example": "a generous and kindhearted teacher"
+  },
+  {
+    "term": "fretful",
+    "partOfSpeech": "adjective",
+    "hindi": "तंत्रिका और आराम करने में असमर्थ",
+    "definition": "nervous and unable to relax",
+    "example": "a constant fretful stamping of hooves"
+  },
+  {
+    "term": "solemn",
+    "partOfSpeech": "adjective",
+    "hindi": "तरीके या चरित्र में गरिमा और सोम और वादा रखने के लिए प्रतिबद्ध",
+    "definition": "dignified and somber in manner or character and committed to keeping promises",
+    "example": "a grave God-fearing man"
+  },
+  {
+    "term": "torrid",
+    "partOfSpeech": "adjective",
+    "hindi": "तीव्र भावना की विशेषता",
+    "definition": "characterized by intense emotion",
+    "example": "ardent love"
+  },
+  {
+    "term": "conceited",
+    "partOfSpeech": "adjective",
+    "hindi": "झूठी गौरव की विशेषता; आत्म-आयात की अतिरंजित भावना होना",
+    "definition": "characteristic of false pride; having an exaggerated sense of self-importance",
+    "example": "a conceited fool"
+  },
+  {
+    "term": "disinclination",
+    "partOfSpeech": "noun",
+    "hindi": "जिस तरफ आप असहज महसूस करने के लिए इच्छुक हैं",
+    "definition": "that toward which you are inclined to feel dislike",
+    "example": "his disinclination for modesty is well known"
+  },
+  {
+    "term": "stupor",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप गलती से कुछ बुरा होता है, तो संकट और असंतुष्टता की भावना",
+    "definition": "the feeling of distress and disbelief that you have when something bad happens accidentally",
+    "example": "his mother's death left him in a daze"
+  },
+  {
+    "term": "loathsome",
+    "partOfSpeech": "adjective",
+    "hindi": "कारण या कारण मतली",
+    "definition": "causing or able to cause nausea",
+    "example": "a nauseating smell"
+  },
+  {
+    "term": "exulting",
+    "partOfSpeech": "verb",
+    "hindi": "अत्यधिक खुशी या elation महसूस",
+    "definition": "feel extreme happiness or elation",
+    "example": ""
+  },
+  {
+    "term": "nirvana",
+    "partOfSpeech": "noun",
+    "hindi": "(Hinduism and Buddhism) एक पिटाई जो पुनर्जन्म के चक्र को पार करती है; इच्छा और पीड़ा और व्यक्तिगत चेतना के विलुप्त होने की विशेषता है।",
+    "definition": "(Hinduism and Buddhism) the beatitude that transcends the cycle of reincarnation; characterized by the extinction of desire and suffering and individual consciousness",
+    "example": ""
+  },
+  {
+    "term": "fervent",
+    "partOfSpeech": "adjective",
+    "hindi": "तीव्र भावना की विशेषता",
+    "definition": "characterized by intense emotion",
+    "example": "ardent love"
+  },
+  {
+    "term": "alienation",
+    "partOfSpeech": "noun",
+    "hindi": "अन्य लोगों से अलग होने की भावना",
+    "definition": "the feeling of being alienated from other people",
+    "example": ""
+  },
+  {
+    "term": "compatibility",
+    "partOfSpeech": "noun",
+    "hindi": "सहानुभूतिपूर्ण समझ की भावना",
+    "definition": "a feeling of sympathetic understanding",
+    "example": ""
+  },
+  {
+    "term": "rapt",
+    "partOfSpeech": "adjective",
+    "hindi": "आकर्षक लगना",
+    "definition": "feeling great rapture or delight",
+    "example": ""
+  },
+  {
+    "term": "mad",
+    "partOfSpeech": "adjective",
+    "hindi": "- मार्क ट्वेन",
+    "definition": "roused to anger; - Mark Twain",
+    "example": "stayed huffy a good while"
+  },
+  {
+    "term": "warmhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "दयालुता और सहानुभूति और उदारता जैसी भावना से चिह्नित",
+    "definition": "marked by warmth of feeling like kindness and sympathy and generosity",
+    "example": "gave a warmhearted welcome to the stranger"
+  },
+  {
+    "term": "loving",
+    "partOfSpeech": "verb",
+    "hindi": "के लिए एक महान स्नेह या liking है",
+    "definition": "have a great affection or liking for",
+    "example": "I love French food"
+  },
+  {
+    "term": "fervor",
+    "partOfSpeech": "noun",
+    "hindi": "महान गर्मी और तीव्रता की भावना",
+    "definition": "feelings of great warmth and intensity",
+    "example": "he spoke with great ardor"
+  },
+  {
+    "term": "fearfulness",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ विशिष्ट दर्द या खतरे की प्रत्याशा में अनुभव होने वाली भावना (आमतौर पर फी या लड़ाई की इच्छा के साथ)",
+    "definition": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+    "example": ""
+  },
+  {
+    "term": "love",
+    "partOfSpeech": "noun",
+    "hindi": "संबंध और स्नेह की एक मजबूत सकारात्मक भावना",
+    "definition": "a strong positive emotion of regard and affection",
+    "example": "his love for his work"
+  },
+  {
+    "term": "regret",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ गलत किए गए या कुछ निराशा से जुड़े उदासी",
+    "definition": "sadness associated with some wrong done or some disappointment",
+    "example": "he drank to drown his sorrows"
+  },
+  {
+    "term": "nonchalant",
+    "partOfSpeech": "adjective",
+    "hindi": "Unconcern द्वारा चिह्नित",
+    "definition": "marked by blithe unconcern",
+    "example": "an ability to interest casual students"
+  },
+  {
+    "term": "wonderment",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ अजीब और आश्चर्य की बात है",
+    "definition": "the feeling aroused by something strange and surprising",
+    "example": ""
+  },
+  {
+    "term": "appal",
+    "partOfSpeech": "verb",
+    "hindi": "Disgust या revulsion के साथ हड़ताल",
+    "definition": "strike with disgust or revulsion",
+    "example": "The scandalous behavior of this married woman shocked her friends"
+  },
+  {
+    "term": "appease",
+    "partOfSpeech": "verb",
+    "hindi": "अधिक अनुकूल होने का कारण बनता है; अच्छी इच्छा प्राप्त करें",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "example": "She managed to mollify the angry customer"
+  },
+  {
+    "term": "timidity",
+    "partOfSpeech": "noun",
+    "hindi": "अज्ञात या अपरिचित या निर्णय लेने का डर",
+    "definition": "fear of the unknown or unfamiliar or fear of making decisions",
+    "example": ""
+  },
+  {
+    "term": "woeful",
+    "partOfSpeech": "adjective",
+    "hindi": "से प्रभावित या पूरी तरह से grief या woe; - जॉर्ज डु Maurier",
+    "definition": "affected by or full of grief or woe; - George du Maurier",
+    "example": "his sorrow...made him look...haggard and...woebegone"
+  },
+  {
+    "term": "compunction",
+    "partOfSpeech": "noun",
+    "hindi": "गहरी खेद की भावना (आमतौर पर कुछ गड़बड़ी के लिए)",
+    "definition": "a feeling of deep regret (usually for some misdeed)",
+    "example": ""
+  },
+  {
+    "term": "queasy",
+    "partOfSpeech": "adjective",
+    "hindi": "कारण या कारण मतली",
+    "definition": "causing or able to cause nausea",
+    "example": "a nauseating smell"
+  },
+  {
+    "term": "petulant",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या परेशान",
+    "definition": "easily irritated or annoyed",
+    "example": "an incorrigibly fractious young man"
+  },
+  {
+    "term": "thrill",
+    "partOfSpeech": "noun",
+    "hindi": "प्रभावशाली बल के एक स्टोर की तेजी से रिलीज",
+    "definition": "the swift release of a store of affective force",
+    "example": "they got a great bang out of it"
+  },
+  {
+    "term": "fondness",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ की तरह एक predisposition",
+    "definition": "a predisposition to like something",
+    "example": "he had a fondness for whiskey"
+  },
+  {
+    "term": "lusty",
+    "partOfSpeech": "adjective",
+    "hindi": "जोरदार भावुक",
+    "definition": "vigorously passionate",
+    "example": ""
+  },
+  {
+    "term": "amaze",
+    "partOfSpeech": "verb",
+    "hindi": "आश्चर्य के साथ प्रभावित",
+    "definition": "affect with wonder",
+    "example": "Your ability to speak six languages amazes me!"
+  },
+  {
+    "term": "tyrannical",
+    "partOfSpeech": "adjective",
+    "hindi": "अनावश्यक गंभीरता या मनमाना व्यवहार द्वारा चिह्नित",
+    "definition": "marked by unjust severity or arbitrary behavior",
+    "example": "the oppressive government"
+  },
+  {
+    "term": "pessimism",
+    "partOfSpeech": "noun",
+    "hindi": "यह महसूस करना कि चीजें बुरी तरह से खत्म हो जाएगी",
+    "definition": "the feeling that things will turn out badly",
+    "example": ""
+  },
+  {
+    "term": "enamored",
+    "partOfSpeech": "verb",
+    "hindi": "आकर्षित करना",
+    "definition": "attract; cause to be enamored",
+    "example": "She captured all the men's hearts"
+  },
+  {
+    "term": "softhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से दया या दु:ख के लिए ले जाया जाता है",
+    "definition": "easily moved to pity or sorrow",
+    "example": "a softhearted judge"
+  },
+  {
+    "term": "jealous",
+    "partOfSpeech": "adjective",
+    "hindi": "चरम कपिडिटी दिखाना; दर्दनाक रूप से किसी अन्य के फायदे की इच्छा",
+    "definition": "showing extreme cupidity; painfully desirous of another's advantages",
+    "example": "he was never covetous before he met her"
+  },
+  {
+    "term": "grief",
+    "partOfSpeech": "noun",
+    "hindi": "किसी प्रियजन (विशेष रूप से मृत्यु के कारण) के नुकसान के कारण गंभीर दुःख",
+    "definition": "intense sorrow caused by loss of a loved one (especially by death)",
+    "example": ""
+  },
+  {
+    "term": "repulsive",
+    "partOfSpeech": "adjective",
+    "hindi": "मन के लिए आक्रामक",
+    "definition": "offensive to the mind",
+    "example": "an abhorrent deed"
+  },
+  {
+    "term": "elate",
+    "partOfSpeech": "verb",
+    "hindi": "उच्च आत्माओं के साथ भरें; आशावाद के साथ भरें",
+    "definition": "fill with high spirits; fill with optimism",
+    "example": "Music can uplift your spirits"
+  },
+  {
+    "term": "thankfulness",
+    "partOfSpeech": "noun",
+    "hindi": "आभार की गर्मजोशी",
+    "definition": "warm friendly feelings of gratitude",
+    "example": ""
+  },
+  {
+    "term": "heartsick",
+    "partOfSpeech": "adjective",
+    "hindi": "दु:ख से भरा",
+    "definition": "full of sorrow",
+    "example": ""
+  },
+  {
+    "term": "sullen",
+    "partOfSpeech": "adjective",
+    "hindi": "; ; ; ; ; ; ; ; ; ; - ब्रूस ब्लिवेन",
+    "definition": "showing a brooding ill humor; ; ; ; ; ; - Bruce Bliven",
+    "example": "a dark scowl"
+  },
+  {
+    "term": "irritability",
+    "partOfSpeech": "noun",
+    "hindi": "एक चिड़चिड़ा महसूस",
+    "definition": "an irritable petulant feeling",
+    "example": ""
+  },
+  {
+    "term": "exultation",
+    "partOfSpeech": "noun",
+    "hindi": "चरम सुख की भावना",
+    "definition": "a feeling of extreme joy",
+    "example": ""
+  },
+  {
+    "term": "fond",
+    "partOfSpeech": "adjective",
+    "hindi": "गर्मी या स्नेह को प्रदर्शित या प्रदर्शित करना",
+    "definition": "having or displaying warmth or affection",
+    "example": "affectionate children"
+  },
+  {
+    "term": "depressed",
+    "partOfSpeech": "verb",
+    "hindi": "किसी की आत्माओं को कम करना; दिल को कम करना",
+    "definition": "lower someone's spirits; make downhearted",
+    "example": "These news depressed her"
+  },
+  {
+    "term": "fidgety",
+    "partOfSpeech": "adjective",
+    "hindi": "तंत्रिका और आराम करने में असमर्थ",
+    "definition": "nervous and unable to relax",
+    "example": "a constant fretful stamping of hooves"
+  },
+  {
+    "term": "dismay",
+    "partOfSpeech": "noun",
+    "hindi": "बाधाओं के चेहरे पर निराशा की भावना",
+    "definition": "the feeling of despair in the face of obstacles",
+    "example": ""
+  },
+  {
+    "term": "rueful",
+    "partOfSpeech": "adjective",
+    "hindi": "पाप या अपराधों के लिए दर्द या दुःख महसूस करना या व्यक्त करना",
+    "definition": "feeling or expressing pain or sorrow for sins or offenses",
+    "example": ""
+  },
+  {
+    "term": "tingle",
+    "partOfSpeech": "noun",
+    "hindi": "डर की लगभग सुखद सनसनी",
+    "definition": "an almost pleasurable sensation of fright",
+    "example": "a frisson of surprise shot through him"
+  },
+  {
+    "term": "protectiveness",
+    "partOfSpeech": "noun",
+    "hindi": "सुरक्षात्मक स्नेह की भावना",
+    "definition": "a feeling of protective affection",
+    "example": ""
+  },
+  {
+    "term": "vindictiveness",
+    "partOfSpeech": "noun",
+    "hindi": "बदला लेने की इच्छा",
+    "definition": "a malevolent desire for revenge",
+    "example": ""
+  },
+  {
+    "term": "enrage",
+    "partOfSpeech": "verb",
+    "hindi": "एक क्रोध में डाल दिया; हिंसक गुस्से में हो जाओ",
+    "definition": "put into a rage; make violently angry",
+    "example": ""
+  },
+  {
+    "term": "doleful",
+    "partOfSpeech": "adjective",
+    "hindi": "उदासी से भरा हुआ",
+    "definition": "filled with or evoking sadness",
+    "example": "the child's doleful expression"
+  },
+  {
+    "term": "unfeeling",
+    "partOfSpeech": "adjective",
+    "hindi": "दूसरों के लिए महसूस करना",
+    "definition": "devoid of feeling for others",
+    "example": "an unfeeling wretch"
+  },
+  {
+    "term": "fervency",
+    "partOfSpeech": "noun",
+    "hindi": "महान गर्मी और तीव्रता की भावना",
+    "definition": "feelings of great warmth and intensity",
+    "example": "he spoke with great ardor"
+  },
+  {
+    "term": "offend",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "cause to feel resentment or indignation",
+    "example": "Her tactless remark offended me"
+  },
+  {
+    "term": "veneration",
+    "partOfSpeech": "noun",
+    "hindi": "किसी व्यक्ति या किसी चीज़ के लिए गहन सम्मान की भावना",
+    "definition": "a feeling of profound respect for someone or something",
+    "example": "the fear of God"
+  },
+  {
+    "term": "expressionless",
+    "partOfSpeech": "adjective",
+    "hindi": "जानबूझकर असंभव तरीके से",
+    "definition": "deliberately impassive in manner",
+    "example": "deadpan humor"
+  },
+  {
+    "term": "rejoicing",
+    "partOfSpeech": "noun",
+    "hindi": "खुशी की भावना",
+    "definition": "a feeling of great happiness",
+    "example": ""
+  },
+  {
+    "term": "panic",
+    "partOfSpeech": "noun",
+    "hindi": "भय और चिंता की भारी भावना",
+    "definition": "an overwhelming feeling of fear and anxiety",
+    "example": ""
+  },
+  {
+    "term": "ennoble",
+    "partOfSpeech": "verb",
+    "hindi": "सम्मान",
+    "definition": "confer dignity or honor upon",
+    "example": "He was dignified with a title"
+  },
+  {
+    "term": "excitement",
+    "partOfSpeech": "noun",
+    "hindi": "जीवंत और हंसमुख खुशी की भावना",
+    "definition": "the feeling of lively and cheerful joy",
+    "example": "he could hardly conceal his excitement when she agreed"
+  },
+  {
+    "term": "nervy",
+    "partOfSpeech": "adjective",
+    "hindi": "एक सामयिक स्थिति में होना",
+    "definition": "being in a tense state",
+    "example": ""
+  },
+  {
+    "term": "shame",
+    "partOfSpeech": "noun",
+    "hindi": "एक दर्दनाक भावना जिसके परिणामस्वरूप अपर्याप्तता या अपराध के बारे में जागरूकता होती है",
+    "definition": "a painful emotion resulting from an awareness of inadequacy or guilt",
+    "example": ""
+  },
+  {
+    "term": "together",
+    "partOfSpeech": "adjective",
+    "hindi": "मानसिक और भावनात्मक रूप से स्थिर",
+    "definition": "mentally and emotionally stable",
+    "example": "she's really together"
+  },
+  {
+    "term": "animate",
+    "partOfSpeech": "verb",
+    "hindi": "ऊंचाई या तीव्रता",
+    "definition": "heighten or intensify",
+    "example": "These paintings exalt the imagination"
+  },
+  {
+    "term": "distaste",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र नापसंद की भावना",
+    "definition": "a feeling of intense dislike",
+    "example": ""
+  },
+  {
+    "term": "agony",
+    "partOfSpeech": "noun",
+    "hindi": "गंभीर मानसिक या शारीरिक दर्द",
+    "definition": "intense feelings of suffering; acute mental or physical pain",
+    "example": "an agony of doubt"
+  },
+  {
+    "term": "boding",
+    "partOfSpeech": "noun",
+    "hindi": "आने के लिए बुराई की भावना",
+    "definition": "a feeling of evil to come",
+    "example": "a steadily escalating sense of foreboding"
+  },
+  {
+    "term": "enthusiasm",
+    "partOfSpeech": "noun",
+    "hindi": "उत्तेजना की भावना",
+    "definition": "a feeling of excitement",
+    "example": ""
+  },
+  {
+    "term": "euphoric",
+    "partOfSpeech": "adjective",
+    "hindi": "कल्याण या अलगाव की अतिरंजित भावना",
+    "definition": "exaggerated feeling of well-being or elation",
+    "example": ""
+  },
+  {
+    "term": "apathetic",
+    "partOfSpeech": "adjective",
+    "hindi": "कोई भावना या एनीमेशन",
+    "definition": "showing little or no emotion or animation",
+    "example": "a woman who became active rather than apathetic as she grew older"
+  },
+  {
+    "term": "appetite",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ craving की भावना; - ग्रेनविले हिक्स",
+    "definition": "a feeling of craving something; ; - Granville Hicks",
+    "example": "an appetite for life"
+  },
+  {
+    "term": "lightheartedness",
+    "partOfSpeech": "noun",
+    "hindi": "जब आपके पास कुछ भी नहीं है, तो आपको खुशी होगी",
+    "definition": "the cheerful feeling you have when nothing is troubling you",
+    "example": ""
+  },
+  {
+    "term": "bask",
+    "partOfSpeech": "verb",
+    "hindi": "आनंद लें; आनंद लें; आनंद लें",
+    "definition": "derive or receive pleasure from; get enjoyment from; take pleasure in",
+    "example": "She relished her fame and basked in her glory"
+  },
+  {
+    "term": "murderous",
+    "partOfSpeech": "adjective",
+    "hindi": "की विशेषता या सक्षम करने के लिए या करने के लिए प्रवृत्ति की हत्या की ओर एक अन्य इंसान",
+    "definition": "characteristic of or capable of or having a tendency toward killing another human being",
+    "example": "a homicidal rage"
+  },
+  {
+    "term": "tend",
+    "partOfSpeech": "verb",
+    "hindi": "क्या करना है या कुछ करना; इच्छुक होना",
+    "definition": "have a tendency or disposition to do or be something; be inclined",
+    "example": "She tends to be nervous before her lectures"
+  },
+  {
+    "term": "sincerity",
+    "partOfSpeech": "noun",
+    "hindi": "सबसे अमीर और ईमानदार भावना",
+    "definition": "an earnest and sincere feeling",
+    "example": ""
+  },
+  {
+    "term": "willies",
+    "partOfSpeech": "noun",
+    "hindi": "अविश्वास की भावना",
+    "definition": "feelings of uneasiness",
+    "example": "that guy gave me the willies"
+  },
+  {
+    "term": "resentment",
+    "partOfSpeech": "noun",
+    "hindi": "गहरे और कड़वे क्रोध और अवैध इच्छा की भावना",
+    "definition": "a feeling of deep and bitter anger and ill-will",
+    "example": ""
+  },
+  {
+    "term": "perceptiveness",
+    "partOfSpeech": "noun",
+    "hindi": "समझने की भावना",
+    "definition": "a feeling of understanding",
+    "example": ""
+  },
+  {
+    "term": "impassioned",
+    "partOfSpeech": "adjective",
+    "hindi": "तीव्र भावना की विशेषता",
+    "definition": "characterized by intense emotion",
+    "example": "ardent love"
+  },
+  {
+    "term": "oversensitive",
+    "partOfSpeech": "adjective",
+    "hindi": "unduly संवेदनशील या पतली त्वचा",
+    "definition": "unduly sensitive or thin-skinned",
+    "example": ""
+  },
+  {
+    "term": "irritate",
+    "partOfSpeech": "verb",
+    "hindi": "विशेष रूप से मामूली जलन से परेशान होना",
+    "definition": "cause annoyance in; disturb, especially by minor irritations",
+    "example": "Mosquitoes buzzing in my ear really bothers me"
+  },
+  {
+    "term": "confident",
+    "partOfSpeech": "adjective",
+    "hindi": "विश्वास या आश्वासन द्वारा चिह्नित या चिह्नित करना",
+    "definition": "having or marked by confidence or assurance",
+    "example": "a confident speaker"
+  },
+  {
+    "term": "reflective",
+    "partOfSpeech": "adjective",
+    "hindi": "गहराई से या गंभीरता से सोचा",
+    "definition": "deeply or seriously thoughtful",
+    "example": "Byron lives on not only in his poetry, but also in his creation of the 'Byronic hero' - the persona of a brooding melancholy young man"
+  },
+  {
+    "term": "torture",
+    "partOfSpeech": "noun",
+    "hindi": "मानसिक तनाव",
+    "definition": "extreme mental distress",
+    "example": ""
+  },
+  {
+    "term": "yen",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ के लिए या कुछ करना",
+    "definition": "a yearning for something or to do something",
+    "example": ""
+  },
+  {
+    "term": "vex",
+    "partOfSpeech": "verb",
+    "hindi": "विशेष रूप से मामूली जलन से परेशान होना",
+    "definition": "cause annoyance in; disturb, especially by minor irritations",
+    "example": "Mosquitoes buzzing in my ear really bothers me"
+  },
+  {
+    "term": "horrify",
+    "partOfSpeech": "verb",
+    "hindi": "तनाव या अलार्म से भरा; अप्रिय रूप से आश्चर्यचकित होने का कारण",
+    "definition": "fill with apprehension or alarm; cause to be unpleasantly surprised",
+    "example": "I was horrified at the thought of being late for my interview"
+  },
+  {
+    "term": "relief",
+    "partOfSpeech": "noun",
+    "hindi": "जब कुछ बोझ को हटा दिया जाता है या कम हो जाता है तो वह महसूस होता है",
+    "definition": "the feeling that comes when something burdensome is removed or reduced",
+    "example": "as he heard the news he was suddenly flooded with relief"
+  },
+  {
+    "term": "seriousness",
+    "partOfSpeech": "noun",
+    "hindi": "सबसे अमीर और ईमानदार भावना",
+    "definition": "an earnest and sincere feeling",
+    "example": ""
+  },
+  {
+    "term": "conceit",
+    "partOfSpeech": "noun",
+    "hindi": "अत्यधिक गौरव की भावना",
+    "definition": "feelings of excessive pride",
+    "example": ""
+  },
+  {
+    "term": "rapture",
+    "partOfSpeech": "noun",
+    "hindi": "भावना से दूर जाने की स्थिति; - चार्ल्स डिकेंस",
+    "definition": "a state of being carried away by overwhelming emotion; - Charles Dickens",
+    "example": "listening to sweet music in a perfect rapture"
+  },
+  {
+    "term": "raring",
+    "partOfSpeech": "adjective",
+    "hindi": "(आमतौर पर 'to' के बाद) उत्सुकता से भरा",
+    "definition": "(usually followed by `to') full of eagerness",
+    "example": "impatient to begin"
+  },
+  {
+    "term": "jocund",
+    "partOfSpeech": "adjective",
+    "hindi": "से भरा या उच्च-spirited merriment दिखा; - Wordsworth",
+    "definition": "full of or showing high-spirited merriment; ; - Wordsworth",
+    "example": "when hearts were young and gay"
+  },
+  {
+    "term": "dysphoria",
+    "partOfSpeech": "noun",
+    "hindi": "असामान्य अवसाद और असंतोष",
+    "definition": "abnormal depression and discontent",
+    "example": ""
+  },
+  {
+    "term": "disdain",
+    "partOfSpeech": "noun",
+    "hindi": "सम्मान की कमी के साथ तीव्र नापसंद की भावना",
+    "definition": "lack of respect accompanied by a feeling of intense dislike",
+    "example": "he was held in contempt"
+  },
+  {
+    "term": "aloof",
+    "partOfSpeech": "adjective",
+    "hindi": "दूरस्थ रूप से",
+    "definition": "remote in manner",
+    "example": "stood apart with aloof dignity"
+  },
+  {
+    "term": "leaning",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ करने के लिए एक झुकाव",
+    "definition": "an inclination to do something",
+    "example": "he felt leanings toward frivolity"
+  },
+  {
+    "term": "scorn",
+    "partOfSpeech": "noun",
+    "hindi": "सम्मान की कमी के साथ तीव्र नापसंद की भावना",
+    "definition": "lack of respect accompanied by a feeling of intense dislike",
+    "example": "he was held in contempt"
+  },
+  {
+    "term": "meditative",
+    "partOfSpeech": "adjective",
+    "hindi": "गहराई से या गंभीरता से सोचा",
+    "definition": "deeply or seriously thoughtful",
+    "example": "Byron lives on not only in his poetry, but also in his creation of the 'Byronic hero' - the persona of a brooding melancholy young man"
+  },
+  {
+    "term": "bereavement",
+    "partOfSpeech": "noun",
+    "hindi": "मृत्यु या किसी प्रियजन के प्रस्थान पर दुःख की स्थिति",
+    "definition": "state of sorrow over the death or departure of a loved one",
+    "example": ""
+  },
+  {
+    "term": "beatitude",
+    "partOfSpeech": "noun",
+    "hindi": "सर्वोच्च सुख की स्थिति",
+    "definition": "a state of supreme happiness",
+    "example": ""
+  },
+  {
+    "term": "fury",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र क्रोध की भावना",
+    "definition": "a feeling of intense anger",
+    "example": "hell hath no fury like a woman scorned"
+  },
+  {
+    "term": "frighten",
+    "partOfSpeech": "verb",
+    "hindi": "भयभीत",
+    "definition": "cause fear in",
+    "example": "The stranger who hangs around the building frightens me"
+  },
+  {
+    "term": "shyness",
+    "partOfSpeech": "noun",
+    "hindi": "शर्मिंदगी के डर की भावना",
+    "definition": "a feeling of fear of embarrassment",
+    "example": ""
+  },
+  {
+    "term": "ego",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों के लिए अपनी श्रेष्ठता में गर्व की भावना",
+    "definition": "an inflated feeling of pride in your superiority to others",
+    "example": ""
+  },
+  {
+    "term": "irascible",
+    "partOfSpeech": "adjective",
+    "hindi": "जल्दी क्रोधित",
+    "definition": "quickly aroused to anger",
+    "example": "a hotheaded commander"
+  },
+  {
+    "term": "scornful",
+    "partOfSpeech": "adjective",
+    "hindi": "चरम अवमान व्यक्त करना",
+    "definition": "expressing extreme contempt",
+    "example": ""
+  },
+  {
+    "term": "flummox",
+    "partOfSpeech": "verb",
+    "hindi": "एक रहस्य या bewildering",
+    "definition": "be a mystery or bewildering to",
+    "example": "This beats me!"
+  },
+  {
+    "term": "emotional",
+    "partOfSpeech": "adjective",
+    "hindi": "कारण के बजाय भावनाओं द्वारा निर्धारित या सक्रिय",
+    "definition": "determined or actuated by emotion rather than reason",
+    "example": "it was an emotional judgment"
+  },
+  {
+    "term": "irk",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "irritate or vex",
+    "example": "It galls me that we lost the suit"
+  },
+  {
+    "term": "resent",
+    "partOfSpeech": "verb",
+    "hindi": "कड़वाहट महसूस करना",
+    "definition": "feel bitter or indignant about",
+    "example": "She resents being paid less than her co-workers"
+  },
+  {
+    "term": "unfriendliness",
+    "partOfSpeech": "noun",
+    "hindi": "जैसा कि मित्रता की अनुपस्थिति के रूप में अनुभव नहीं है",
+    "definition": "dislike experienced as an absence of friendliness",
+    "example": ""
+  },
+  {
+    "term": "bewilder",
+    "partOfSpeech": "verb",
+    "hindi": "एक रहस्य या bewildering",
+    "definition": "be a mystery or bewildering to",
+    "example": "This beats me!"
+  },
+  {
+    "term": "dauntless",
+    "partOfSpeech": "adjective",
+    "hindi": "डर या डरावना",
+    "definition": "invulnerable to fear or intimidation",
+    "example": "audacious explorers"
+  },
+  {
+    "term": "gentle",
+    "partOfSpeech": "verb",
+    "hindi": "अधिक अनुकूल होने का कारण बनता है; अच्छी इच्छा प्राप्त करें",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "example": "She managed to mollify the angry customer"
+  },
+  {
+    "term": "empathy",
+    "partOfSpeech": "noun",
+    "hindi": "समझ और दूसरे की भावनाओं में प्रवेश",
+    "definition": "understanding and entering into another's feelings",
+    "example": ""
+  },
+  {
+    "term": "resignation",
+    "partOfSpeech": "noun",
+    "hindi": "निराशा की स्वीकृति",
+    "definition": "acceptance of despair",
+    "example": ""
+  },
+  {
+    "term": "jubilation",
+    "partOfSpeech": "noun",
+    "hindi": "चरम सुख की भावना",
+    "definition": "a feeling of extreme joy",
+    "example": ""
+  },
+  {
+    "term": "anguish",
+    "partOfSpeech": "noun",
+    "hindi": "मानसिक तनाव",
+    "definition": "extreme mental distress",
+    "example": ""
+  },
+  {
+    "term": "mournful",
+    "partOfSpeech": "adjective",
+    "hindi": "दु:ख व्यक्त करना",
+    "definition": "expressing sorrow",
+    "example": ""
+  },
+  {
+    "term": "intimidate",
+    "partOfSpeech": "verb",
+    "hindi": "डरावना",
+    "definition": "make timid or fearful",
+    "example": "Her boss intimidates her"
+  },
+  {
+    "term": "fearlessness",
+    "partOfSpeech": "noun",
+    "hindi": "कोई डर लग रहा है",
+    "definition": "feeling no fear",
+    "example": ""
+  },
+  {
+    "term": "abhorrent",
+    "partOfSpeech": "adjective",
+    "hindi": "मन के लिए आक्रामक",
+    "definition": "offensive to the mind",
+    "example": "an abhorrent deed"
+  },
+  {
+    "term": "quietude",
+    "partOfSpeech": "noun",
+    "hindi": "शांति और शांत राज्य",
+    "definition": "a state of peace and quiet",
+    "example": ""
+  },
+  {
+    "term": "bristly",
+    "partOfSpeech": "adjective",
+    "hindi": "बहुत चिड़चिड़ा",
+    "definition": "very irritable",
+    "example": "bristly exchanges between the White House and the press"
+  },
+  {
+    "term": "irritable",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या परेशान",
+    "definition": "easily irritated or annoyed",
+    "example": "an incorrigibly fractious young man"
+  },
+  {
+    "term": "soulful",
+    "partOfSpeech": "adjective",
+    "hindi": "गहरी भावना से भरा या व्यक्त करना",
+    "definition": "full of or expressing deep emotion",
+    "example": "soulful eyes"
+  },
+  {
+    "term": "tempestuous",
+    "partOfSpeech": "adjective",
+    "hindi": "हिंसक भावनाओं या व्यवहार की विशेषता",
+    "definition": "characterized by violent emotions or behavior",
+    "example": "a stormy argument"
+  },
+  {
+    "term": "harassment",
+    "partOfSpeech": "noun",
+    "hindi": "tormented होने के कारण तीव्र निराशा की भावना",
+    "definition": "a feeling of intense annoyance caused by being tormented",
+    "example": "so great was his harassment that he wanted to destroy his tormentors"
+  },
+  {
+    "term": "closeness",
+    "partOfSpeech": "noun",
+    "hindi": "अंतरंग होने की भावना और एक साथ संबंध",
+    "definition": "a feeling of being intimate and belonging together",
+    "example": "their closeness grew as the night wore on"
+  },
+  {
+    "term": "tedium",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ tedious द्वारा बोर होने की भावना",
+    "definition": "the feeling of being bored by something tedious",
+    "example": ""
+  },
+  {
+    "term": "sensitiveness",
+    "partOfSpeech": "noun",
+    "hindi": "भावनात्मक भावनाओं के प्रति संवेदनशीलता (स्वयं और दूसरों की संवेदनशीलता)",
+    "definition": "sensitivity to emotional feelings (of self and others)",
+    "example": ""
+  },
+  {
+    "term": "noisome",
+    "partOfSpeech": "adjective",
+    "hindi": "कारण या कारण मतली",
+    "definition": "causing or able to cause nausea",
+    "example": "a nauseating smell"
+  },
+  {
+    "term": "zest",
+    "partOfSpeech": "noun",
+    "hindi": "जोरदार और उत्साही आनंद",
+    "definition": "vigorous and enthusiastic enjoyment",
+    "example": ""
+  },
+  {
+    "term": "antipathy",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र नापसंद की भावना",
+    "definition": "a feeling of intense dislike",
+    "example": ""
+  },
+  {
+    "term": "infatuate",
+    "partOfSpeech": "verb",
+    "hindi": "arouse unreasoning प्यार या जुनून में और एक irrational तरीके से व्यवहार करने के लिए कारण",
+    "definition": "arouse unreasoning love or passion in and cause to behave in an irrational way",
+    "example": "His new car has infatuated him"
+  },
+  {
+    "term": "frightened",
+    "partOfSpeech": "verb",
+    "hindi": "भयभीत",
+    "definition": "cause fear in",
+    "example": "The stranger who hangs around the building frightens me"
+  },
+  {
+    "term": "bloodlust",
+    "partOfSpeech": "noun",
+    "hindi": "खून बहाने की इच्छा",
+    "definition": "a desire for bloodshed",
+    "example": ""
+  },
+  {
+    "term": "dignity",
+    "partOfSpeech": "noun",
+    "hindi": "सम्मान या सम्मान के योग्य होने की गुणवत्ता",
+    "definition": "the quality of being worthy of esteem or respect",
+    "example": "it was beneath his dignity to cheat"
+  },
+  {
+    "term": "libidinal",
+    "partOfSpeech": "adjective",
+    "hindi": "कामेच्छा से संबंधित",
+    "definition": "belonging to the libido",
+    "example": "libidinal impulses"
+  },
+  {
+    "term": "odious",
+    "partOfSpeech": "adjective",
+    "hindi": "",
+    "definition": "unequivocally detestable; ; ; ; - Edmund Burke",
+    "example": "abominable treatment of prisoners"
+  },
+  {
+    "term": "malevolence",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों के लिए बुराई की इच्छा",
+    "definition": "wishing evil to others",
+    "example": ""
+  },
+  {
+    "term": "revulsion",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र संस्करण",
+    "definition": "intense aversion",
+    "example": ""
+  },
+  {
+    "term": "dishearten",
+    "partOfSpeech": "verb",
+    "hindi": "का उत्साह दूर ले",
+    "definition": "take away the enthusiasm of",
+    "example": ""
+  },
+  {
+    "term": "angry",
+    "partOfSpeech": "adjective",
+    "hindi": "क्रोध महसूस करना",
+    "definition": "feeling or showing anger",
+    "example": "angry at the weather"
+  },
+  {
+    "term": "peevish",
+    "partOfSpeech": "adjective",
+    "hindi": "आसानी से परेशान या परेशान",
+    "definition": "easily irritated or annoyed",
+    "example": "an incorrigibly fractious young man"
+  },
+  {
+    "term": "panicked",
+    "partOfSpeech": "verb",
+    "hindi": "अचानक भय से दूर होना",
+    "definition": "be overcome by a sudden fear",
+    "example": "The students panicked when told that final exams were less than a week away"
+  },
+  {
+    "term": "astonish",
+    "partOfSpeech": "verb",
+    "hindi": "आश्चर्य के साथ प्रभावित",
+    "definition": "affect with wonder",
+    "example": "Your ability to speak six languages amazes me!"
+  },
+  {
+    "term": "nostalgic",
+    "partOfSpeech": "adjective",
+    "hindi": "परिचित चीजों या व्यक्तियों के लिए दूर रहने और लंबे समय तक दुखी",
+    "definition": "unhappy about being away and longing for familiar things or persons",
+    "example": ""
+  },
+  {
+    "term": "preference",
+    "partOfSpeech": "noun",
+    "hindi": "एक मजबूत liking",
+    "definition": "a strong liking",
+    "example": "my own preference is for good literature"
+  },
+  {
+    "term": "humiliate",
+    "partOfSpeech": "verb",
+    "hindi": "शर्म महसूस करने का कारण बनता है; का गौरव को चोट पहुँचाता है",
+    "definition": "cause to feel shame; hurt the pride of",
+    "example": "He humiliated his colleague by criticising him in front of the boss"
+  },
+  {
+    "term": "meek",
+    "partOfSpeech": "adjective",
+    "hindi": "आत्मा या तरीके से विनम्र; हल्केपन या यहां तक कि गायित विनम्रता को फिर से लिखने का सुझाव देना",
+    "definition": "humble in spirit or manner; suggesting retiring mildness or even cowed submissiveness",
+    "example": "meek and self-effacing"
+  },
+  {
+    "term": "inquietude",
+    "partOfSpeech": "noun",
+    "hindi": "चिंता की भावना जो आपको तनाव और चिड़चिड़ा बनाती है",
+    "definition": "feelings of anxiety that make you tense and irritable",
+    "example": ""
+  },
+  {
+    "term": "contempt",
+    "partOfSpeech": "noun",
+    "hindi": "सम्मान की कमी के साथ तीव्र नापसंद की भावना",
+    "definition": "lack of respect accompanied by a feeling of intense dislike",
+    "example": "he was held in contempt"
+  },
+  {
+    "term": "wearisome",
+    "partOfSpeech": "adjective",
+    "hindi": "इसलिए मानसिक थकान के कारण रुचि में कमी; ; ; ; ; ; - एडमंड बर्क; - मार्क ट्वेन",
+    "definition": "so lacking in interest as to cause mental weariness; ; ; ; ; ; - Edmund Burke; ; - Mark Twain",
+    "example": "a boring evening with uninteresting people"
+  },
+  {
+    "term": "enthrall",
+    "partOfSpeech": "verb",
+    "hindi": "पकड़ो",
+    "definition": "hold spellbound",
+    "example": ""
+  },
+  {
+    "term": "tyrannous",
+    "partOfSpeech": "adjective",
+    "hindi": "अनावश्यक गंभीरता या मनमाना व्यवहार द्वारा चिह्नित",
+    "definition": "marked by unjust severity or arbitrary behavior",
+    "example": "the oppressive government"
+  },
+  {
+    "term": "malevolent",
+    "partOfSpeech": "adjective",
+    "hindi": "इच्छा या दूसरों के लिए बुराई की इच्छा; तीव्र बीमार इच्छा या नफरत से उत्पन्न",
+    "definition": "wishing or appearing to wish evil to others; arising from intense ill will or hatred",
+    "example": "a gossipy malevolent old woman"
+  },
+  {
+    "term": "apathy",
+    "partOfSpeech": "noun",
+    "hindi": "भावना या उत्साह की अनुपस्थिति",
+    "definition": "an absence of emotion or enthusiasm",
+    "example": ""
+  },
+  {
+    "term": "unsure",
+    "partOfSpeech": "adjective",
+    "hindi": "आत्म-विश्वास की कमी",
+    "definition": "lacking self-confidence",
+    "example": "stood in the doorway diffident and abashed"
+  },
+  {
+    "term": "affable",
+    "partOfSpeech": "adjective",
+    "hindi": "गर्मजोशी और मित्रता",
+    "definition": "diffusing warmth and friendliness",
+    "example": "an affable smile"
+  },
+  {
+    "term": "tantrum",
+    "partOfSpeech": "noun",
+    "hindi": "खराब स्वभाव का प्रदर्शन",
+    "definition": "a display of bad temper",
+    "example": "he had a fit"
+  },
+  {
+    "term": "joyless",
+    "partOfSpeech": "adjective",
+    "hindi": "अनुभव या प्रेरणादायक खुशी",
+    "definition": "not experiencing or inspiring joy",
+    "example": "a joyless man"
+  },
+  {
+    "term": "covetousness",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ पाने के लिए उत्सुकता",
+    "definition": "an envious eagerness to possess something",
+    "example": ""
+  },
+  {
+    "term": "gratification",
+    "partOfSpeech": "noun",
+    "hindi": "संतुष्ट होने या संतुष्ट होने की स्थिति",
+    "definition": "state of being gratified or satisfied",
+    "example": "dull repetitious work gives no gratification"
+  },
+  {
+    "term": "propensity",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ करने के लिए एक झुकाव",
+    "definition": "an inclination to do something",
+    "example": "he felt leanings toward frivolity"
+  },
+  {
+    "term": "painful",
+    "partOfSpeech": "adjective",
+    "hindi": "शारीरिक या मनोवैज्ञानिक दर्द के कारण",
+    "definition": "causing physical or psychological pain",
+    "example": "worked with painful slowness"
+  },
+  {
+    "term": "playfulness",
+    "partOfSpeech": "noun",
+    "hindi": "एक उत्सव का अनुभव",
+    "definition": "a festive merry feeling",
+    "example": ""
+  },
+  {
+    "term": "reverential",
+    "partOfSpeech": "adjective",
+    "hindi": "महसूस करना या प्रकट करना",
+    "definition": "feeling or manifesting veneration",
+    "example": ""
+  },
+  {
+    "term": "wishing",
+    "partOfSpeech": "noun",
+    "hindi": "इच्छा की एक विशिष्ट भावना",
+    "definition": "a specific feeling of desire",
+    "example": "he got his wish"
+  },
+  {
+    "term": "compassionate",
+    "partOfSpeech": "verb",
+    "hindi": "पीड़ा को साझा करना",
+    "definition": "share the suffering of",
+    "example": ""
+  },
+  {
+    "term": "whiny",
+    "partOfSpeech": "adjective",
+    "hindi": "आदतन शिकायत",
+    "definition": "habitually complaining",
+    "example": "a whiny child"
+  },
+  {
+    "term": "emotion",
+    "partOfSpeech": "noun",
+    "hindi": "किसी भी मजबूत भावना",
+    "definition": "any strong feeling",
+    "example": ""
+  },
+  {
+    "term": "hatred",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र नापसंद की भावना; नापसंद की भावना इतनी मजबूत है कि यह कार्रवाई की मांग करता है",
+    "definition": "the emotion of intense dislike; a feeling of dislike so strong that it demands action",
+    "example": ""
+  },
+  {
+    "term": "fidget",
+    "partOfSpeech": "noun",
+    "hindi": "निरंतर गति में व्यक्त आंदोलन की भावना",
+    "definition": "a feeling of agitation expressed in continual motion",
+    "example": "he's got the fidgets"
+  },
+  {
+    "term": "assuage",
+    "partOfSpeech": "verb",
+    "hindi": "अधिक अनुकूल होने का कारण बनता है; अच्छी इच्छा प्राप्त करें",
+    "definition": "cause to be more favorably inclined; gain the good will of",
+    "example": "She managed to mollify the angry customer"
+  },
+  {
+    "term": "liking",
+    "partOfSpeech": "noun",
+    "hindi": "खुशी और आनंद की भावना",
+    "definition": "a feeling of pleasure and enjoyment",
+    "example": "I've always had a liking for reading"
+  },
+  {
+    "term": "abominable",
+    "partOfSpeech": "adjective",
+    "hindi": "",
+    "definition": "unequivocally detestable; ; ; ; - Edmund Burke",
+    "example": "abominable treatment of prisoners"
+  },
+  {
+    "term": "angered",
+    "partOfSpeech": "verb",
+    "hindi": "क्रोधित",
+    "definition": "make angry",
+    "example": "The news angered him"
+  },
+  {
+    "term": "fear",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ विशिष्ट दर्द या खतरे की प्रत्याशा में अनुभव होने वाली भावना (आमतौर पर फी या लड़ाई की इच्छा के साथ)",
+    "definition": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+    "example": ""
+  },
+  {
+    "term": "trepidation",
+    "partOfSpeech": "noun",
+    "hindi": "अलार्म या ड्रेड की भावना",
+    "definition": "a feeling of alarm or dread",
+    "example": ""
+  },
+  {
+    "term": "agonise",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "cause to agonize",
+    "example": ""
+  },
+  {
+    "term": "mystify",
+    "partOfSpeech": "verb",
+    "hindi": "एक रहस्य या bewildering",
+    "definition": "be a mystery or bewildering to",
+    "example": "This beats me!"
+  },
+  {
+    "term": "prickly",
+    "partOfSpeech": "adjective",
+    "hindi": "बहुत चिड़चिड़ा",
+    "definition": "very irritable",
+    "example": "bristly exchanges between the White House and the press"
+  },
+  {
+    "term": "premonition",
+    "partOfSpeech": "noun",
+    "hindi": "आने के लिए बुराई की भावना",
+    "definition": "a feeling of evil to come",
+    "example": "a steadily escalating sense of foreboding"
+  },
+  {
+    "term": "amusement",
+    "partOfSpeech": "noun",
+    "hindi": "आनंद लेने की भावना",
+    "definition": "a feeling of delight at being entertained",
+    "example": ""
+  },
+  {
+    "term": "misanthropy",
+    "partOfSpeech": "noun",
+    "hindi": "मानव जाति से घृणा",
+    "definition": "hatred of mankind",
+    "example": ""
+  },
+  {
+    "term": "heartbreak",
+    "partOfSpeech": "noun",
+    "hindi": "किसी प्रियजन (विशेष रूप से मृत्यु के कारण) के नुकसान के कारण गंभीर दुःख",
+    "definition": "intense sorrow caused by loss of a loved one (especially by death)",
+    "example": ""
+  },
+  {
+    "term": "phlegmatic",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना",
+    "definition": "showing little emotion",
+    "example": "a phlegmatic...and certainly undemonstrative man"
+  },
+  {
+    "term": "contemptuous",
+    "partOfSpeech": "adjective",
+    "hindi": "चरम अवमान व्यक्त करना",
+    "definition": "expressing extreme contempt",
+    "example": ""
+  },
+  {
+    "term": "anger",
+    "partOfSpeech": "noun",
+    "hindi": "एक मजबूत भावना; एक भावना जो कुछ वास्तविक या कथित शिकायतों की ओर उन्मुख है",
+    "definition": "a strong emotion; a feeling that is oriented toward some real or supposed grievance",
+    "example": ""
+  },
+  {
+    "term": "godly",
+    "partOfSpeech": "adjective",
+    "hindi": "भगवान के लिए महान श्रद्धा दिखा",
+    "definition": "showing great reverence for god",
+    "example": "a godly man"
+  },
+  {
+    "term": "solicitude",
+    "partOfSpeech": "noun",
+    "hindi": "अत्यधिक चिंता की भावना",
+    "definition": "a feeling of excessive concern",
+    "example": ""
+  },
+  {
+    "term": "sulk",
+    "partOfSpeech": "noun",
+    "hindi": "sullen aloofness या वापसी के मूड या प्रदर्शन",
+    "definition": "a mood or display of sullen aloofness or withdrawal",
+    "example": "stayed home in a sulk"
+  },
+  {
+    "term": "despondent",
+    "partOfSpeech": "adjective",
+    "hindi": "बिना आशा के",
+    "definition": "without or almost without hope",
+    "example": "despondent about his failure"
+  },
+  {
+    "term": "invigorate",
+    "partOfSpeech": "verb",
+    "hindi": "ऊंचाई या तीव्रता",
+    "definition": "heighten or intensify",
+    "example": "These paintings exalt the imagination"
+  },
+  {
+    "term": "twinge",
+    "partOfSpeech": "noun",
+    "hindi": "अचानक तेज भावना",
+    "definition": "a sudden sharp feeling",
+    "example": "pangs of regret"
+  },
+  {
+    "term": "merciless",
+    "partOfSpeech": "adjective",
+    "hindi": "कोई दया नहीं",
+    "definition": "having or showing no mercy",
+    "example": "the merciless enemy"
+  },
+  {
+    "term": "grumpy",
+    "partOfSpeech": "adjective",
+    "hindi": "परेशान और चिड़चिड़ा",
+    "definition": "annoyed and irritable",
+    "example": ""
+  },
+  {
+    "term": "fiery",
+    "partOfSpeech": "adjective",
+    "hindi": "तीव्र भावना की विशेषता",
+    "definition": "characterized by intense emotion",
+    "example": "ardent love"
+  },
+  {
+    "term": "humour",
+    "partOfSpeech": "noun",
+    "hindi": "एक विशेषता (हाबिटुअल या अपेक्षाकृत अस्थायी) महसूस करने की स्थिति",
+    "definition": "a characteristic (habitual or relatively temporary) state of feeling",
+    "example": "whether he praised or cursed me depended on his temper at the time"
+  },
+  {
+    "term": "blahs",
+    "partOfSpeech": "noun",
+    "hindi": "बोरियत और असंतोष की सामान्य भावना",
+    "definition": "a general feeling of boredom and dissatisfaction",
+    "example": ""
+  },
+  {
+    "term": "gloat",
+    "partOfSpeech": "noun",
+    "hindi": "दुर्बल संतुष्टि",
+    "definition": "malicious satisfaction",
+    "example": ""
+  },
+  {
+    "term": "affection",
+    "partOfSpeech": "noun",
+    "hindi": "liking की सकारात्मक भावना",
+    "definition": "a positive feeling of liking",
+    "example": "he had trouble expressing the affection he felt"
+  },
+  {
+    "term": "beneficent",
+    "partOfSpeech": "adjective",
+    "hindi": "अच्छा करना",
+    "definition": "doing or producing good",
+    "example": "the most beneficent regime in history"
+  },
+  {
+    "term": "whim",
+    "partOfSpeech": "noun",
+    "hindi": "अचानक इच्छा",
+    "definition": "a sudden desire",
+    "example": "he bought it on an impulse"
+  },
+  {
+    "term": "amiability",
+    "partOfSpeech": "noun",
+    "hindi": "एक हंसमुख और सहमत मूड",
+    "definition": "a cheerful and agreeable mood",
+    "example": ""
+  },
+  {
+    "term": "maliciousness",
+    "partOfSpeech": "noun",
+    "hindi": "दूसरों को देखने की जरूरत महसूस करना",
+    "definition": "feeling a need to see others suffer",
+    "example": ""
+  },
+  {
+    "term": "torturous",
+    "partOfSpeech": "adjective",
+    "hindi": "दर्द",
+    "definition": "extremely painful",
+    "example": ""
+  },
+  {
+    "term": "conniption",
+    "partOfSpeech": "noun",
+    "hindi": "खराब स्वभाव का प्रदर्शन",
+    "definition": "a display of bad temper",
+    "example": "he had a fit"
+  },
+  {
+    "term": "grudge",
+    "partOfSpeech": "noun",
+    "hindi": "पुनरावर्तन को सही करने के लिए पर्याप्त बलवान",
+    "definition": "a resentment strong enough to justify retaliation",
+    "example": "holding a grudge"
+  },
+  {
+    "term": "ebullient",
+    "partOfSpeech": "adjective",
+    "hindi": "खुशी से unrestrained",
+    "definition": "joyously unrestrained",
+    "example": ""
+  },
+  {
+    "term": "pleasant",
+    "partOfSpeech": "adjective",
+    "hindi": "अपने स्वाद या liking के साथ सद्भाव में होना",
+    "definition": "affording pleasure; being in harmony with your taste or likings",
+    "example": "we had a pleasant evening together"
+  },
+  {
+    "term": "outraged",
+    "partOfSpeech": "verb",
+    "hindi": "Disgust या revulsion के साथ हड़ताल",
+    "definition": "strike with disgust or revulsion",
+    "example": "The scandalous behavior of this married woman shocked her friends"
+  },
+  {
+    "term": "terrorise",
+    "partOfSpeech": "verb",
+    "hindi": "हिंसा या खतरों से पीड़ित",
+    "definition": "coerce by violence or with threats",
+    "example": ""
+  },
+  {
+    "term": "humiliated",
+    "partOfSpeech": "verb",
+    "hindi": "शर्म महसूस करने का कारण बनता है; का गौरव को चोट पहुँचाता है",
+    "definition": "cause to feel shame; hurt the pride of",
+    "example": "He humiliated his colleague by criticising him in front of the boss"
+  },
+  {
+    "term": "schmaltzy",
+    "partOfSpeech": "adjective",
+    "hindi": "भावनात्मक रूप से भावनात्मक",
+    "definition": "effusively or insincerely emotional",
+    "example": "a bathetic novel"
+  },
+  {
+    "term": "glum",
+    "partOfSpeech": "adjective",
+    "hindi": "मूडी और melancholic",
+    "definition": "moody and melancholic",
+    "example": ""
+  },
+  {
+    "term": "appall",
+    "partOfSpeech": "verb",
+    "hindi": "Disgust या revulsion के साथ हड़ताल",
+    "definition": "strike with disgust or revulsion",
+    "example": "The scandalous behavior of this married woman shocked her friends"
+  },
+  {
+    "term": "venerating",
+    "partOfSpeech": "verb",
+    "hindi": "सम्मान और सम्मान की भावनाओं के बारे में; मधुमक्खियों या बहिष्कारों पर विचार करें या उनमें से प्रत्येक में हों",
+    "definition": "regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of",
+    "example": "Fear God as your father"
+  },
+  {
+    "term": "please",
+    "partOfSpeech": "verb",
+    "hindi": "करने के लिए खुशी दे या करने के लिए मनभावन",
+    "definition": "give pleasure to or be pleasing to",
+    "example": "These colors please the senses"
+  },
+  {
+    "term": "prognosticate",
+    "partOfSpeech": "verb",
+    "hindi": "इसके बारे में भविष्यवाणी करें; अग्रिम में बताएं",
+    "definition": "make a prediction about; tell in advance",
+    "example": "Call the outcome of an election"
+  },
+  {
+    "term": "emotionless",
+    "partOfSpeech": "adjective",
+    "hindi": "",
+    "definition": "unmoved by feeling; ; -Margaret Deland",
+    "example": "he kept his emotionless objectivity and faith in the cause he served"
+  },
+  {
+    "term": "penance",
+    "partOfSpeech": "noun",
+    "hindi": "अपने पिछले आचरण के लिए याद रखें",
+    "definition": "remorse for your past conduct",
+    "example": ""
+  },
+  {
+    "term": "fit",
+    "partOfSpeech": "noun",
+    "hindi": "खराब स्वभाव का प्रदर्शन",
+    "definition": "a display of bad temper",
+    "example": "he had a fit"
+  },
+  {
+    "term": "pleasantness",
+    "partOfSpeech": "noun",
+    "hindi": "सहमत उत्तेजना के कारण होने वाली भावना; महसूस करने वाले राज्यों की एक निरंतरता का एक ध्रुव",
+    "definition": "the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling",
+    "example": ""
+  },
+  {
+    "term": "exult",
+    "partOfSpeech": "verb",
+    "hindi": "अत्यधिक खुशी या elation महसूस",
+    "definition": "feel extreme happiness or elation",
+    "example": ""
+  },
+  {
+    "term": "whimsical",
+    "partOfSpeech": "adjective",
+    "hindi": "आवश्यकता या कारण के बजाय संभावना या आवेग या whim द्वारा निर्धारित",
+    "definition": "determined by chance or impulse or whim rather than by necessity or reason",
+    "example": "a capricious refusal"
+  },
+  {
+    "term": "perturb",
+    "partOfSpeech": "verb",
+    "hindi": "परेशान करना या असहज बनाना या चिंतित होना या चिंतित होना",
+    "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+    "example": "She was rather perturbed by the news that her father was seriously ill"
+  },
+  {
+    "term": "emulate",
+    "partOfSpeech": "verb",
+    "hindi": "विशेष रूप से नकल करके बराबर या मैच करने का प्रयास करें",
+    "definition": "strive to equal or match, especially by imitating",
+    "example": "He is emulating the skating skills of his older sister"
+  },
+  {
+    "term": "dreadful",
+    "partOfSpeech": "adjective",
+    "hindi": "भय या भय या आतंक के कारण",
+    "definition": "causing fear or dread or terror",
+    "example": "the awful war"
+  },
+  {
+    "term": "reverence",
+    "partOfSpeech": "noun",
+    "hindi": "किसी व्यक्ति या किसी चीज़ के लिए गहन सम्मान की भावना",
+    "definition": "a feeling of profound respect for someone or something",
+    "example": "the fear of God"
+  },
+  {
+    "term": "perky",
+    "partOfSpeech": "adjective",
+    "hindi": "जीवंतता और हल्केपन की विशेषता",
+    "definition": "characterized by liveliness and lightheartedness",
+    "example": "buoyant spirits"
+  },
+  {
+    "term": "ambivalent",
+    "partOfSpeech": "adjective",
+    "hindi": "क्या पाठ्यक्रम का पालन करने के लिए अनिश्चित या असमर्थ",
+    "definition": "uncertain or unable to decide about what course to follow",
+    "example": "was ambivalent about having children"
+  },
+  {
+    "term": "jovial",
+    "partOfSpeech": "adjective",
+    "hindi": "से भरा या उच्च-spirited merriment दिखा; - Wordsworth",
+    "definition": "full of or showing high-spirited merriment; ; - Wordsworth",
+    "example": "when hearts were young and gay"
+  },
+  {
+    "term": "crossness",
+    "partOfSpeech": "noun",
+    "hindi": "एक चिड़चिड़ा महसूस",
+    "definition": "an irritable petulant feeling",
+    "example": ""
+  },
+  {
+    "term": "despise",
+    "partOfSpeech": "verb",
+    "hindi": "Disdain के साथ देखो",
+    "definition": "look down on with disdain",
+    "example": "He despises the people he has to work for"
+  },
+  {
+    "term": "anticipation",
+    "partOfSpeech": "noun",
+    "hindi": "उम्मीद",
+    "definition": "an expectation",
+    "example": ""
+  },
+  {
+    "term": "anticipate",
+    "partOfSpeech": "verb",
+    "hindi": "संभावना या संभावना के रूप में कुछ",
+    "definition": "regard something as probable or likely",
+    "example": "The meteorologists are expecting rain for tomorrow"
+  },
+  {
+    "term": "approbation",
+    "partOfSpeech": "noun",
+    "hindi": "आधिकारिक अनुमोदन",
+    "definition": "official approval",
+    "example": ""
+  },
+  {
+    "term": "disgruntlement",
+    "partOfSpeech": "noun",
+    "hindi": "sulky असंतोष की भावना",
+    "definition": "a feeling of sulky discontent",
+    "example": ""
+  },
+  {
+    "term": "penchant",
+    "partOfSpeech": "noun",
+    "hindi": "एक मजबूत liking",
+    "definition": "a strong liking",
+    "example": "my own preference is for good literature"
+  },
+  {
+    "term": "ecstasy",
+    "partOfSpeech": "noun",
+    "hindi": "भावना से दूर जाने की स्थिति; - चार्ल्स डिकेंस",
+    "definition": "a state of being carried away by overwhelming emotion; - Charles Dickens",
+    "example": "listening to sweet music in a perfect rapture"
+  },
+  {
+    "term": "discouragement",
+    "partOfSpeech": "noun",
+    "hindi": "बाधाओं के चेहरे पर निराशा की भावना",
+    "definition": "the feeling of despair in the face of obstacles",
+    "example": ""
+  },
+  {
+    "term": "antagonize",
+    "partOfSpeech": "verb",
+    "hindi": "की शत्रुता को उत्तेजित करना",
+    "definition": "provoke the hostility of",
+    "example": "Don't antagonize your boss"
+  },
+  {
+    "term": "exhilaration",
+    "partOfSpeech": "noun",
+    "hindi": "जीवंत और हंसमुख खुशी की भावना",
+    "definition": "the feeling of lively and cheerful joy",
+    "example": "he could hardly conceal his excitement when she agreed"
+  },
+  {
+    "term": "hesitant",
+    "partOfSpeech": "adjective",
+    "hindi": "चरित्र की कमी; जल्दी या दृढ़ता से कार्य करने में असमर्थ",
+    "definition": "lacking decisiveness of character; unable to act or decide quickly or firmly",
+    "example": ""
+  },
+  {
+    "term": "bashfulness",
+    "partOfSpeech": "noun",
+    "hindi": "शर्मिंदा महसूस करना",
+    "definition": "feeling embarrassed due to modesty",
+    "example": ""
+  },
+  {
+    "term": "lighthearted",
+    "partOfSpeech": "adjective",
+    "hindi": "लापरवाही और खुशहाल",
+    "definition": "carefree and happy and lighthearted",
+    "example": "was loved for her blithe spirit"
+  },
+  {
+    "term": "detestable",
+    "partOfSpeech": "adjective",
+    "hindi": "मन के लिए आक्रामक",
+    "definition": "offensive to the mind",
+    "example": "an abhorrent deed"
+  },
+  {
+    "term": "ambivalence",
+    "partOfSpeech": "noun",
+    "hindi": "मिश्रित भावनाओं या भावनाओं",
+    "definition": "mixed feelings or emotions",
+    "example": ""
+  },
+  {
+    "term": "happiness",
+    "partOfSpeech": "noun",
+    "hindi": "अच्छी तरह से किया जा रहा है की स्थिति भावनाओं की विशेषता सन्तुष्टता से लेकर तीव्र खुशी तक",
+    "definition": "state of well-being characterized by emotions ranging from contentment to intense joy",
+    "example": ""
+  },
+  {
+    "term": "despond",
+    "partOfSpeech": "verb",
+    "hindi": "आत्मविश्वास या आशा खोना; अस्वीकार हो जाना",
+    "definition": "lose confidence or hope; become dejected",
+    "example": "The supporters of the Presidential candidate desponded when they learned the early results of the election"
+  },
+  {
+    "term": "fright",
+    "partOfSpeech": "noun",
+    "hindi": "कुछ विशिष्ट दर्द या खतरे की प्रत्याशा में अनुभव होने वाली भावना (आमतौर पर फी या लड़ाई की इच्छा के साथ)",
+    "definition": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+    "example": ""
+  },
+  {
+    "term": "stewing",
+    "partOfSpeech": "noun",
+    "hindi": "चिंता और आंदोलन की चरम स्थिति",
+    "definition": "an extreme state of worry and agitation",
+    "example": "his stewing over the fight kept him awake most of the night"
+  },
+  {
+    "term": "execration",
+    "partOfSpeech": "noun",
+    "hindi": "नफरत के साथ मिलकर",
+    "definition": "hate coupled with disgust",
+    "example": ""
+  },
+  {
+    "term": "depressing",
+    "partOfSpeech": "verb",
+    "hindi": "किसी की आत्माओं को कम करना; दिल को कम करना",
+    "definition": "lower someone's spirits; make downhearted",
+    "example": "These news depressed her"
+  },
+  {
+    "term": "fearless",
+    "partOfSpeech": "adjective",
+    "hindi": "खतरों या खतरों के बारे में अप्रिय या शांतिपूर्वक उन्हें सामना करने में मदद करते हैं",
+    "definition": "oblivious of dangers or perils or calmly resolute in facing them",
+    "example": ""
+  },
+  {
+    "term": "edginess",
+    "partOfSpeech": "noun",
+    "hindi": "चिंता की भावना जो आपको तनाव और चिड़चिड़ा बनाती है",
+    "definition": "feelings of anxiety that make you tense and irritable",
+    "example": ""
+  },
+  {
+    "term": "morose",
+    "partOfSpeech": "adjective",
+    "hindi": "; ; ; ; ; ; ; ; ; ; - ब्रूस ब्लिवेन",
+    "definition": "showing a brooding ill humor; ; ; ; ; ; - Bruce Bliven",
+    "example": "a dark scowl"
+  },
+  {
+    "term": "euphoria",
+    "partOfSpeech": "noun",
+    "hindi": "महान (आमतौर पर अतिरंजित) elation की भावना",
+    "definition": "a feeling of great (usually exaggerated) elation",
+    "example": ""
+  },
+  {
+    "term": "estrange",
+    "partOfSpeech": "verb",
+    "hindi": "अनुकूलन वातावरण या संघों से हटा दें",
+    "definition": "remove from customary environment or associations",
+    "example": "years of boarding school estranged the child from her home"
+  },
+  {
+    "term": "hardhearted",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना या दया या गर्मी में कमी",
+    "definition": "lacking in feeling or pity or warmth",
+    "example": ""
+  },
+  {
+    "term": "disappointment",
+    "partOfSpeech": "noun",
+    "hindi": "असंतोष की भावना जिसके परिणामस्वरूप आपकी अपेक्षाओं को महसूस नहीं किया जाता है",
+    "definition": "a feeling of dissatisfaction that results when your expectations are not realized",
+    "example": "his hopes were so high he was doomed to disappointment"
+  },
+  {
+    "term": "dolorous",
+    "partOfSpeech": "adjective",
+    "hindi": "शोक",
+    "definition": "showing sorrow",
+    "example": ""
+  },
+  {
+    "term": "embarrassment",
+    "partOfSpeech": "noun",
+    "hindi": "जब आपका अपर्याप्तता या अपराध सार्वजनिक हो जाता है तो आपको शर्म महसूस होती है",
+    "definition": "the shame you feel when your inadequacy or guilt is made public",
+    "example": ""
+  },
+  {
+    "term": "devotion",
+    "partOfSpeech": "noun",
+    "hindi": "प्रेम की भावना",
+    "definition": "feelings of ardent love",
+    "example": "their devotion to each other was beautiful"
+  },
+  {
+    "term": "waspish",
+    "partOfSpeech": "adjective",
+    "hindi": "बहुत चिड़चिड़ा",
+    "definition": "very irritable",
+    "example": "bristly exchanges between the White House and the press"
+  },
+  {
+    "term": "hope",
+    "partOfSpeech": "noun",
+    "hindi": "आशाजनक महसूस करने का एक विशिष्ट उदाहरण",
+    "definition": "a specific instance of feeling hopeful",
+    "example": "it revived their hope of winning the pennant"
+  },
+  {
+    "term": "ruminative",
+    "partOfSpeech": "adjective",
+    "hindi": "गहराई से या गंभीरता से सोचा",
+    "definition": "deeply or seriously thoughtful",
+    "example": "Byron lives on not only in his poetry, but also in his creation of the 'Byronic hero' - the persona of a brooding melancholy young man"
+  },
+  {
+    "term": "hate",
+    "partOfSpeech": "noun",
+    "hindi": "तीव्र नापसंद की भावना; नापसंद की भावना इतनी मजबूत है कि यह कार्रवाई की मांग करता है",
+    "definition": "the emotion of intense dislike; a feeling of dislike so strong that it demands action",
+    "example": ""
+  },
+  {
+    "term": "embarrass",
+    "partOfSpeech": "verb",
+    "hindi": "शर्मिंदा होने का कारण; आत्म-चेतन महसूस करने का कारण",
+    "definition": "cause to be embarrassed; cause to feel self-conscious",
+    "example": ""
+  },
+  {
+    "term": "vindictive",
+    "partOfSpeech": "adjective",
+    "hindi": "बदला लेने या बदला लेने के लिए इरादा करने के लिए disposed; - शेक्सपियर; - M.R. कोहेन",
+    "definition": "disposed to seek revenge or intended for revenge; - Shakespeare; - M.R.Cohen",
+    "example": "more vindictive than jealous love"
+  },
+  {
+    "term": "nervousness",
+    "partOfSpeech": "noun",
+    "hindi": "जब आप jitters",
+    "definition": "the anxious feeling you have when you have the jitters",
+    "example": ""
+  },
+  {
+    "term": "defeatism",
+    "partOfSpeech": "noun",
+    "hindi": "हार की अपरिहार्यता की स्वीकृति",
+    "definition": "acceptance of the inevitability of defeat",
+    "example": ""
+  },
+  {
+    "term": "alarm",
+    "partOfSpeech": "noun",
+    "hindi": "खतरे के बारे में जागरूकता से डरना",
+    "definition": "fear resulting from the awareness of danger",
+    "example": ""
+  },
+  {
+    "term": "misogynistic",
+    "partOfSpeech": "adjective",
+    "hindi": "विशेष रूप से महिलाओं से नफरत करना",
+    "definition": "hating women in particular",
+    "example": ""
+  },
+  {
+    "term": "contentment",
+    "partOfSpeech": "noun",
+    "hindi": "जीवन में किसी की स्थिति के साथ खुशी",
+    "definition": "happiness with one's situation in life",
+    "example": ""
+  },
+  {
+    "term": "jocular",
+    "partOfSpeech": "adjective",
+    "hindi": "चुटकुले और अच्छे हास्य की विशेषता",
+    "definition": "characterized by jokes and good humor",
+    "example": ""
+  },
+  {
+    "term": "joyful",
+    "partOfSpeech": "adjective",
+    "hindi": "आनंद का पूर्ण या उत्पादन",
+    "definition": "full of or producing joy",
+    "example": "make a joyful noise"
+  },
+  {
+    "term": "traumatise",
+    "partOfSpeech": "verb",
+    "hindi": "पर एक आघात inflict",
+    "definition": "inflict a trauma upon",
+    "example": ""
+  },
+  {
+    "term": "agonize",
+    "partOfSpeech": "verb",
+    "hindi": "",
+    "definition": "cause to agonize",
+    "example": ""
+  },
+  {
+    "term": "whiney",
+    "partOfSpeech": "adjective",
+    "hindi": "आदतन शिकायत",
+    "definition": "habitually complaining",
+    "example": "a whiny child"
+  },
+  {
+    "term": "lividity",
+    "partOfSpeech": "noun",
+    "hindi": "बहुत बड़ा चेहरा फीका पड़ा",
+    "definition": "a state of fury so great the face becomes discolored",
+    "example": ""
+  },
+  {
+    "term": "abhorrence",
+    "partOfSpeech": "noun",
+    "hindi": "नफरत के साथ मिलकर",
+    "definition": "hate coupled with disgust",
+    "example": ""
+  },
+  {
+    "term": "mood",
+    "partOfSpeech": "noun",
+    "hindi": "एक विशेषता (हाबिटुअल या अपेक्षाकृत अस्थायी) महसूस करने की स्थिति",
+    "definition": "a characteristic (habitual or relatively temporary) state of feeling",
+    "example": "whether he praised or cursed me depended on his temper at the time"
+  },
+  {
+    "term": "disapprove",
+    "partOfSpeech": "verb",
+    "hindi": "बुरा या गलत विचार",
+    "definition": "consider bad or wrong",
+    "example": ""
+  },
+  {
+    "term": "expectancy",
+    "partOfSpeech": "noun",
+    "hindi": "उम्मीद",
+    "definition": "an expectation",
+    "example": ""
+  },
+  {
+    "term": "inimical",
+    "partOfSpeech": "adjective",
+    "hindi": "दोस्ताना नहीं",
+    "definition": "not friendly",
+    "example": "an unfriendly act of aggression"
+  },
+  {
+    "term": "stupefaction",
+    "partOfSpeech": "noun",
+    "hindi": "stupefied astonishment की भावना",
+    "definition": "a feeling of stupefied astonishment",
+    "example": ""
+  },
+  {
+    "term": "edgy",
+    "partOfSpeech": "adjective",
+    "hindi": "एक सामयिक स्थिति में होना",
+    "definition": "being in a tense state",
+    "example": ""
+  },
+  {
+    "term": "enliven",
+    "partOfSpeech": "verb",
+    "hindi": "ऊंचाई या तीव्रता",
+    "definition": "heighten or intensify",
+    "example": "These paintings exalt the imagination"
+  },
+  {
+    "term": "nauseous",
+    "partOfSpeech": "adjective",
+    "hindi": "कारण या कारण मतली",
+    "definition": "causing or able to cause nausea",
+    "example": "a nauseating smell"
+  },
+  {
+    "term": "pride",
+    "partOfSpeech": "noun",
+    "hindi": "आत्मसम्मान और व्यक्तिगत मूल्य की भावना",
+    "definition": "a feeling of self-respect and personal worth",
+    "example": ""
+  },
+  {
+    "term": "emulation",
+    "partOfSpeech": "noun",
+    "hindi": "बराबर या excel करने के लिए महत्वाकांक्षा",
+    "definition": "ambition to equal or excel",
+    "example": ""
+  },
+  {
+    "term": "heartless",
+    "partOfSpeech": "adjective",
+    "hindi": "भावना या दया या गर्मी में कमी",
+    "definition": "lacking in feeling or pity or warmth",
+    "example": ""
+  },
+  {
+    "term": "pessimistic",
+    "partOfSpeech": "adjective",
+    "hindi": "सबसे खराब संभावित परिणाम की उम्मीद",
+    "definition": "expecting the worst possible outcome",
+    "example": ""
+  },
+  {
+    "term": "uneasy",
+    "partOfSpeech": "adjective",
+    "hindi": "सुरक्षा की भावना की कमी या कोई आसानी या पुन: आश्वासन नहीं देना",
+    "definition": "lacking a sense of security or affording no ease or reassurance",
+    "example": "farmers were uneasy until rain finally came"
+  },
+  {
+    "term": "hearty",
+    "partOfSpeech": "adjective",
+    "hindi": "गर्म और दिल की धड़कन",
+    "definition": "showing warm and heartfelt friendliness",
+    "example": "gave us a cordial reception"
+  },
+  {
+    "term": "infatuation",
+    "partOfSpeech": "noun",
+    "hindi": "आमतौर पर असाधारण जुनून या प्यार या प्रशंसा",
+    "definition": "a foolish and usually extravagant passion or love or admiration",
+    "example": ""
+  },
+  {
+    "term": "dysphoric",
+    "partOfSpeech": "adjective",
+    "hindi": "संकट की सामान्य भावना",
+    "definition": "generalized feeling of distress",
+    "example": ""
+  },
+  {
+    "term": "aspire",
+    "partOfSpeech": "verb",
+    "hindi": "एक महत्वाकांक्षी योजना या एक मचान लक्ष्य है",
+    "definition": "have an ambitious plan or a lofty goal",
+    "example": ""
+  },
+  {
+    "term": "mirthful",
+    "partOfSpeech": "adjective",
+    "hindi": "से भरा या उच्च-spirited merriment दिखा; - Wordsworth",
+    "definition": "full of or showing high-spirited merriment; ; - Wordsworth",
+    "example": "when hearts were young and gay"
+  },
+  {
+    "term": "quiver",
+    "partOfSpeech": "noun",
+    "hindi": "डर की लगभग सुखद सनसनी",
+    "definition": "an almost pleasurable sensation of fright",
+    "example": "a frisson of surprise shot through him"
+  },
+  {
+    "term": "empathic",
+    "partOfSpeech": "adjective",
+    "hindi": "दूसरों के राज्यों की सहानुभूति या तैयार समझ दिखा रहा है",
+    "definition": "showing empathy or ready comprehension of others' states",
+    "example": "a sensitive and empathetic school counselor"
+  }
+]

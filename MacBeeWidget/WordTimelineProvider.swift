@@ -16,7 +16,7 @@ struct WordTimelineProvider: TimelineProvider {
     // Loads the chosen dictionary's JSON from the WIDGET bundle — every dictionary
     // json must be a member of the widget target too, or this traps on launch.
     private func provider() -> WordProvider {
-        WordProvider(resource: AppGroup.widgetDictionaryID)
+        WordProvider(resource: AppGroup.dictionaryID)
     }
 
     func placeholder(in context: Context) -> WordEntry {

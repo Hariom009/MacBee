@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct WordListView: View {
-    @AppStorage("dictionaryID") private var dictionaryID = Wordbook.everydayEnglish.id
+    @AppStorage("dictionaryID", store: AppGroup.defaults) private var dictionaryID = Wordbook.everydayEnglish.id
     @State private var model = WordListViewModel()
     @State private var query = ""
     @Environment(\.colorScheme) private var scheme

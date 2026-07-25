@@ -6,11 +6,12 @@
 //
 
 import SwiftUI
+import WidgetKit
 
 struct WordView: View {
     @State private var model = WordViewModel()
     @State private var showingSettings = false
-    @AppStorage("dictionaryID") private var dictionaryID = Wordbook.everydayEnglish.id
+    @AppStorage("dictionaryID", store: AppGroup.defaults) private var dictionaryID = Wordbook.everydayEnglish.id
     @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
@@ -20,6 +21,7 @@ struct WordView: View {
                 ToolbarItemGroup(placement: .primaryAction) {
                     Button {
                         model.shuffle()
+                        WidgetCenter.shared.reloadAllTimelines()
                     } label: {
                         Label("New Word", systemImage: "arrow.clockwise")
                     }
@@ -41,7 +43,10 @@ struct WordView: View {
                 SettingsView()
             }
             .onAppear { model.select(Wordbook.named(dictionaryID)) }
-            .onChange(of: dictionaryID) { _, id in model.select(Wordbook.named(id)) }
+            .onChange(of: dictionaryID) { _, id in
+                model.select(Wordbook.named(id))
+                WidgetCenter.shared.reloadAllTimelines()
+            }
             .onChange(of: scenePhase) { _, phase in
                 if phase == .active { model.refresh() }
             }

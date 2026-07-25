@@ -9,31 +9,39 @@ import SwiftUI
 
 struct WordView: View {
     @State private var model = WordViewModel()
+    @State private var showingSettings = false
     @AppStorage("dictionaryID") private var dictionaryID = Wordbook.everydayEnglish.id
     @Environment(\.scenePhase) private var scenePhase
 
     var body: some View {
-        WordDetail(word: model.word)
+        WordDetail(word: model.word, showDate: true, dictionaryName: model.wordbook.name)
             .navigationTitle("Word of the Day")
             .toolbar {
                 ToolbarItemGroup(placement: .primaryAction) {
+                    Button {
+                        model.shuffle()
+                    } label: {
+                        Label("New Word", systemImage: "arrow.clockwise")
+                    }
+                    .help("Show another word")
                     NavigationLink {
                         WordListView()
                     } label: {
                         Label("Search Words", systemImage: "magnifyingglass")
                     }
-                    Menu {
-                        Picker("Dictionary", selection: $dictionaryID) {
-                            ForEach(Wordbook.all) { book in
-                                Text(book.name).tag(book.id)
-                            }
-                        }
+                    Button {
+                        showingSettings = true
                     } label: {
-                        Label(Wordbook.named(dictionaryID).name, systemImage: "books.vertical")
+                        Label("Settings", systemImage: "gearshape")
                     }
-                    .help("Select dictionary")
+                    .help("Settings")
                 }
             }
+            .sheet(isPresented: $showingSettings) {
+                SettingsView()
+            }
+            .onAppear { model.select(Wordbook.named(dictionaryID)) }
+            .onChange(of: dictionaryID) { _, id in model.select(Wordbook.named(id)) }
             .onChange(of: scenePhase) { _, phase in
                 if phase == .active { model.refresh() }
             }

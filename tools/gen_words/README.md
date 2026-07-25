@@ -44,7 +44,7 @@ word is kept solely if its **dominant WordNet sense** is inside the emotion doma
 hyponyms of `emotion.n.01` + `feeling.n.01` + `mood.n.01`, their derived adjectives/verbs,
 and attribute adjectives (happy ← happiness). Gating on the *dominant* sense (not any sense)
 is what drops generic words whose main meaning isn't a feeling ("able", "concentrate",
-"dingy"), leaving ~770 genuine emotion words. Reuse this rule for any themed dictionary:
+"dingy"), leaving ~990 genuine emotion words. Reuse this rule for any themed dictionary:
 pick the domain's WordNet root(s), keep words whose dominant sense sits under them.
 
 ```bash
@@ -52,7 +52,7 @@ pick the domain's WordNet root(s), keep words whose dominant sense sits under th
 ./venv/bin/python emotions_translate.py   # translates + writes ../../MacBee/Shared/emotions.json
 ```
 
-Honest ceiling: with the dominant-sense purity gate, WordNet yields ~770 genuine emotion
+Honest ceiling: with the dominant-sense purity gate, WordNet yields ~990 genuine emotion
 words. There is no set of 5,000 real emotion words — reaching that needs an emotion-*association*
 lexicon (e.g. NRC EmoLex, non-open license) and includes words that merely carry emotional
 connotation. To add a themed dictionary: write an extractor like this, then register a

@@ -29,7 +29,7 @@ cands={l.name() for s in domain for l in s.lemmas()}
 rows={}
 for w in cands:
     if not (w.isalpha() and w.islower() and 3<=len(w)<=16): continue
-    if zipf_frequency(w,'en')<1.3: continue
+    if zipf_frequency(w,"en")<0.0: continue
     syns=wn.synsets(w)
     if not syns or syns[0] not in domain: continue     # DOMINANT sense must be an emotion
     syn=syns[0]; d=syn.definition()

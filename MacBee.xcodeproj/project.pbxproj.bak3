@@ -8,20 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		09D61080727D9856F6A3588B /* WordWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E911C1375108796596E7A0B /* WordWidget.swift */; };
-		0BFF165D1B1C37B579AF9882 /* emotions.json in Resources */ = {isa = PBXBuildFile; fileRef = 251E69A6F52172455BF1BF41 /* emotions.json */; };
 		223036CF8FCA794ED8CB88DB /* WordWidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD252FD12B6844492A537A1 /* WordWidgetView.swift */; };
 		454D75AFB332E44669580C25 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44AE8128AEAEF5A8205EEF86 /* Cocoa.framework */; };
 		4D6488A088DDD6EF3A0E5785 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = 55C811B3A327A36356E4F0A2 /* words.json */; };
 		51D1930D2882FFBC14111DE0 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9090519E3AF740D8B3721FE /* Word.swift */; };
 		92E2AB170B5A8261678553DE /* WordProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24FFB551199DA0B818E57D55 /* WordProvider.swift */; };
-		A546D10CC8A6C1B69CEC2FEF /* philosophy.json in Resources */ = {isa = PBXBuildFile; fileRef = 1B567267BBFDED8FB15FC6DF /* philosophy.json */; };
 		A687D06EAAA2104944770B53 /* WordStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5CF289F3457ECA946401C67 /* WordStore.swift */; };
 		A7B255858D4DE82417020018 /* WordEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FFA7CFBB6598FD5C51F519F /* WordEntry.swift */; };
 		B60F263C0E653908221F11BF /* MacBeeWidget.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 976D178E0321C571C1805FED /* MacBeeWidget.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		B8E2AAC8E1D188DBCA2275F8 /* medical.json in Resources */ = {isa = PBXBuildFile; fileRef = D9A0BA709520018717D6301B /* medical.json */; };
-		C5AB0CCFF565F10B96E1CA8F /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F21027AD3F1A04808DD5036 /* AppGroup.swift */; };
 		C7DE0372A9DF749F3587093E /* WordTimelineProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B23BBFBDE3CE4671C3E12906 /* WordTimelineProvider.swift */; };
-		DE9579143936E10B5687ADC9 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09D9551D935D59C10E8C312 /* Theme.swift */; };
 		EBEC398F5303F3C1079E8231 /* RefreshWordIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983BD001F6B3181E50330BCB /* RefreshWordIntent.swift */; };
 /* End PBXBuildFile section */
 
@@ -50,30 +45,23 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1B567267BBFDED8FB15FC6DF /* philosophy.json */ = {isa = PBXFileReference; includeInIndex = 1; name = philosophy.json; path = MacBee/Shared/philosophy.json; sourceTree = "<group>"; };
 		24FFB551199DA0B818E57D55 /* WordProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WordProvider.swift; path = MacBee/Shared/WordProvider.swift; sourceTree = "<group>"; };
-		251E69A6F52172455BF1BF41 /* emotions.json */ = {isa = PBXFileReference; includeInIndex = 1; name = emotions.json; path = MacBee/Shared/emotions.json; sourceTree = "<group>"; };
 		44AE8128AEAEF5A8205EEF86 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
 		55C811B3A327A36356E4F0A2 /* words.json */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.json; name = words.json; path = MacBee/Shared/words.json; sourceTree = "<group>"; };
 		5AD252FD12B6844492A537A1 /* WordWidgetView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WordWidgetView.swift; path = MacBeeWidget/WordWidgetView.swift; sourceTree = "<group>"; };
 		6E911C1375108796596E7A0B /* WordWidget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WordWidget.swift; path = MacBeeWidget/WordWidget.swift; sourceTree = "<group>"; };
-		6F21027AD3F1A04808DD5036 /* AppGroup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AppGroup.swift; path = MacBee/Shared/AppGroup.swift; sourceTree = "<group>"; };
 		6FFA7CFBB6598FD5C51F519F /* WordEntry.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WordEntry.swift; path = MacBeeWidget/WordEntry.swift; sourceTree = "<group>"; };
 		976D178E0321C571C1805FED /* MacBeeWidget.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = MacBeeWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		983BD001F6B3181E50330BCB /* RefreshWordIntent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RefreshWordIntent.swift; path = MacBeeWidget/RefreshWordIntent.swift; sourceTree = "<group>"; };
-		A09D9551D935D59C10E8C312 /* Theme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Theme.swift; path = MacBee/Shared/Theme.swift; sourceTree = "<group>"; };
 		B23BBFBDE3CE4671C3E12906 /* WordTimelineProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WordTimelineProvider.swift; path = MacBeeWidget/WordTimelineProvider.swift; sourceTree = "<group>"; };
 		BFCC5B563011545500C0FE1F /* MacBee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacBee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5CF289F3457ECA946401C67 /* WordStore.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WordStore.swift; path = MacBee/Shared/WordStore.swift; sourceTree = "<group>"; };
 		D9090519E3AF740D8B3721FE /* Word.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Word.swift; path = MacBee/Shared/Word.swift; sourceTree = "<group>"; };
-		D9A0BA709520018717D6301B /* medical.json */ = {isa = PBXFileReference; includeInIndex = 1; name = medical.json; path = MacBee/Shared/medical.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		BFCC5B583011545500C0FE1F /* MacBee */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = MacBee;
 			sourceTree = "<group>";
 		};
@@ -113,11 +101,6 @@
 				24FFB551199DA0B818E57D55 /* WordProvider.swift */,
 				55C811B3A327A36356E4F0A2 /* words.json */,
 				C5CF289F3457ECA946401C67 /* WordStore.swift */,
-				A09D9551D935D59C10E8C312 /* Theme.swift */,
-				6F21027AD3F1A04808DD5036 /* AppGroup.swift */,
-				251E69A6F52172455BF1BF41 /* emotions.json */,
-				1B567267BBFDED8FB15FC6DF /* philosophy.json */,
-				D9A0BA709520018717D6301B /* medical.json */,
 			);
 			name = SharedRefs;
 			sourceTree = "<group>";
@@ -245,9 +228,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D6488A088DDD6EF3A0E5785 /* words.json in Resources */,
-				0BFF165D1B1C37B579AF9882 /* emotions.json in Resources */,
-				A546D10CC8A6C1B69CEC2FEF /* philosophy.json in Resources */,
-				B8E2AAC8E1D188DBCA2275F8 /* medical.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,8 +253,6 @@
 				92E2AB170B5A8261678553DE /* WordProvider.swift in Sources */,
 				EBEC398F5303F3C1079E8231 /* RefreshWordIntent.swift in Sources */,
 				A687D06EAAA2104944770B53 /* WordStore.swift in Sources */,
-				DE9579143936E10B5687ADC9 /* Theme.swift in Sources */,
-				C5AB0CCFF565F10B96E1CA8F /* AppGroup.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

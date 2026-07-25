@@ -3,31 +3,34 @@
 //  MacBeeWidget
 //
 //  The widget's "view model": WidgetKit asks it what to show and when to refresh.
-//  Same Shared model as the app (WordProvider), so both agree on the day's word.
+//  The dictionary comes from the App Group (chosen in the app's Settings); the
+//  manual refresh offset from WordStore. Same Shared model as the app.
 //
 
 import WidgetKit
 import Foundation
 
 struct WordTimelineProvider: TimelineProvider {
-    // Loads words.json from the WIDGET bundle — words.json must be a member of the
-    // widget target too (see setup steps), or this traps on launch.
-    private let words = WordProvider()
     private let calendar = Calendar.current
 
+    // Loads the chosen dictionary's JSON from the WIDGET bundle — every dictionary
+    // json must be a member of the widget target too, or this traps on launch.
+    private func provider() -> WordProvider {
+        WordProvider(resource: AppGroup.widgetDictionaryID)
+    }
+
     func placeholder(in context: Context) -> WordEntry {
-        WordEntry(date: Date(), word: words.word(for: Date()))
+        WordEntry(date: Date(), word: provider().word(for: Date(), offset: WordStore.offset))
     }
 
     func getSnapshot(in context: Context, completion: @escaping (WordEntry) -> Void) {
-        completion(WordEntry(date: Date(), word: words.word(for: Date())))
+        completion(WordEntry(date: Date(), word: provider().word(for: Date(), offset: WordStore.offset)))
     }
 
     func getTimeline(in context: Context, completion: @escaping (Timeline<WordEntry>) -> Void) {
+        let words = provider()
         let today = calendar.startOfDay(for: Date())
-        let shift = WordStore.offset   // manual "refresh" taps, applied on top of the day's word
-        // One entry per day for the next week; WidgetKit rotates through them and
-        // rebuilds the timeline after the last (.atEnd) — no background wakeups needed.
+        let shift = WordStore.offset
         let entries = (0..<7).compactMap { dayOffset -> WordEntry? in
             guard let day = calendar.date(byAdding: .day, value: dayOffset, to: today) else { return nil }
             return WordEntry(date: day, word: words.word(for: day, offset: shift))

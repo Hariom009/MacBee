@@ -28,9 +28,11 @@ just sits on the Mac's display and rotates daily.
 - App UI done: `MacBeeApp` → `WordView` → `WordViewModel` (today's word + Hindi, MVVM).
 - Browse/search: `WordListView` lists a whole dictionary alphabetically with a toolbar search
   field; a search button on the today screen opens it. `Wordbook` (`MacBee/Wordbook.swift`) is
-  the dictionary registry — two so far: **Everyday English** (`words.json`, 12k) and
-  **Emotions** (`emotions.json`, ~770 — feeling/mood words only, dominant-sense filtered).
-  A toolbar picker switches between them.
+  the dictionary registry — four so far: **Everyday English** (`words.json`, 12k),
+  **Emotions** (`emotions.json`, ~990), **Philosophy** (`philosophy.json`, ~140) and
+  **Medical** (`medical.json`, ~1.7k) — the themed ones are dominant-sense filtered (no
+  generic words), all from open WordNet (not the copyrighted books/MedlinePlus). Each
+  dictionary has its own word of the day; a toolbar picker switches them.
 - **Widget Extension target `MacBeeWidget` now exists and is live.** Builds green, the
   `.appex` embeds in the app, and the system registers it (`pluginkit -m | grep MacBee`).
   Drop it on the desktop via right-click desktop ▸ Edit Widgets ▸ "Word of the Day".

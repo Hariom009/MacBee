@@ -37,9 +37,9 @@ struct WordWidgetView: View {
                 Button(intent: RefreshWordIntent()) {
                     Image(systemName: "arrow.clockwise")
                         .font(.system(size: 10, weight: .semibold))
-                        .foregroundStyle(t.accent)
+                        .foregroundStyle(t.muted)
                         .padding(5)
-                        .background(t.accent.opacity(0.15), in: Circle())
+                        .background(t.muted.opacity(0.15), in: Circle())
                 }
                 .buttonStyle(.plain)
             }
@@ -51,7 +51,7 @@ struct WordWidgetView: View {
                     .lineLimit(small ? 6 : 2)
                     .padding(.leading, small ? 0 : 9)
                     .overlay(alignment: .leading) {
-                        if !small { Rectangle().fill(t.rule).frame(width: 2) }
+                        if !small { Rectangle().fill(t.muted.opacity(0.4)).frame(width: 2) }
                     }
                     .padding(.top, small ? 6 : 8)
             }

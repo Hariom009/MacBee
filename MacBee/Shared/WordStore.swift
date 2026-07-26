@@ -11,7 +11,8 @@
 import Foundation
 
 enum WordStore {
-    nonisolated private static let key = "refreshOffset"
+    // ponytail: bumped from "refreshOffset" to abandon stale test values (starts at 0 = today's word).
+    nonisolated private static let key = "wordOffset"
 
     nonisolated static var offset: Int {
         get { AppGroup.defaults.integer(forKey: key) }

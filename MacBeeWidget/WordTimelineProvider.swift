@@ -3,38 +3,41 @@
 //  MacBeeWidget
 //
 //  The widget's "view model": WidgetKit asks it what to show and when to refresh.
-//  The dictionary comes from the App Group (chosen in the app's Settings); the
-//  manual refresh offset from WordStore. Same Shared model as the app.
+//  The dictionary comes from the widget's own configuration (SelectDictionaryIntent,
+//  editable per widget) — no App Group needed. The manual refresh offset is the
+//  widget-local WordStore.
 //
 
 import WidgetKit
 import Foundation
 
-struct WordTimelineProvider: TimelineProvider {
+struct WordTimelineProvider: AppIntentTimelineProvider {
     private let calendar = Calendar.current
 
-    // Loads the chosen dictionary's JSON from the WIDGET bundle — every dictionary
+    // Loads the configured dictionary's JSON from the WIDGET bundle — every dictionary
     // json must be a member of the widget target too, or this traps on launch.
-    private func provider() -> WordProvider {
-        WordProvider(resource: AppGroup.dictionaryID)
+    private func provider(for configuration: SelectDictionaryIntent) -> WordProvider {
+        WordProvider(resource: configuration.dictionary.resource)
     }
 
     func placeholder(in context: Context) -> WordEntry {
-        WordEntry(date: Date(), word: provider().word(for: Date(), offset: WordStore.offset))
+        let words = WordProvider(resource: WidgetDictionary.words.resource)
+        return WordEntry(date: Date(), word: words.word(for: Date(), offset: WordStore.offset))
     }
 
-    func getSnapshot(in context: Context, completion: @escaping (WordEntry) -> Void) {
-        completion(WordEntry(date: Date(), word: provider().word(for: Date(), offset: WordStore.offset)))
+    func snapshot(for configuration: SelectDictionaryIntent, in context: Context) async -> WordEntry {
+        let words = provider(for: configuration)
+        return WordEntry(date: Date(), word: words.word(for: Date(), offset: WordStore.offset))
     }
 
-    func getTimeline(in context: Context, completion: @escaping (Timeline<WordEntry>) -> Void) {
-        let words = provider()
+    func timeline(for configuration: SelectDictionaryIntent, in context: Context) async -> Timeline<WordEntry> {
+        let words = provider(for: configuration)
         let today = calendar.startOfDay(for: Date())
         let shift = WordStore.offset
         let entries = (0..<7).compactMap { dayOffset -> WordEntry? in
             guard let day = calendar.date(byAdding: .day, value: dayOffset, to: today) else { return nil }
             return WordEntry(date: day, word: words.word(for: day, offset: shift))
         }
-        completion(Timeline(entries: entries, policy: .atEnd))
+        return Timeline(entries: entries, policy: .atEnd)
     }
 }

@@ -3,20 +3,55 @@
 //  MacBeeWidget
 //
 //  The widget definition + the extension's @main entry point.
+//  The dictionary is chosen per-widget in the Edit UI (long-press → Edit Widget)
+//  via an App Intent configuration — no App Group needed, so it works without any
+//  provisioning of the widget's app id.
 //
 
 import WidgetKit
 import SwiftUI
+import AppIntents
+
+/// Dictionaries offered in the widget's Edit menu. `.followApp` (the default) tracks
+/// the dictionary picked in the app's Settings (shared via the App Group); the rest
+/// pin the widget to a specific dictionary regardless of the app.
+enum WidgetDictionary: String, AppEnum {
+    case followApp, words, emotions, philosophy, medical
+
+    static var typeDisplayRepresentation: TypeDisplayRepresentation = "Dictionary"
+    static var caseDisplayRepresentations: [WidgetDictionary: DisplayRepresentation] = [
+        .followApp:  "Follow App Settings",
+        .words:      "Everyday English",
+        .emotions:   "Emotions",
+        .philosophy: "Philosophy",
+        .medical:    "Medical",
+    ]
+
+    /// Bundled JSON resource name (`<resource>.json`). `.followApp` resolves at read
+    /// time from the App Group so it mirrors the app's current Settings choice.
+    var resource: String {
+        self == .followApp ? AppGroup.dictionaryID : rawValue
+    }
+}
+
+/// The widget's configuration: which dictionary to show. Editable per widget.
+struct SelectDictionaryIntent: WidgetConfigurationIntent {
+    static var title: LocalizedStringResource = "Dictionary"
+    static var description = IntentDescription("Choose which dictionary the widget shows.")
+
+    @Parameter(title: "Dictionary", default: .followApp)
+    var dictionary: WidgetDictionary
+}
 
 struct WordWidget: Widget {
     let kind = "WordWidget"
 
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: kind, provider: WordTimelineProvider()) { entry in
+        AppIntentConfiguration(kind: kind, intent: SelectDictionaryIntent.self, provider: WordTimelineProvider()) { entry in
             WordWidgetView(entry: entry)
         }
         .configurationDisplayName("Word of the Day")
-        .description("A new word every day.")
+        .description("Pick a dictionary; a new word every day.")
         .supportedFamilies([.systemSmall, .systemMedium, .systemLarge])
     }
 }

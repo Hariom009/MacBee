@@ -16,15 +16,18 @@ import AppIntents
 /// the dictionary picked in the app's Settings (shared via the App Group); the rest
 /// pin the widget to a specific dictionary regardless of the app.
 enum WidgetDictionary: String, AppEnum {
-    case followApp, words, emotions, philosophy, medical
+    case followApp, words, emotions, philosophy, medical, character, eloquence, curiosities
 
     static var typeDisplayRepresentation: TypeDisplayRepresentation = "Dictionary"
     static var caseDisplayRepresentations: [WidgetDictionary: DisplayRepresentation] = [
-        .followApp:  "Follow App Settings",
-        .words:      "Everyday English",
-        .emotions:   "Emotions",
-        .philosophy: "Philosophy",
-        .medical:    "Medical",
+        .followApp:   "Follow App Settings",
+        .words:       "Everyday English",
+        .emotions:    "Emotions",
+        .philosophy:  "Philosophy",
+        .medical:     "Medicine",
+        .character:   "Character",
+        .eloquence:   "Eloquence",
+        .curiosities: "Curiosities",
     ]
 
     /// Bundled JSON resource name (`<resource>.json`). `.followApp` resolves at read
@@ -53,6 +56,7 @@ struct WordWidget: Widget {
         .configurationDisplayName("Word of the Day")
         .description("Pick a dictionary; a new word every day.")
         .supportedFamilies([.systemSmall, .systemMedium, .systemLarge])
+        .contentMarginsDisabled()   // the view supplies the design's own padding (16/17/26)
     }
 }
 

@@ -35,8 +35,8 @@ struct Theme {
     )
 
     static let dark = Theme(
-        background: Color(hex: 0x16130F),
-        surface:    Color(hex: 0x241F19),
+        background: Color(hex: 0x000000),
+        surface:    Color(hex: 0x1A1A1A),
         ink:        Color(hex: 0xF5EEDF),
         muted:      Color(hex: 0x9C9284),
         definition: Color(hex: 0xD6CCBA),

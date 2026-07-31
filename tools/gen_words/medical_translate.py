@@ -10,6 +10,6 @@ for c in cand:
     h=tr.translate(c["def"]).strip()
     if not has_dev(h): h=""
     out.append({"term":c["term"],"partOfSpeech":c["pos"],"hindi":h,"definition":c["def"],"example":c["ex"]})
-json.dump(out, open("/Users/hariom/Desktop/MacBee/MacBee/Shared/medical.json","w"),
+json.dump(out, open("/Users/hariom/Desktop/One Word/OneWord/Shared/medical.json","w"),
           ensure_ascii=False, indent=2)
 print(f"DONE {len(out)} -> medical.json ({sum(1 for w in out if w['hindi'])} hindi) in {time.time()-t0:.0f}s")

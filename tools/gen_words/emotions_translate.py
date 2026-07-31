@@ -11,6 +11,6 @@ for i,c in enumerate(cand):
     if not has_dev(h): h=""            # drop non-Hindi results (UI hides empty)
     out.append({"term":c["term"],"partOfSpeech":c["pos"],"hindi":h,
                 "definition":c["def"],"example":c["ex"]})
-json.dump(out, open("/Users/hariom/Desktop/MacBee/MacBee/Shared/emotions.json","w"),
+json.dump(out, open("/Users/hariom/Desktop/One Word/OneWord/Shared/emotions.json","w"),
           ensure_ascii=False, indent=2)
-print(f"DONE {len(out)} emotion words in {time.time()-t0:.0f}s -> MacBee/Shared/emotions.json")
+print(f"DONE {len(out)} emotion words in {time.time()-t0:.0f}s -> OneWord/Shared/emotions.json")

@@ -1,4 +1,4 @@
-# MacBee — Project Context
+# One Word — Project Context
 
 ## What it is
 A macOS app whose main job is a **desktop widget that shows a new word every day**.
@@ -16,32 +16,32 @@ just sits on the Mac's display and rotates daily.
 | UI | SwiftUI |
 | Architecture | MVVM (see [ARCHITECTURE.md](ARCHITECTURE.md)) |
 | Language | Swift 5.0 |
-| Bundle id | `com.hariom.swift.MacBee` |
+| Bundle id | `com.hariom.swift.MacBee` — deliberately kept at the old name; changing it means re-registering the App Group |
 | Min version | TBD — set a real `MACOSX_DEPLOYMENT_TARGET` |
 
 ## Current state (2026-07-25)
 - App retargeted to **macOS** (`SDKROOT = macosx`, `MACOSX_DEPLOYMENT_TARGET = 14.0`).
-- Shared model layer done: `Word` (adds `hindi`), `WordProvider`, `words.json` (`MacBee/Shared/`).
+- Shared model layer done: `Word` (adds `hindi`), `WordProvider`, `words.json` (`OneWord/Shared/`).
 - **`words.json` is a generated ~12k-word set** (WordNet + offline Argos Hindi), not hand-written —
   see [tools/gen_words](tools/gen_words/README.md) to regenerate/expand. `Word.hindi` is the
   Hindi rendering of the *definition* (context makes offline NMT reliable).
-- App UI done: `MacBeeApp` → `WordView` → `WordViewModel` (today's word + Hindi, MVVM).
+- App UI done: `OneWordApp` → `WordView` → `WordViewModel` (today's word + Hindi, MVVM).
 - Browse/search: `WordListView` lists a whole dictionary alphabetically with a toolbar search
-  field; a search button on the today screen opens it. `Wordbook` (`MacBee/Wordbook.swift`) is
+  field; a search button on the today screen opens it. `Wordbook` (`OneWord/Wordbook.swift`) is
   the dictionary registry — four so far: **Everyday English** (`words.json`, 12k),
   **Emotions** (`emotions.json`, ~990), **Philosophy** (`philosophy.json`, ~140) and
   **Medical** (`medical.json`, ~1.7k) — the themed ones are dominant-sense filtered (no
   generic words), all from open WordNet (not the copyrighted books/MedlinePlus). Each
   dictionary has its own word of the day; a toolbar picker switches them.
-- **Widget Extension target `MacBeeWidget` now exists and is live.** Builds green, the
-  `.appex` embeds in the app, and the system registers it (`pluginkit -m | grep MacBee`).
+- **Widget Extension target `OneWordWidget` now exists and is live.** Builds green, the
+  `.appex` embeds in the app, and the system registers it (`pluginkit -m | grep OneWord`).
   Drop it on the desktop via right-click desktop ▸ Edit Widgets ▸ "Word of the Day".
 
 ### Widget: how it's wired
-- Target `MacBeeWidget` (app-extension, bundle id `…MacBee.MacBeeWidget`) added via the
+- Target `OneWordWidget` (app-extension, bundle id `…MacBee.MacBeeWidget`) added via the
   `xcodeproj` Ruby gem, not the Xcode wizard. Its 4 files + the 3 `Shared/` files are its
   members; the `.appex` is embedded via an "Embed Foundation Extensions" copy phase.
-- `MacBeeWidget/Info.plist` carries the `NSExtension → com.apple.widgetkit-extension` dict
+- `OneWordWidget/Info.plist` carries the `NSExtension → com.apple.widgetkit-extension` dict
   (the one thing `GENERATE_INFOPLIST_FILE` can't express).
 - **App Sandbox is required** — a macOS widget won't register without it. Both targets have
   `com.apple.security.app-sandbox` (see `*/…​.entitlements`). This was the non-obvious gotcha.

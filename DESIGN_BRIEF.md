@@ -1,4 +1,4 @@
-# MacBee — UI Design Brief
+# One Word — UI Design Brief
 
 > Paste this whole file into Claude (or any design tool) as context, then ask it to design
 > the screens. It describes what the app is, every screen, the real content, and the
@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **App** | MacBee — a "word a day" vocabulary app |
+| **App** | One Word — a "word a day" vocabulary app |
 | **Platform** | macOS 14+ (Sonoma). Native desktop app **+ a desktop/Notification-Center widget**. |
 | **Tech** | SwiftUI, MVVM (design in SwiftUI-friendly terms — system materials, SF Symbols, toolbars). |
 | **Languages** | Bilingual: **English + Hindi (Devanagari)**. Every word shows a Hindi meaning. |
@@ -33,9 +33,9 @@ room to breathe.
 
 ## 3. Brand direction (open — suggestions only)
 
-- Name **MacBee** evokes a *spelling bee* and a busy, industrious bee. A subtle **bee /
-  honey / hive** motif (warm ambers/golds, hexagons) is one direction; another is a
-  **serif, editorial "dictionary"** feel (cream paper, ink, a fine serif for the headword).
+- Name **One Word** is literal and unhurried — one word, one day, nothing else on screen.
+  A **serif, editorial "dictionary"** feel (cream paper, ink, a fine serif for the headword)
+  is the natural direction; a warmer ambers/golds palette is the other.
 - Needs: an **app icon**, an accent color, a type pairing (a display face for the headword
   + a readable body face + a Devanagari face for Hindi), and a light **+** dark theme.
 

@@ -1,6 +1,6 @@
 # Word data generation
 
-`MacBee/Shared/words.json` (the ~12k word-a-day list) is **generated**, not hand-written.
+`OneWord/Shared/words.json` (the ~12k word-a-day list) is **generated**, not hand-written.
 Source: Princeton **WordNet** (open license) for terms/POS/definitions/examples, filtered to
 a "good vocab" frequency band, with **Hindi** produced offline by **Argos Translate**
 (no API key, nothing from this pipeline ships in the app).
@@ -32,7 +32,7 @@ import json
 d=json.load(open("words.gen.json"))
 for w in d:
     if not any('ऀ'<=c<='ॿ' for c in w["hindi"]): w["hindi"]=""
-json.dump(d, open("../../MacBee/Shared/words.json","w"), ensure_ascii=False, indent=2)
+json.dump(d, open("../../OneWord/Shared/words.json","w"), ensure_ascii=False, indent=2)
 print(len(d), "words written")
 PY
 ```
@@ -49,14 +49,14 @@ pick the domain's WordNet root(s), keep words whose dominant sense sits under th
 
 ```bash
 ./venv/bin/python emotions_extract.py     # -> emotions_candidates.json
-./venv/bin/python emotions_translate.py   # translates + writes ../../MacBee/Shared/emotions.json
+./venv/bin/python emotions_translate.py   # translates + writes ../../OneWord/Shared/emotions.json
 ```
 
 Honest ceiling: with the dominant-sense purity gate, WordNet yields ~990 genuine emotion
 words. There is no set of 5,000 real emotion words — reaching that needs an emotion-*association*
 lexicon (e.g. NRC EmoLex, non-open license) and includes words that merely carry emotional
 connotation. To add a themed dictionary: write an extractor like this, then register a
-`Wordbook(id: "<name>", name: "…")` in `MacBee/Wordbook.swift` (the `id` is the JSON name).
+`Wordbook(id: "<name>", name: "…")` in `OneWord/Wordbook.swift` (the `id` is the JSON name).
 
 ## Knobs (in `extract.py`)
 - `LO, HI` — the wordfreq zipf band (currently `3.0–5.6`): raise `LO` for rarer/harder words,

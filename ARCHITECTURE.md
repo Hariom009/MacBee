@@ -1,4 +1,4 @@
-# MacBee — Architecture
+# One Word — Architecture
 
 MVVM + SwiftUI. The main app and the widget share one data layer; each has its own view /
 view-model surface. See [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) for what/why.
@@ -79,8 +79,8 @@ date→word mapping (boundaries: day rollover, list wrap-around) without WidgetK
 
 ## Suggested layout
 ```
-MacBee/
-  App/            MacBeeApp.swift, WordView.swift, WordListView.swift, WordViewModel.swift
+OneWord/
+  App/            OneWordApp.swift, WordView.swift, WordListView.swift, WordViewModel.swift
   Shared/         Word.swift, WordProvider.swift, words.json      (member of both targets)
   Widget/         WordWidget.swift, WordTimelineProvider.swift, WordWidgetView.swift
 ```
